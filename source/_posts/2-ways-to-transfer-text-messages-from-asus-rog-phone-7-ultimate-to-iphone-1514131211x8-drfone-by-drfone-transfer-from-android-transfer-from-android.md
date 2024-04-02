@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Transfer Text Messages from Asus ROG Phone 7 Ultimate to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-03-31T12:22:29.271Z
-updated: 2024-04-01T12:22:29.271Z
+date: 2024-04-01T12:03:06.366Z
+updated: 2024-04-02T12:03:06.366Z
 tags: 
   - transfer
 categories:

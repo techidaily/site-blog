@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Transfer Text Messages from Honor 100 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-03-31T12:22:29.274Z
-updated: 2024-04-01T12:22:29.274Z
+date: 2024-04-01T12:03:06.388Z
+updated: 2024-04-02T12:03:06.388Z
 tags: 
   - transfer
 categories:
