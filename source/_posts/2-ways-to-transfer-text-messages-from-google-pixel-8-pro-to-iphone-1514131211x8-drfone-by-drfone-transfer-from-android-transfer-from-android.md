@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Transfer Text Messages from Google Pixel 8 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-01T12:03:06.382Z
-updated: 2024-04-02T12:03:06.382Z
+date: 2024-04-01T12:42:03.239Z
+updated: 2024-04-02T12:42:03.239Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Transfer Text Messages from Honor Magic 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-01T12:03:06.398Z
-updated: 2024-04-02T12:03:06.398Z
+date: 2024-04-01T12:42:03.244Z
+updated: 2024-04-02T12:42:03.244Z
 tags: 
   - transfer
 categories:
