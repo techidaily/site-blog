@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Smart 8 Pro using Video Repair Utility on Windows?
-date: 2024-04-07T17:07:58.295Z
+date: 2024-04-09T02:10:37.675Z
 tags: 
   - repair
 categories: 

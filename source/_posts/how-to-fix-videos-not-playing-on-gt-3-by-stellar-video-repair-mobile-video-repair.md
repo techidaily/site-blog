@@ -1,6 +1,6 @@
 ---
 title: How to Fix Videos Not Playing on GT 3?
-date: 2024-04-07T17:07:58.343Z
+date: 2024-04-09T02:10:37.707Z
 tags: 
   - repair
 categories: 

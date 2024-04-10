@@ -1,7 +1,7 @@
 ---
 title: How to Fix corrupt video files of Samsung Galaxy XCover 7 using Video Repair Utility on Mac?
-date: 2024-04-07T17:07:58.291Z
-updated: 2024-04-08T17:07:58.291Z
+date: 2024-04-09T02:10:37.673Z
+updated: 2024-04-10T02:10:37.673Z
 tags: 
   - repair
 categories: 

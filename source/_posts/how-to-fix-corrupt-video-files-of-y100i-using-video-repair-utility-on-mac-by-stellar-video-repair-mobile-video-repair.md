@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Y100i using Video Repair Utility on Mac?
-date: 2024-04-07T17:07:58.336Z
+date: 2024-04-09T02:10:37.701Z
 tags: 
   - repair
 categories: 

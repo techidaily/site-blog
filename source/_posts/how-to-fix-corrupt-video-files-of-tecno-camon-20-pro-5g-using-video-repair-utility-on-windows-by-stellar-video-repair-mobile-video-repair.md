@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Tecno Camon 20 Pro 5G using Video Repair Utility on Windows?
-date: 2024-04-07T17:07:58.306Z
+date: 2024-04-09T02:10:37.678Z
 tags: 
   - repair
 categories: 

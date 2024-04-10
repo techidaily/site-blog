@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Motorola Moto G24 using Video Repair Utility on Windows?
-date: 2024-04-07T17:07:58.248Z
+date: 2024-04-09T02:10:37.642Z
 tags: 
   - repair
 categories: 

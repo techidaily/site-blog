@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Samsung Galaxy A05s using Video Repair Utility on Mac?
-date: 2024-04-07T17:07:58.287Z
+date: 2024-04-09T02:10:37.671Z
 tags: 
   - repair
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix corrupt video files of Blaze 2 Pro using Video Repair Utility on Mac?
-date: 2024-04-07T17:07:58.222Z
-updated: 2024-04-08T17:07:58.222Z
+date: 2024-04-09T02:10:37.618Z
+updated: 2024-04-10T02:10:37.618Z
 tags: 
   - repair
 categories: 

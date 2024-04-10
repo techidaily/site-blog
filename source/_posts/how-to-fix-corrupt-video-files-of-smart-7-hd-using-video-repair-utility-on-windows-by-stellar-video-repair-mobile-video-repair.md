@@ -1,7 +1,7 @@
 ---
 title: How to Fix corrupt video files of Smart 7 HD using Video Repair Utility on Windows?
-date: 2024-04-07T17:07:58.294Z
-updated: 2024-04-08T17:07:58.294Z
+date: 2024-04-09T02:10:37.675Z
+updated: 2024-04-10T02:10:37.675Z
 tags: 
   - repair
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix corrupt video files of Vivo T2 5G using Video Repair Utility on Windows?
-date: 2024-04-07T17:07:58.312Z
-updated: 2024-04-08T17:07:58.312Z
+date: 2024-04-09T02:10:37.682Z
+updated: 2024-04-10T02:10:37.682Z
 tags: 
   - repair
 categories: 

@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Vivo S17t using Video Repair Utility on Mac?
-date: 2024-04-07T17:07:58.311Z
+date: 2024-04-09T02:10:37.681Z
 tags: 
   - repair
 categories: 

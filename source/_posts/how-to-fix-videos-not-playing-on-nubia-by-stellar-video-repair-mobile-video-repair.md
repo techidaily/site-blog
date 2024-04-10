@@ -1,7 +1,7 @@
 ---
 title: How to Fix Videos Not Playing on Nubia ?
-date: 2024-04-07T17:07:58.352Z
-updated: 2024-04-08T17:07:58.352Z
+date: 2024-04-09T02:10:37.716Z
+updated: 2024-04-10T02:10:37.716Z
 tags: 
   - repair
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix corrupt video files of Oppo Find X7 Ultra using Video Repair Utility on Mac?
-date: 2024-04-07T17:07:58.271Z
-updated: 2024-04-08T17:07:58.271Z
+date: 2024-04-09T02:10:37.656Z
+updated: 2024-04-10T02:10:37.656Z
 tags: 
   - repair
 categories: 
