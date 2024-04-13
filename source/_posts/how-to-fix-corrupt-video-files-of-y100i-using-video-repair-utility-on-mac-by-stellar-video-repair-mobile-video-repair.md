@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Y100i using Video Repair Utility on Mac?
-date: 2024-04-09T02:10:37.701Z
+date: 2024-04-12T01:53:30.611Z
 tags: 
   - repair
 categories: 
@@ -173,3 +173,9 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-6-without-a-passcode-by-drfone-ios/" ><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 6 Without a Passcode</u></a></li>
 <li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s17t-drfone-by-drfone-virtual-android/" ><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S17t | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

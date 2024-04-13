@@ -286,6 +286,12 @@ As you see, apart from exporting Android contacts to Outlook, you can also copy 
 
 Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

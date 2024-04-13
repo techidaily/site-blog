@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Vivo Y36 using Video Repair Utility on Mac?
-date: 2024-04-09T02:10:37.687Z
+date: 2024-04-12T01:53:30.571Z
 tags: 
   - repair
 categories: 
@@ -180,3 +180,9 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/calls-on-oppo-a18-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Calls on Oppo A18 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-proplus-5g-users-by-drfone-android/" ><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro+ 5G Users</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

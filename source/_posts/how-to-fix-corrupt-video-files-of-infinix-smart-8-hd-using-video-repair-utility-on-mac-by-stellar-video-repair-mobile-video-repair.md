@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Infinix Smart 8 HD using Video Repair Utility on Mac?
-date: 2024-04-09T02:10:37.637Z
+date: 2024-04-12T01:53:30.493Z
 tags: 
   - repair
 categories: 
@@ -153,3 +153,9 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-u23-by-aiseesoft-video-converter-play-mkv-on-android/" ><u>How to solve MKV lagging problem in U23?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-itel-a70-by-stellar-photo-recovery-android-mobile-photo-recover/" ><u>How to Retrieve  deleted photos on Itel A70</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

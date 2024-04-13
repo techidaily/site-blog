@@ -1,7 +1,7 @@
 ---
 title: How to Fix Videos Not Playing on 11R?
-date: 2024-04-09T02:10:37.704Z
-updated: 2024-04-10T02:10:37.704Z
+date: 2024-04-12T01:53:30.654Z
+updated: 2024-04-13T01:53:30.654Z
 tags: 
   - repair
 categories: 
@@ -167,3 +167,9 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-with-a-mask-on-drfone-by-drfone-ios/" ><u>In 2024, How to Unlock iPhone 14 Pro with a Mask On | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nubia-red-magic-9-pro-fingerprint-not-working-solutions-by-drfone-android/" ><u>Top 12 Prominent Nubia Red Magic 9 Pro Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>
