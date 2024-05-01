@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Vivo Y100A
-date: 2024-04-12T01:54:40.796Z
+date: 2024-04-30T01:35:31.420Z
 tags: 
   - recover
 categories: 
@@ -299,3 +299,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-gt-neo-5-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme GT Neo 5 to New Android? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
+

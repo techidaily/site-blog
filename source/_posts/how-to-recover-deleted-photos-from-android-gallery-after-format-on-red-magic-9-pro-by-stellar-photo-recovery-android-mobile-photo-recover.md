@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Red Magic 9 Pro
-date: 2024-04-12T01:54:35.711Z
+date: 2024-04-30T01:35:31.383Z
 tags: 
   - recover
 categories: 
@@ -288,3 +288,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-poco-c55-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Poco C55</u></a></li>
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-reno-11f-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Reno 11F 5G Location Settings | Dr.fone</u></a></li>
 </ul></div>
+

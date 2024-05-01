@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on 13T?
-date: 2024-04-12T01:53:54.734Z
+date: 2024-04-30T01:35:30.950Z
 tags: 
   - hevc video
   - hevc android
@@ -157,3 +157,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-meizu-21-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Meizu 21 to PC? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v30-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V30 Device</u></a></li>
 </ul></div>
+

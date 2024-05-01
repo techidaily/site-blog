@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on Redmi Note 12R?
-date: 2024-04-12T01:53:52.174Z
+date: 2024-04-30T01:35:30.932Z
 tags: 
   - mts video
   - mts android
@@ -167,3 +167,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-google-pixel-8-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Google Pixel 8 Pro Screen | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-razr-40-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Razr 40 Ultra by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+

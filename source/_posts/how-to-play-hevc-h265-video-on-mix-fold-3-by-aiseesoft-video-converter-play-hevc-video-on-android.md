@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Mix Fold 3?
-date: 2024-04-12T01:54:05.440Z
+date: 2024-04-30T01:35:31.033Z
 tags: 
   - hevc video
   - hevc android
@@ -181,3 +181,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-8-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 8 Plus Making It Possible</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
 </ul></div>
+

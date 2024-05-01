@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Realme C53?
-date: 2024-04-12T01:53:36.487Z
+date: 2024-04-30T01:35:30.774Z
 tags: 
   - repair
 categories: 
@@ -195,3 +195,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/recover-apple-iphone-6-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Plus Data From iOS iTunes Backup | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify some outdated your drivers with Windows Device Manager in Windows 7</u></a></li>
 </ul></div>
+

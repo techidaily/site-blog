@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Nubia
-date: 2024-04-12T01:54:31.402Z
+date: 2024-04-30T01:35:31.331Z
 tags: 
   - recover
 categories: 
@@ -264,3 +264,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-v30-lite-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo V30 Lite 5G FRP Locks</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+

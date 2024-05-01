@@ -323,3 +323,4 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-huawei-nova-y71-by-fonelab-android-recover-photos/" ><u>How to recover deleted photos from Huawei Nova Y71.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-hot-40i-by-fonelab-android-recover-photos/" ><u>How to recover deleted photos from Infinix Hot 40i.</u></a></li>
 </ul></div>
+

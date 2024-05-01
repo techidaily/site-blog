@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Red Magic 9 Pro+?
-date: 2024-04-12T01:53:37.258Z
+date: 2024-04-30T01:35:30.779Z
 tags: 
   - repair
 categories: 
@@ -191,3 +191,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-zte-nubia-flip-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your ZTE Nubia Flip 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+

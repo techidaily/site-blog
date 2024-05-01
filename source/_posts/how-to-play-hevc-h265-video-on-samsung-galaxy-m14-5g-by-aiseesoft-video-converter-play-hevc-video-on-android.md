@@ -1,7 +1,7 @@
 ---
 title: How to play HEVC H.265 video on Samsung Galaxy M14 5G?
-date: 2024-04-12T01:54:05.997Z
-updated: 2024-04-13T01:54:05.997Z
+date: 2024-04-30T01:35:31.036Z
+updated: 2024-05-01T01:35:31.036Z
 tags: 
   - hevc video
   - hevc android
@@ -227,3 +227,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-find-x7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo Find X7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+

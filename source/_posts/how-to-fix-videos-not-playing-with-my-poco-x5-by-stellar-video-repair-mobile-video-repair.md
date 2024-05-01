@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Poco X5?
-date: 2024-04-12T01:53:36.203Z
+date: 2024-04-30T01:35:30.773Z
 tags: 
   - repair
 categories: 
@@ -220,3 +220,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-s23-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy S23 Easily?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme GT 5 Pro?</u></a></li>
 </ul></div>
+

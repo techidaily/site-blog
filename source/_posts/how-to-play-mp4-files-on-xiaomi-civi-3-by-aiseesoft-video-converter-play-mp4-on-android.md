@@ -1,6 +1,6 @@
 ---
 title: How to play MP4 files on Xiaomi Civi 3?
-date: 2024-04-12T01:54:17.838Z
+date: 2024-04-30T01:35:31.145Z
 tags: 
   - mp4 video
   - mp4 android
@@ -185,3 +185,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-reno-8t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+

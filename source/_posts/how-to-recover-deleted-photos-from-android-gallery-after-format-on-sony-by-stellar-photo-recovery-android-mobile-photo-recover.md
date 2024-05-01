@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Sony
-date: 2024-04-12T01:54:38.084Z
-updated: 2024-04-13T01:54:38.084Z
+date: 2024-04-30T01:35:31.402Z
+updated: 2024-05-01T01:35:31.402Z
 tags: 
   - recover
 categories: 
@@ -291,3 +291,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/xiaomi-redmi-12-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Redmi 12 support - Turn Off Screen Lock.</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi 13C 5G</u></a></li>
 </ul></div>
+

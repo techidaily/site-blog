@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Moto G04?
-date: 2024-04-12T01:53:59.743Z
+date: 2024-04-30T01:35:30.983Z
 tags: 
   - hevc video
   - hevc android
@@ -190,3 +190,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-poco-f5-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Poco F5 5G Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m54-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M54 5G Devices</u></a></li>
 </ul></div>
+

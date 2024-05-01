@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Vivo Y36i?
-date: 2024-04-12T01:53:38.110Z
+date: 2024-04-30T01:35:30.784Z
 tags: 
   - repair
 categories: 
@@ -215,3 +215,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/top-iphone-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone Message Recovery Software | Stellar</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Edge 40?
-date: 2024-04-12T01:53:55.439Z
+date: 2024-04-30T01:35:30.955Z
 tags: 
   - hevc video
   - hevc android
@@ -167,3 +167,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-c55-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme C55</u></a></li>
 </ul></div>
+

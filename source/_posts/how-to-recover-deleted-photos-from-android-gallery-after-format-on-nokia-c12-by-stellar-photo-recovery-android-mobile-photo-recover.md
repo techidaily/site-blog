@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Nokia C12
-date: 2024-04-12T01:54:30.422Z
+date: 2024-04-30T01:35:31.319Z
 tags: 
   - recover
 categories: 
@@ -256,3 +256,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-a54-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy A54 5G for Free? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-poco-c51-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Poco C51 Data? | Dr.fone</u></a></li>
 </ul></div>
+

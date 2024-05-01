@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Magic 6 Lite?
-date: 2024-04-12T01:53:34.935Z
+date: 2024-04-30T01:35:30.763Z
 tags: 
   - repair
 categories: 
@@ -170,3 +170,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-reno-9a-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Reno 9A Devices</u></a></li>
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-narzo-60-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme Narzo 60 5G in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+

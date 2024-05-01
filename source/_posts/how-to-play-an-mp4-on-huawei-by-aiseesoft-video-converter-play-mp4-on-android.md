@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Huawei ?
-date: 2024-04-12T01:53:42.006Z
+date: 2024-04-30T01:35:30.849Z
 tags: 
   - mp4 video
   - mp4 android
@@ -160,3 +160,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-v30-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme V30 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi 13T | Dr.fone</u></a></li>
 </ul></div>
+

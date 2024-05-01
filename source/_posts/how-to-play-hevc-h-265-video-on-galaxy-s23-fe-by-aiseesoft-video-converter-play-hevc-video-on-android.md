@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy S23 FE?
-date: 2024-04-12T01:53:56.557Z
+date: 2024-04-30T01:35:30.962Z
 tags: 
   - hevc video
   - hevc android
@@ -179,3 +179,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y100-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y100 5G Phone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Reno 9A? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on ZTE Blade A73 5G
-date: 2024-04-12T01:54:44.679Z
+date: 2024-04-30T01:35:31.447Z
 tags: 
   - recover
 categories: 
@@ -272,3 +272,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Google Pixel 8 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-m6-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco M6 Pro 5G</u></a></li>
 </ul></div>
+

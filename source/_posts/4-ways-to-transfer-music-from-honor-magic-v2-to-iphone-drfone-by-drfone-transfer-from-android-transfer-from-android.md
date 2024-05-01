@@ -476,3 +476,4 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-infinix-note-30-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/" ><u>How to Repair a Damaged video file of Infinix Note 30 5G using Video Repair Utility on Windows?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oneplus-by-stellar-video-repair-mobile-video-repair/" ><u>How to Repair a Damaged video file of OnePlus ?</u></a></li>
 </ul></div>
+

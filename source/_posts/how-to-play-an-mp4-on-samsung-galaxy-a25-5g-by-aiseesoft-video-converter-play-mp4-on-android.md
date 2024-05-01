@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Samsung Galaxy A25 5G?
-date: 2024-04-12T01:53:45.035Z
+date: 2024-04-30T01:35:30.867Z
 tags: 
   - mp4 video
   - mp4 android
@@ -195,3 +195,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Sony Xperia 5 V</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-gionee-f3-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Gionee F3 Pro phone? | Dr.fone</u></a></li>
 </ul></div>
+

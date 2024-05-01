@@ -1,7 +1,7 @@
 ---
 title: How to Fix Videos Not Playing on Infinix ?
-date: 2024-04-12T01:53:30.666Z
-updated: 2024-04-13T01:53:30.666Z
+date: 2024-04-30T01:35:30.649Z
+updated: 2024-05-01T01:35:30.649Z
 tags: 
   - repair
 categories: 
@@ -170,3 +170,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+

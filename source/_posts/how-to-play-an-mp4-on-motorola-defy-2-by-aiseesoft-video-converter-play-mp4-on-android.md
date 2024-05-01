@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Motorola Defy 2?
-date: 2024-04-12T01:53:43.003Z
+date: 2024-04-30T01:35:30.855Z
 tags: 
   - mp4 video
   - mp4 android
@@ -171,3 +171,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone XS Without Passcode? 4 Easy Methods</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-ace-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Ace 2 FRP Bypass</u></a></li>
 </ul></div>
+

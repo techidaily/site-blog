@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Huawei Nova Y91
-date: 2024-04-12T01:54:24.810Z
-updated: 2024-04-13T01:54:24.810Z
+date: 2024-04-30T01:35:31.246Z
+updated: 2024-05-01T01:35:31.246Z
 tags: 
   - recover
 categories: 
@@ -267,3 +267,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-13-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 13 Pro Without iTunes in 5 Ways</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-14-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 14 Plus? How to Fix it?</u></a></li>
 </ul></div>
+

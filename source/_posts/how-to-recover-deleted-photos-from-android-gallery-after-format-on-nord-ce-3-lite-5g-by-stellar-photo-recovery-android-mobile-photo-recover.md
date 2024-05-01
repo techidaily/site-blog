@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Nord CE 3 Lite 5G
-date: 2024-04-12T01:54:31.263Z
+date: 2024-04-30T01:35:31.329Z
 tags: 
   - recover
 categories: 
@@ -277,3 +277,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 12</u></a></li>
 </ul></div>
+

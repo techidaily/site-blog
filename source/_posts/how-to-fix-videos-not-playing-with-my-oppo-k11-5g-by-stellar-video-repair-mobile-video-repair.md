@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Oppo K11 5G?
-date: 2024-04-12T01:53:35.920Z
+date: 2024-04-30T01:35:30.771Z
 tags: 
   - repair
 categories: 
@@ -206,3 +206,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-6s-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 6s to other iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V30 Lite 5G</u></a></li>
 </ul></div>
+

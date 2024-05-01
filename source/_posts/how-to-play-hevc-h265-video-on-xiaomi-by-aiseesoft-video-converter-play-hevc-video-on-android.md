@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Xiaomi ?
-date: 2024-04-12T01:54:06.414Z
+date: 2024-04-30T01:35:31.037Z
 tags: 
   - hevc video
   - hevc android
@@ -212,3 +212,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v29e-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V29e Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+

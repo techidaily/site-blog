@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Edge 40?
-date: 2024-04-12T01:53:58.710Z
+date: 2024-04-30T01:35:30.976Z
 tags: 
   - hevc video
   - hevc android
@@ -216,3 +216,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme GT 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-poco-c51-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Poco C51 Phone? | Dr.fone</u></a></li>
 </ul></div>
+

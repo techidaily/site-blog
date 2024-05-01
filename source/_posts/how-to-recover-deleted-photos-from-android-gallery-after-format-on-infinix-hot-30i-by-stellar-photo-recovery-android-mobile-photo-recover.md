@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Infinix Hot 30i
-date: 2024-04-12T01:54:25.238Z
+date: 2024-04-30T01:35:31.249Z
 tags: 
   - recover
 categories: 
@@ -264,3 +264,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 12 mini/iPad | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-70-lite-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor 70 Lite 5G to New Android? | Dr.fone</u></a></li>
 </ul></div>
+

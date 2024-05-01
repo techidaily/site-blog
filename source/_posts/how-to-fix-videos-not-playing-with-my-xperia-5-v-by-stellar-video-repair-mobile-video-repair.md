@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Xperia 5 V?
-date: 2024-04-12T01:53:38.537Z
+date: 2024-04-30T01:35:30.786Z
 tags: 
   - repair
 categories: 
@@ -186,3 +186,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-spark-20-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Spark 20 Pro without backup.</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A25 5G?</u></a></li>
 </ul></div>
+

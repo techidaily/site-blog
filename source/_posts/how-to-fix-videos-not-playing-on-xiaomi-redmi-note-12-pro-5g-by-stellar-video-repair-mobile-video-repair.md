@@ -1,7 +1,7 @@
 ---
 title: How to Fix Videos Not Playing on Xiaomi Redmi Note 12 Pro 5G?
-date: 2024-04-12T01:53:33.081Z
-updated: 2024-04-13T01:53:33.081Z
+date: 2024-04-30T01:35:30.722Z
+updated: 2024-05-01T01:35:30.722Z
 tags: 
   - repair
 categories: 
@@ -198,3 +198,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-huawei-nova-y91-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Huawei Nova Y91? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS iOS? | Dr.fone</u></a></li>
 </ul></div>
+

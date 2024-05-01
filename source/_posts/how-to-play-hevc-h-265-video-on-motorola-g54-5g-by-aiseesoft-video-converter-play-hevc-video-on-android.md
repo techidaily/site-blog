@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola G54 5G?
-date: 2024-04-12T01:53:59.308Z
+date: 2024-04-30T01:35:30.980Z
 tags: 
   - hevc video
   - hevc android
@@ -178,3 +178,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a1-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A1 5G to iPad | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 </ul></div>
+

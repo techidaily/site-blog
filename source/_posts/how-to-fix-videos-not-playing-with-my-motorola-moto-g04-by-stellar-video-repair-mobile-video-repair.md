@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Motorola Moto G04?
-date: 2024-04-12T01:53:35.075Z
+date: 2024-04-30T01:35:30.764Z
 tags: 
   - repair
 categories: 
@@ -264,3 +264,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-redmi-note-13-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi Redmi Note 13 Pro 5G Phone When You Forget the Password</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-7-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 7 Is Unlocked</u></a></li>
 </ul></div>
+

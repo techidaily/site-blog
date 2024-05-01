@@ -1,7 +1,7 @@
 ---
 title: How to fix videos not playing with my Galaxy S23?
-date: 2024-04-12T01:53:33.652Z
-updated: 2024-04-13T01:53:33.652Z
+date: 2024-04-30T01:35:30.753Z
+updated: 2024-05-01T01:35:30.753Z
 tags: 
   - repair
 categories: 
@@ -223,3 +223,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-xr-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone XR to TV/Laptop? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Sony Xperia 5 V? | Dr.fone</u></a></li>
 </ul></div>
+

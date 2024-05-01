@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Huawei ?
-date: 2024-04-12T01:53:57.558Z
+date: 2024-04-30T01:35:30.969Z
 tags: 
   - hevc video
   - hevc android
@@ -186,3 +186,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Google Pixel Fold | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-hot-30-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Hot 30 5G Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+

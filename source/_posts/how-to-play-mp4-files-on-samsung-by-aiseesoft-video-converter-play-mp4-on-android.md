@@ -1,6 +1,6 @@
 ---
 title: How to play MP4 files on Samsung ?
-date: 2024-04-12T01:54:15.732Z
+date: 2024-04-30T01:35:31.135Z
 tags: 
   - mp4 video
   - mp4 android
@@ -195,3 +195,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-note-12-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi Note 12 4G to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-zte-blade-a73-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on ZTE Blade A73 5G?</u></a></li>
 </ul></div>
+

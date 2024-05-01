@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Moto G14 ?
-date: 2024-04-12T01:54:08.787Z
+date: 2024-04-30T01:35:31.090Z
 tags: 
   - mov video
   - mov android
@@ -170,3 +170,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-x5-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco X5 Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia FRP?</u></a></li>
 </ul></div>
+

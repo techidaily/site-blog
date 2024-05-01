@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Civi 3 ?
-date: 2024-04-12T01:54:07.252Z
+date: 2024-04-30T01:35:31.078Z
 tags: 
   - mov video
   - mov android
@@ -191,3 +191,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-f5-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco F5 Pro 5G Pattern Lock Screen</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+

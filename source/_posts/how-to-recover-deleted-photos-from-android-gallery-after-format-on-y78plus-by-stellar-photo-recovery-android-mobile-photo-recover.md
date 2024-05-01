@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Y78+
-date: 2024-04-12T01:54:44.512Z
-updated: 2024-04-13T01:54:44.512Z
+date: 2024-04-30T01:35:31.447Z
+updated: 2024-05-01T01:35:31.447Z
 tags: 
   - recover
 categories: 
@@ -271,3 +271,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+

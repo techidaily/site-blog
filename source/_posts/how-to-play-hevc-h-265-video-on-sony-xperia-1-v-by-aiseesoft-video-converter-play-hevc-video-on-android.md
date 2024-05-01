@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Sony Xperia 1 V?
-date: 2024-04-12T01:54:02.590Z
+date: 2024-04-30T01:35:31.012Z
 tags: 
   - hevc video
   - hevc android
@@ -211,3 +211,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Samsung Galaxy S23+</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
+

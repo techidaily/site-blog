@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Honor 100 Pro
-date: 2024-04-12T01:54:48.599Z
+date: 2024-04-30T01:35:31.483Z
 tags: 
   - recover
 categories: 
@@ -287,3 +287,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/fix-poco-c55-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco C55 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-edge-40-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Edge 40 FRP Bypass</u></a></li>
 </ul></div>
+

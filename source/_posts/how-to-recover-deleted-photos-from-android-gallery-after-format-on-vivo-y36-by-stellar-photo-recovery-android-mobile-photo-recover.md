@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Vivo Y36
-date: 2024-04-12T01:54:41.545Z
+date: 2024-04-30T01:35:31.426Z
 tags: 
   - recover
 categories: 
@@ -240,3 +240,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-se-2022-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone SE (2022) for Free</u></a></li>
 </ul></div>
+

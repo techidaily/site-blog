@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Nokia C12?
-date: 2024-04-12T01:53:35.498Z
+date: 2024-04-30T01:35:30.768Z
 tags: 
   - repair
 categories: 
@@ -210,3 +210,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a05-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A05 To Phone | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo Reno 8T? | Dr.fone</u></a></li>
 </ul></div>
+

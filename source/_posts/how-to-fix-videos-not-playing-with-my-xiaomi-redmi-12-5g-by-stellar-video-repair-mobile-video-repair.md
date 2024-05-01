@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Xiaomi Redmi 12 5G?
-date: 2024-04-12T01:53:38.250Z
+date: 2024-04-30T01:35:30.785Z
 tags: 
   - repair
 categories: 
@@ -197,3 +197,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia C210 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-40-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 40 Pro Devices</u></a></li>
 </ul></div>
+

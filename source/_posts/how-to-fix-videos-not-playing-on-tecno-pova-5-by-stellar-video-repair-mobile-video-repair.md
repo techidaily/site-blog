@@ -1,6 +1,6 @@
 ---
 title: How to Fix Videos Not Playing on Tecno Pova 5?
-date: 2024-04-12T01:53:32.055Z
+date: 2024-04-30T01:35:30.686Z
 tags: 
   - repair
 categories: 
@@ -284,3 +284,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-plus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 Plus in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-s18-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo S18</u></a></li>
 </ul></div>
+

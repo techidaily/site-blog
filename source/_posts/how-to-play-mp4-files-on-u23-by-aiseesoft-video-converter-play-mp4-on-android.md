@@ -1,6 +1,6 @@
 ---
 title: How to play MP4 files on U23?
-date: 2024-04-12T01:54:17.143Z
+date: 2024-04-30T01:35:31.142Z
 tags: 
   - mp4 video
   - mp4 android
@@ -171,3 +171,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-note-30-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Note 30 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-20-proplus-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark 20 Pro+ to Mac? | Dr.fone</u></a></li>
 </ul></div>
+

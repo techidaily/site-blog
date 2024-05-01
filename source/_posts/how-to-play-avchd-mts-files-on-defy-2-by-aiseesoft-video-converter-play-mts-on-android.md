@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on Defy 2?
-date: 2024-04-12T01:53:48.256Z
+date: 2024-04-30T01:35:30.903Z
 tags: 
   - mts video
   - mts android
@@ -159,3 +159,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-tecno-spark-10c-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Tecno Spark 10C to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-s24plus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy S24+ Phone Screen?</u></a></li>
 </ul></div>
+

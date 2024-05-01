@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Xiaomi 13T?
-date: 2024-04-12T01:54:03.012Z
+date: 2024-04-30T01:35:31.016Z
 tags: 
   - hevc video
   - hevc android
@@ -184,3 +184,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Passcode Screen? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-m14-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy M14 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+

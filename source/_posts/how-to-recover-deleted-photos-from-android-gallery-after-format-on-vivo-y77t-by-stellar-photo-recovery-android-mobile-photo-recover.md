@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Vivo Y77t
-date: 2024-04-12T01:54:41.823Z
+date: 2024-04-30T01:35:31.428Z
 tags: 
   - recover
 categories: 
@@ -255,3 +255,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2016-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2016</u></a></li>
 </ul></div>
+

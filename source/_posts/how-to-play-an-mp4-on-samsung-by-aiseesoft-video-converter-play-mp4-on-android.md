@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Samsung ?
-date: 2024-04-12T01:53:44.614Z
+date: 2024-04-30T01:35:30.865Z
 tags: 
   - mp4 video
   - mp4 android
@@ -178,3 +178,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y100i-power-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y100i Power 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 13 Pro</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Honor 90 GT
-date: 2024-04-12T01:54:23.795Z
+date: 2024-04-30T01:35:31.238Z
 tags: 
   - recover
 categories: 
@@ -245,3 +245,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-s18e-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo S18e</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-vivo-v27-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo V27 Pro Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on 13 Ultra
-date: 2024-04-12T01:54:18.976Z
+date: 2024-04-30T01:35:31.199Z
 tags: 
   - recover
 categories: 
@@ -278,3 +278,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Phone without Any Data Loss</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor 90 Lite? | Dr.fone</u></a></li>
 </ul></div>
+

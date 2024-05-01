@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on HTC U23 Pro?
-date: 2024-04-12T01:53:57.405Z
+date: 2024-04-30T01:35:30.968Z
 tags: 
   - hevc video
   - hevc android
@@ -174,3 +174,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-zero-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Zero 30 5G without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-narzo-n55-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme Narzo N55 Unlock Without Password</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Videos Not Playing on S18?
-date: 2024-04-12T01:53:31.751Z
-updated: 2024-04-13T01:53:31.751Z
+date: 2024-04-30T01:35:30.684Z
+updated: 2024-05-01T01:35:30.684Z
 tags: 
   - repair
 categories: 
@@ -208,3 +208,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-p40plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel P40+ Users</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi A2+ Phone</u></a></li>
 </ul></div>
+

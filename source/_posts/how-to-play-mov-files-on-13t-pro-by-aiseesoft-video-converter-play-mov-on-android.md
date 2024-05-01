@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on 13T Pro ?
-date: 2024-04-12T01:54:06.970Z
+date: 2024-04-30T01:35:31.051Z
 tags: 
   - mov video
   - mov android
@@ -169,3 +169,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-x100-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo X100</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+

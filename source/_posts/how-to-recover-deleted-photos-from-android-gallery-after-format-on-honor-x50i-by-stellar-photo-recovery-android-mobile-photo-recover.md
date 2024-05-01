@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Honor X50i
-date: 2024-04-12T01:54:24.527Z
+date: 2024-04-30T01:35:31.244Z
 tags: 
   - recover
 categories: 
@@ -241,3 +241,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-hot-40-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Hot 40.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Samsung Galaxy F14 5G?
-date: 2024-04-12T01:53:37.401Z
+date: 2024-04-30T01:35:30.780Z
 tags: 
   - repair
 categories: 
@@ -263,3 +263,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y36i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y36i Phone? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-note-30-vip-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Note 30 VIP Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Realme ?
-date: 2024-04-12T01:53:36.344Z
+date: 2024-04-30T01:35:30.773Z
 tags: 
   - repair
 categories: 
@@ -190,3 +190,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/how-do-i-reset-my-lava-yuva-3-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Yuva 3 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-5-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor Magic 5 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+

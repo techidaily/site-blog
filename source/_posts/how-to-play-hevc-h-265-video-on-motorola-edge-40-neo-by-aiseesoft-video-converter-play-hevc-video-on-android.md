@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Edge 40 Neo?
-date: 2024-04-12T01:53:58.858Z
+date: 2024-04-30T01:35:30.977Z
 tags: 
   - hevc video
   - hevc android
@@ -169,3 +169,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-x-fold-2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo X Fold 2 FRP In 3 Different Ways</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-pova-5-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Pova 5 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+

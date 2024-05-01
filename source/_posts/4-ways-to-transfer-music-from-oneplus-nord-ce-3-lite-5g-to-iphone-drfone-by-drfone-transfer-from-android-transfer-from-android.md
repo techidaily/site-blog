@@ -519,3 +519,4 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-a05-by-aiseesoft-video-converter-play-mts-on-android/" ><u>How to play AVCHD MTS files on Galaxy A05?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-honor-90-gt-by-stellar-photo-recovery-android-mobile-photo-recover/" ><u>How to Retrieve deleted photos on Honor 90 GT</u></a></li>
 </ul></div>
+

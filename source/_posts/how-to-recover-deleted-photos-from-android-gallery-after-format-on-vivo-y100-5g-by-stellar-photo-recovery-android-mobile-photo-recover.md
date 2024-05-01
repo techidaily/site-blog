@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Vivo Y100 5G
-date: 2024-04-12T01:54:40.518Z
+date: 2024-04-30T01:35:31.418Z
 tags: 
   - recover
 categories: 
@@ -258,3 +258,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Smart 7 HD</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme Note 50 | Dr.fone</u></a></li>
 </ul></div>
+

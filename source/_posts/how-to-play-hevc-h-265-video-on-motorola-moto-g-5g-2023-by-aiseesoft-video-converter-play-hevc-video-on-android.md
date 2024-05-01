@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Moto G 5G (2023)?
-date: 2024-04-12T01:53:59.452Z
+date: 2024-04-30T01:35:30.981Z
 tags: 
   - hevc video
   - hevc android
@@ -206,3 +206,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y02t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y02T Pattern Lock Screen</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
+

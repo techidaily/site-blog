@@ -1,7 +1,7 @@
 ---
 title: How to play HEVC H.265 video on Sony ?
-date: 2024-04-12T01:54:06.274Z
-updated: 2024-04-13T01:54:06.274Z
+date: 2024-04-30T01:35:31.037Z
+updated: 2024-05-01T01:35:31.037Z
 tags: 
   - hevc video
   - hevc android
@@ -167,3 +167,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo F25 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-15-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 Plus without Passcode or Face ID</u></a></li>
 </ul></div>
+

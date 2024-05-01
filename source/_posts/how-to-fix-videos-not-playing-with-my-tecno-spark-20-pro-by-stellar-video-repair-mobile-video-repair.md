@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Tecno Spark 20 Pro?
-date: 2024-04-12T01:53:37.687Z
+date: 2024-04-30T01:35:30.781Z
 tags: 
   - repair
 categories: 
@@ -199,3 +199,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g14-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G14 to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-hot-40i-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
+

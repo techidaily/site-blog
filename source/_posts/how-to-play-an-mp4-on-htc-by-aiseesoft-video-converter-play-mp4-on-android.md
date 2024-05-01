@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on HTC ?
-date: 2024-04-12T01:53:41.866Z
+date: 2024-04-30T01:35:30.848Z
 tags: 
   - mp4 video
   - mp4 android
@@ -164,3 +164,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 11 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-xiaomi-13t-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Xiaomi 13T password or pattern lock</u></a></li>
 </ul></div>
+

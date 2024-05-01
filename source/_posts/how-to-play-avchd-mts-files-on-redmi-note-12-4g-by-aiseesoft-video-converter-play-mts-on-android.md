@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on Redmi Note 12 4G?
-date: 2024-04-12T01:53:52.034Z
+date: 2024-04-30T01:35:30.931Z
 tags: 
   - mts video
   - mts android
@@ -165,3 +165,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-gt-neo-5-se-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme GT Neo 5 SE Devices</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-oppo-a56s-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A56s 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Itel S23
-date: 2024-04-12T01:54:26.866Z
+date: 2024-04-30T01:35:31.262Z
 tags: 
   - recover
 categories: 
@@ -260,3 +260,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-sony-xperia-5-v-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Sony Xperia 5 V</u></a></li>
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-moto-e13-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Moto E13 to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+

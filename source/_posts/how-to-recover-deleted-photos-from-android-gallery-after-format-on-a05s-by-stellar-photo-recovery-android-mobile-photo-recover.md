@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on A05s
-date: 2024-04-12T01:54:19.332Z
+date: 2024-04-30T01:35:31.202Z
 tags: 
   - recover
 categories: 
@@ -286,3 +286,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-f14-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy F14 5G Phone that is Locked?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-90-lite-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor 90 Lite Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+

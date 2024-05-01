@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Razr 40 Ultra?
-date: 2024-04-12T01:54:00.597Z
+date: 2024-04-30T01:35:30.997Z
 tags: 
   - hevc video
   - hevc android
@@ -208,3 +208,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-s23plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel S23+.</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-v30-lite-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo V30 Lite 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+

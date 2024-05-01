@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Realme C53
-date: 2024-04-12T01:54:35.006Z
+date: 2024-04-30T01:35:31.377Z
 tags: 
   - recover
 categories: 
@@ -279,3 +279,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+

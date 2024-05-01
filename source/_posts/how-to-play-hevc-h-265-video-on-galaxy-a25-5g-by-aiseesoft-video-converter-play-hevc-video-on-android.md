@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy A25 5G?
-date: 2024-04-12T01:53:55.858Z
+date: 2024-04-30T01:35:30.957Z
 tags: 
   - hevc video
   - hevc android
@@ -181,3 +181,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c110-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C110 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-wps-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .wps file electronically</u></a></li>
 </ul></div>
+

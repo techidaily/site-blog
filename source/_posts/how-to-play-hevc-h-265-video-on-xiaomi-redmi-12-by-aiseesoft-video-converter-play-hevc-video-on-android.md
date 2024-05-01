@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Xiaomi Redmi 12?
-date: 2024-04-12T01:54:03.433Z
+date: 2024-04-30T01:35:31.019Z
 tags: 
   - hevc video
   - hevc android
@@ -179,3 +179,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/why-does-my-tecno-spark-10c-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Spark 10C Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-find-n3-flip-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Find N3 Flip Phone? Unlock It Now</u></a></li>
 </ul></div>
+

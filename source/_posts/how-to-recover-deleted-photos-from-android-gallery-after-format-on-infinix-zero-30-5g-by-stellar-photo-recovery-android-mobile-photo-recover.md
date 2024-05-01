@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Infinix Zero 30 5G
-date: 2024-04-12T01:54:26.157Z
+date: 2024-04-30T01:35:31.256Z
 tags: 
   - recover
 categories: 
@@ -264,3 +264,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-v30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme V30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-f14-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy F14 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+

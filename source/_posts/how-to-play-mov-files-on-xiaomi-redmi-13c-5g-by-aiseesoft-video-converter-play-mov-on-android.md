@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Xiaomi Redmi 13C 5G ?
-date: 2024-04-12T01:54:11.345Z
+date: 2024-04-30T01:35:31.107Z
 tags: 
   - mov video
   - mov android
@@ -218,3 +218,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>How to Bypass FRP on Tecno Camon 20 Premier 5G?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-gt-5mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme GT 5Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+

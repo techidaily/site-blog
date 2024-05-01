@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Infinix Hot 40 using Video Repair Utility on Windows?
-date: 2024-04-12T01:53:30.492Z
+date: 2024-04-30T01:35:30.531Z
 tags: 
   - repair
 categories: 
@@ -185,3 +185,4 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+

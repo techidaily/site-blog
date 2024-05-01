@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Poco C65
-date: 2024-04-12T01:54:33.384Z
+date: 2024-04-30T01:35:31.367Z
 tags: 
   - recover
 categories: 
@@ -294,3 +294,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme Narzo 60x 5G | Dr.fone</u></a></li>
 </ul></div>
+
