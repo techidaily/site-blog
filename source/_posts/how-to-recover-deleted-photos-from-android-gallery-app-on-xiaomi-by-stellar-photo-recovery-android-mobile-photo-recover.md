@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Xiaomi
-date: 2024-04-30T01:35:56.098Z
+date: 2024-05-19T18:32:07.584Z
 tags: 
   - recover
 categories: 
@@ -292,4 +292,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-ace-2v-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Ace 2V Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30-vip-racing-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30 VIP Racing Edition Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .dotx file Using DigiSigner
-date: 2024-04-30T01:43:15.225Z
-updated: 2024-05-01T01:43:15.225Z
+date: 2024-05-19T18:32:10.888Z
+updated: 2024-05-20T18:32:10.888Z
 tags: 
   - signer
   - signer online
@@ -213,4 +213,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-sony-xperia-10-v-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Sony Xperia 10 V Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
+
 

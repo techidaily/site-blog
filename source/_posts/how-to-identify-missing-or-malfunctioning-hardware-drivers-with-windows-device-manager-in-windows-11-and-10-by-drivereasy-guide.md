@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:47:11.076Z
+date: 2024-05-19T18:32:12.930Z
 tags: 
   - driver
   - device driver
@@ -290,4 +290,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Open | Dr.fone</u></a></li>
 </ul></div>
+
 

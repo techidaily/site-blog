@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Xiaomi Redmi 13C.
-date: 2024-04-30T01:45:50.312Z
+date: 2024-05-19T18:32:12.308Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -187,4 +187,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-fe-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 FE Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-m6-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco M6 Pro 4G Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

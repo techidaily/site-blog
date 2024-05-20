@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Nokia 150 (2023) using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:12.492Z
+date: 2024-05-19T18:32:08.961Z
 tags: 
   - repair
 categories: 
@@ -207,4 +207,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-xiaomi-redmi-note-12-pro-4g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Xiaomi Redmi Note 12 Pro 4G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 <li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-13t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my 13T Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Fix Videos Not Playing on Huawei P60 Art?
-date: 2024-04-30T01:45:13.937Z
+date: 2024-05-19T18:32:12.051Z
 tags: 
   - repair
 categories: 
@@ -211,4 +211,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-t2-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo T2 5G</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-11-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Oppo Reno 11 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Moto G73 5G
-date: 2024-04-30T01:35:35.842Z
-updated: 2024-05-01T01:35:35.842Z
+date: 2024-05-19T18:32:07.465Z
+updated: 2024-05-20T18:32:07.465Z
 tags: 
   - recover
 categories: 
@@ -285,4 +285,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-lava-yuva-3-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Lava Yuva 3 Pro Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-6-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 6 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

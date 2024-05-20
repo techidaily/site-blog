@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .csv Using DigiSigner
-date: 2024-04-30T01:43:13.897Z
-updated: 2024-05-01T01:43:13.897Z
+date: 2024-05-19T18:32:10.865Z
+updated: 2024-05-20T18:32:10.865Z
 tags: 
   - signer
   - signer online
@@ -203,4 +203,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Samsung Galaxy S24 Ultra</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 

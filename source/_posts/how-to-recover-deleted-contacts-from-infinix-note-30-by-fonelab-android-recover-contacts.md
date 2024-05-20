@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Infinix Note 30.
-date: 2024-04-30T01:49:52.448Z
+date: 2024-05-19T18:32:14.284Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-xcover-6-pro-tactical-edition-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy XCover 6 Pro Tactical Edition Device</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-make-an-animated-explainer-video/"><u>Updated In 2024, How to Make an Animated Explainer Video</u></a></li>
 </ul></div>
+
 

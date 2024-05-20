@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-30T01:46:48.311Z
+date: 2024-05-19T18:32:12.724Z
 tags: 
   - driver
   - device driver
@@ -212,4 +212,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-c12-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia C12? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

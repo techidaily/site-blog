@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on 12 Pro+ 5G
-date: 2024-04-30T01:40:55.872Z
+date: 2024-05-19T18:32:09.730Z
 tags: 
   - recover
 categories: 
@@ -274,4 +274,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix GT 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-p40plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel P40+ to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

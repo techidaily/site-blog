@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2023 Using DigiSigner
-date: 2024-04-30T01:43:16.925Z
-updated: 2024-05-01T01:43:16.925Z
+date: 2024-05-19T18:32:10.898Z
+updated: 2024-05-20T18:32:10.898Z
 tags: 
   - signer
   - signer online
@@ -228,4 +228,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-z-flip-5-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy Z Flip 5 Is Unlocked</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-mix-fold-3-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Mix Fold 3</u></a></li>
 </ul></div>
+
 

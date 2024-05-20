@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Razr 40?
-date: 2024-04-30T01:39:16.653Z
+date: 2024-05-19T18:32:08.987Z
 tags: 
   - repair
 categories: 
@@ -178,4 +178,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-f15-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy F15 5G Phone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-glitch-art-video-editors-for-mobile-devices/"><u>The Ultimate List of Glitch Art Video Editors for Mobile Devices</u></a></li>
 </ul></div>
+
 

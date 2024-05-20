@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Nokia XR21 with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:45.159Z
+date: 2024-05-19T18:32:08.763Z
 tags: 
   - repair
 categories: 
@@ -198,4 +198,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-translation.techidaily.com/new-comprehensive-guide-for-free-video-translator-downloading/"><u>New Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-yuva-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Yuva 2 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

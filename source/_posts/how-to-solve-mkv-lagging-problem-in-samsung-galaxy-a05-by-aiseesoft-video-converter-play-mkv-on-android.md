@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Samsung Galaxy A05?
-date: 2024-04-30T01:42:00.061Z
+date: 2024-05-19T18:32:10.162Z
 tags: 
   - mkv video
   - mkv android
@@ -215,4 +215,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-ace-2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Ace 2 Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Y36i using Video Repair Utility on Windows?
-date: 2024-04-30T01:38:02.297Z
+date: 2024-05-19T18:32:08.414Z
 tags: 
   - repair
 categories: 
@@ -182,4 +182,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to other iPhone 12 devices? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/fixed-excel-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel Found a Problem with One or more Formula</u></a></li>
 </ul></div>
+
 

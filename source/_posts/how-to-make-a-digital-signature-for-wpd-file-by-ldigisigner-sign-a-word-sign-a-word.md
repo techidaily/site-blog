@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .wpd file
-date: 2024-04-30T01:48:35.209Z
-updated: 2024-05-01T01:48:35.209Z
+date: 2024-05-19T18:32:13.566Z
+updated: 2024-05-20T18:32:13.566Z
 tags: 
   - signer
   - signer online
@@ -194,4 +194,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE (2022) Without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-xs-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone XS Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
 </ul></div>
+
 

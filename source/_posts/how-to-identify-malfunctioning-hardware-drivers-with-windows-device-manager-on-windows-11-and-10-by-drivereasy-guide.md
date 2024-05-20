@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:46:53.292Z
+date: 2024-05-19T18:32:12.754Z
 tags: 
   - driver
   - device driver
@@ -285,4 +285,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Reno 10 Pro 5G</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-a60s-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel A60s Phone Screen?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Moto G34 5G?
-date: 2024-04-30T01:35:30.984Z
+date: 2024-05-19T18:32:07.003Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Pro Max without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-s23plus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy S23+ Lock Screen Password</u></a></li>
 </ul></div>
+
 

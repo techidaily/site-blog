@@ -1,6 +1,6 @@
 ---
 title: How to Fix Videos Not Playing on Redmi Note 12T Pro?
-date: 2024-04-30T01:35:30.683Z
+date: 2024-05-19T18:32:06.772Z
 tags: 
   - repair
 categories: 
@@ -184,4 +184,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

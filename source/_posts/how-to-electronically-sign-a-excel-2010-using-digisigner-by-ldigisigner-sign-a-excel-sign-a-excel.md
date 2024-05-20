@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2010 Using DigiSigner
-date: 2024-04-30T01:43:15.981Z
-updated: 2024-05-01T01:43:15.981Z
+date: 2024-05-19T18:32:10.893Z
+updated: 2024-05-20T18:32:10.893Z
 tags: 
   - signer
   - signer online
@@ -221,4 +221,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-aspect-ratio-mastery-elevating-your-mobile-design-game/"><u>Updated In 2024, Aspect Ratio Mastery Elevating Your Mobile Design Game</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-vivo-y78t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y78t Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Xiaomi 13 Ultra?
-date: 2024-04-30T01:35:31.015Z
+date: 2024-05-19T18:32:07.023Z
 tags: 
   - hevc video
   - hevc android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-zte-axon-40-lite-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On ZTE Axon 40 Lite | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

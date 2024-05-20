@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6s to an Older iOS System Version? | Dr.fone
-date: 2024-04-30T01:42:44.998Z
-updated: 2024-05-01T01:42:44.998Z
+date: 2024-05-19T18:32:10.685Z
+updated: 2024-05-20T18:32:10.685Z
 tags: 
   - ios system repair
   - iphone repair
@@ -356,4 +356,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://ai-vdieo-software.techidaily.com/fast-forward-best-gif-speed-editors-for-any-device-for-2024/"><u>Fast Forward Best GIF Speed Editors for Any Device for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-xs-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XS?</u></a></li>
 </ul></div>
+
 

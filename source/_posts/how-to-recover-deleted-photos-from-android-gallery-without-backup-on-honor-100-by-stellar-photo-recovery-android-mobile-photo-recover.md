@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Honor 100
-date: 2024-04-30T01:36:03.340Z
+date: 2024-05-19T18:32:07.627Z
 tags: 
   - recover
 categories: 
@@ -257,4 +257,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo V30 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

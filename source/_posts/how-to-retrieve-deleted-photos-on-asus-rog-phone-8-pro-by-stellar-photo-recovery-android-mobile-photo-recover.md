@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Asus ROG Phone 8 Pro
-date: 2024-04-30T01:40:57.581Z
+date: 2024-05-19T18:32:09.741Z
 tags: 
   - recover
 categories: 
@@ -268,4 +268,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-pova-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Pova 5 to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus 11R? | Dr.fone</u></a></li>
 </ul></div>
+
 

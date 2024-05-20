@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Lava Yuva 2?
-date: 2024-04-30T01:38:12.204Z
+date: 2024-05-19T18:32:08.482Z
 tags: 
   - repair
 categories: 
@@ -245,4 +245,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-10-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 10 5G Phone | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-13-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 13</u></a></li>
 </ul></div>
+
 

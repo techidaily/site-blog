@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:46:51.754Z
+date: 2024-05-19T18:32:12.744Z
 tags: 
   - driver
   - device driver
@@ -280,4 +280,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-11-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Pro Passcode without a Computer | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Find X7</u></a></li>
 </ul></div>
+
 

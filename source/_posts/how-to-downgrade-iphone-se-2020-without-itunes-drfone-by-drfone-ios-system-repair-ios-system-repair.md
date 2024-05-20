@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2020) without iTunes? | Dr.fone
-date: 2024-04-30T01:42:57.978Z
-updated: 2024-05-01T01:42:57.978Z
+date: 2024-05-19T18:32:10.758Z
+updated: 2024-05-20T18:32:10.758Z
 tags: 
   - ios system repair
   - iphone repair
@@ -388,4 +388,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel S23 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-a60-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel A60 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

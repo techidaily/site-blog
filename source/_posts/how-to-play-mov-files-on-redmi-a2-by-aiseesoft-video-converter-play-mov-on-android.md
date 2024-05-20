@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Redmi A2 ?
-date: 2024-04-30T01:35:31.097Z
+date: 2024-05-19T18:32:07.071Z
 tags: 
   - mov video
   - mov android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

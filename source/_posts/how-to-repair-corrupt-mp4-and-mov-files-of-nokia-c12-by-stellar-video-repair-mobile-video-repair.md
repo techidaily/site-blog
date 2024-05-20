@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Nokia C12?
-date: 2024-04-30T01:39:12.685Z
+date: 2024-05-19T18:32:08.962Z
 tags: 
   - repair
 categories: 
@@ -193,4 +193,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-camon-20-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Camon 20 FRP</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

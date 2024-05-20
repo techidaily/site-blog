@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .csv files
-date: 2024-04-30T01:48:27.628Z
-updated: 2024-05-01T01:48:27.628Z
+date: 2024-05-19T18:32:13.501Z
+updated: 2024-05-20T18:32:13.501Z
 tags: 
   - signer
   - signer online
@@ -233,4 +233,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X9b? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use-for-2024/"><u>Updated Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use for 2024</u></a></li>
 </ul></div>
+
 

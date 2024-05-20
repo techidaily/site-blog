@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Tecno using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:21.113Z
-updated: 2024-05-01T01:39:21.113Z
+date: 2024-05-19T18:32:09.027Z
+updated: 2024-05-20T18:32:09.027Z
 tags: 
   - repair
 categories: 
@@ -188,4 +188,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-11-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 11 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-gt-5-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme GT 5 Pro Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

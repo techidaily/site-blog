@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2021 files
-date: 2024-04-30T01:48:30.503Z
-updated: 2024-05-01T01:48:30.503Z
+date: 2024-05-19T18:32:13.517Z
+updated: 2024-05-20T18:32:13.517Z
 tags: 
   - signer
   - signer online
@@ -222,4 +222,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a1-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A1 5G Location by Number | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A56s 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

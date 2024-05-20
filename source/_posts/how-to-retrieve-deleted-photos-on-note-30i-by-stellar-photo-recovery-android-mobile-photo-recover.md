@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Note 30i
-date: 2024-04-30T01:41:10.450Z
+date: 2024-05-19T18:32:09.820Z
 tags: 
   - recover
 categories: 
@@ -285,4 +285,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/how-to-soft-reset-tecno-pova-5-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Pova 5 Pro phone? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-itel-s23-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Itel S23 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

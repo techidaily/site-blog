@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:47:26.989Z
+date: 2024-05-19T18:32:13.044Z
 tags: 
   - driver
   - device driver
@@ -181,4 +181,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-v29-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V29 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
 </ul></div>
+
 

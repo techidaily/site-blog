@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Infinix Hot 40 using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:07.037Z
+date: 2024-05-19T18:32:08.926Z
 tags: 
   - repair
 categories: 
@@ -194,4 +194,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-12plus-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme 12+ 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-vintage-film-effect-1990s-how-to-make/"><u>New 2024 Approved Vintage Film Effect 1990S - How to Make</u></a></li>
 </ul></div>
+
 

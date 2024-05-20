@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Galaxy XCover 6 Pro Tactical Edition
-date: 2024-04-30T01:35:31.231Z
+date: 2024-05-19T18:32:07.194Z
 tags: 
   - recover
 categories: 
@@ -294,4 +294,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-x9b-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor X9b</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of 100 Pro with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:35.308Z
+date: 2024-05-19T18:32:08.692Z
 tags: 
   - repair
 categories: 
@@ -175,4 +175,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-add-an-adjustment-layer-to-your-video-for-easier-editing-read-this-article-to-find-out-how-to-efficiently-add-an-adjust/"><u>Updated 2024 Approved Do You Want to Add an Adjustment Layer to Your Video for Easier Editing? Read This Article to Find Out How to Efficiently Add an Adjustment Layer in After Effects</u></a></li>
 <li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-15-pro-max-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 15 Pro Max files after scanning? | Stellar</u></a></li>
 </ul></div>
+
 

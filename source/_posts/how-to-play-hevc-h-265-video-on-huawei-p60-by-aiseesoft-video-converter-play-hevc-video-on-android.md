@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Huawei P60?
-date: 2024-04-30T01:35:30.971Z
+date: 2024-05-19T18:32:06.989Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-google-pixel-7a-by-drfone-android/"><u>In 2024, How to Bypass FRP from Google Pixel 7a?</u></a></li>
 </ul></div>
+
 

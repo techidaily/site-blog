@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from X50.
-date: 2024-04-30T01:46:12.698Z
+date: 2024-05-19T18:32:12.431Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -190,4 +190,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-reno-11-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme Through Google Earth?</u></a></li>
 </ul></div>
+
 

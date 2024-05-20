@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver in Windows 11 & 10
-date: 2024-04-30T01:48:37.979Z
+date: 2024-05-19T18:32:13.579Z
 tags: 
   - driver
   - device driver
@@ -283,4 +283,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 mini</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy M34? | Dr.fone</u></a></li>
 </ul></div>
+
 

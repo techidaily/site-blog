@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Xiaomi Redmi Note 13 Pro 5G using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:25.673Z
+date: 2024-05-19T18:32:09.054Z
 tags: 
   - repair
 categories: 
@@ -223,4 +223,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-nubia-red-magic-8s-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Nubia Red Magic 8S Pro Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

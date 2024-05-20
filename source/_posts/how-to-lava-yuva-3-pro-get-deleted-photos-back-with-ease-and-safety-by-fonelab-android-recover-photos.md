@@ -1,6 +1,6 @@
 ---
 title: How to Lava Yuva 3 Pro Get Deleted photos Back with Ease and Safety?
-date: 2024-04-30T01:48:26.278Z
+date: 2024-05-19T18:32:13.494Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -170,4 +170,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-ready-to-be-amazed-the-best-4k-video-clips/"><u>Updated In 2024, Get Ready to Be Amazed The Best 4K Video Clips</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:46:58.615Z
+date: 2024-05-19T18:32:12.855Z
 tags: 
   - driver
   - device driver
@@ -267,4 +267,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Google Pixel 7a | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
+
 

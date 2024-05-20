@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Asus ROG Phone 8 Pro.
-date: 2024-04-30T01:49:45.389Z
+date: 2024-05-19T18:32:14.250Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -215,4 +215,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-7-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 7 Plus in Lost Mode</u></a></li>
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi 13T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

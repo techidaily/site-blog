@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Play 40C?
-date: 2024-04-30T01:39:16.089Z
+date: 2024-05-19T18:32:08.983Z
 tags: 
   - repair
 categories: 
@@ -216,4 +216,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 15 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

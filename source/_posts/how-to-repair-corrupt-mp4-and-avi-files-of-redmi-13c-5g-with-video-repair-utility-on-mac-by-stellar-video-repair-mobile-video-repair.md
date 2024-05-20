@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Redmi 13C 5G with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:51.524Z
+date: 2024-05-19T18:32:08.827Z
 tags: 
   - repair
 categories: 
@@ -173,4 +173,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-lip-sync-tiktok-videos-without-installing-any-app-for-2024/"><u>Updated Create Lip Sync TikTok Videos Without Installing Any App for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-phantom-v-fold-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Phantom V Fold Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

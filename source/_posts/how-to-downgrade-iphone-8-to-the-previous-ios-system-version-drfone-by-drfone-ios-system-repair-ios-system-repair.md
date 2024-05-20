@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 to the Previous iOS System Version? | Dr.fone
-date: 2024-04-30T01:42:54.890Z
-updated: 2024-05-01T01:42:54.890Z
+date: 2024-05-19T18:32:10.741Z
+updated: 2024-05-20T18:32:10.741Z
 tags: 
   - ios system repair
   - iphone repair
@@ -422,4 +422,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-matching-color-combination-that-works-together/"><u>2024 Approved 10 Matching Color Combination That Works Together</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

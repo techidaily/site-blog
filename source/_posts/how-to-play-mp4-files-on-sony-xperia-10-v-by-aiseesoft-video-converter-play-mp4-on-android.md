@@ -1,6 +1,6 @@
 ---
 title: How to play MP4 files on Sony Xperia 10 V?
-date: 2024-04-30T01:35:31.141Z
+date: 2024-05-19T18:32:07.128Z
 tags: 
   - mp4 video
   - mp4 android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/vivo-s18e-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18e Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-nord-ce-3-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Nord CE 3 5G for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Nova Y91?
-date: 2024-04-30T01:35:30.996Z
+date: 2024-05-19T18:32:07.006Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/does-samsung-galaxy-s23-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy S23 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor 100 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

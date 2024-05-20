@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Infinix Hot 30 5G.
-date: 2024-04-30T01:45:32.667Z
+date: 2024-05-19T18:32:12.177Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -195,4 +195,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 8 to Android | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/guaranteed-10-storyboard-creators-to-make-animation-easier/"><u>Guaranteed 10 Storyboard Creators To Make Animation Easier</u></a></li>
 </ul></div>
+
 

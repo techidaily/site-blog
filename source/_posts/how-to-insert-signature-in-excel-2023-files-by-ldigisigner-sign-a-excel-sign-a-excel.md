@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in Excel 2023 files
-date: 2024-04-30T01:47:54.135Z
-updated: 2024-05-01T01:47:54.135Z
+date: 2024-05-19T18:32:13.255Z
+updated: 2024-05-20T18:32:13.255Z
 tags: 
   - signer
   - signer online
@@ -211,4 +211,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 11 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-video-editing-skills-6-must-know-adobe-premiere-tricks/"><u>New Elevate Your Video Editing Skills 6 Must-Know Adobe Premiere Tricks</u></a></li>
 </ul></div>
+
 

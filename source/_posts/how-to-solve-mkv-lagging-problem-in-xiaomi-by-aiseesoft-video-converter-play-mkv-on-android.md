@@ -1,7 +1,7 @@
 ---
 title: How to solve MKV lagging problem in Xiaomi ?
-date: 2024-04-30T01:42:01.222Z
-updated: 2024-05-01T01:42:01.222Z
+date: 2024-05-19T18:32:10.168Z
+updated: 2024-05-20T18:32:10.168Z
 tags: 
   - mkv video
   - mkv android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/vsco-slow-motion-for-2024/"><u>VSCO Slow Motion for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 

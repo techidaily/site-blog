@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Vivo X100 Pro
-date: 2024-04-30T01:41:24.424Z
+date: 2024-05-19T18:32:09.905Z
 tags: 
   - recover
 categories: 
@@ -253,4 +253,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy S23 FE?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-c51-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme C51 to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to install hardware device drivers manually on Windows 11 & 10
-date: 2024-04-30T01:48:07.448Z
+date: 2024-05-19T18:32:13.348Z
 tags: 
   - driver
   - device driver
@@ -165,4 +165,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-s17t-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo S17t to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

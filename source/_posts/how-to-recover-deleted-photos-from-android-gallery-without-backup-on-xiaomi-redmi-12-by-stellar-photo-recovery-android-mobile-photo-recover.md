@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi 12
-date: 2024-04-30T01:36:31.749Z
-updated: 2024-05-01T01:36:31.749Z
+date: 2024-05-19T18:32:07.823Z
+updated: 2024-05-20T18:32:07.823Z
 tags: 
   - recover
 categories: 
@@ -250,4 +250,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-x100-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo X100 Pro Phones with/without a PC</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

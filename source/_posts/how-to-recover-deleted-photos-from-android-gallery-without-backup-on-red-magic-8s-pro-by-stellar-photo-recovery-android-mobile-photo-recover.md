@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Red Magic 8S Pro
-date: 2024-04-30T01:36:22.636Z
+date: 2024-05-19T18:32:07.769Z
 tags: 
   - recover
 categories: 
@@ -243,4 +243,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Phantom V Fold? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

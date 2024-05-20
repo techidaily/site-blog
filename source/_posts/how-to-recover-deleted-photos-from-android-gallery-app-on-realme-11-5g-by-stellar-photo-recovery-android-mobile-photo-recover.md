@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Realme 11 5G
-date: 2024-04-30T01:35:44.521Z
+date: 2024-05-19T18:32:07.516Z
 tags: 
   - recover
 categories: 
@@ -294,4 +294,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V30 Phone without Google Account?</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y17s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y17s Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

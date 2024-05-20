@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Vivo Y36 with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:57.818Z
+date: 2024-05-19T18:32:08.874Z
 tags: 
   - repair
 categories: 
@@ -208,4 +208,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-tecno-spark-20-proplus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Tecno Spark 20 Pro+ without App | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-s-top-free-cctv-software-for-home-and-business-security/"><u>In 2024, S Top Free CCTV Software for Home and Business Security</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Infinix
-date: 2024-04-30T01:36:43.520Z
-updated: 2024-05-01T01:36:43.520Z
+date: 2024-05-19T18:32:07.897Z
+updated: 2024-05-20T18:32:07.897Z
 tags: 
   - recover
 categories: 
@@ -254,4 +254,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated In 2024, Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-obs-green-screen-guide/"><u>New In 2024, OBS Green Screen Guide</u></a></li>
 </ul></div>
+
 

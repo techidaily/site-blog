@@ -1,6 +1,6 @@
 ---
 title: How to Fix the Unable to Record Macro Error in Excel 2000?
-date: 2024-04-30T01:45:05.724Z
+date: 2024-05-19T18:32:11.927Z
 tags: 
   - repair
   - repair excel
@@ -166,4 +166,5 @@ You may receive the “unable to record” error in Excel while creating or stor
 <li><a href="https://ai-video-apps.techidaily.com/updated-from-novice-to-pro-expert-advice-on-choosing-the-right-youtube-to-mp3-converter-for-2024/"><u>Updated From Novice to Pro Expert Advice on Choosing the Right YouTube to MP3 Converter for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Huawei Nova Y91 | Dr.fone</u></a></li>
 </ul></div>
+
 

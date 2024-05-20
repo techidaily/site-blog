@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy M54 5G?
-date: 2024-04-30T01:35:30.961Z
+date: 2024-05-19T18:32:06.962Z
 tags: 
   - hevc video
   - hevc android
@@ -213,4 +213,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y17s-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y17s to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy M34 5G Phone</u></a></li>
 </ul></div>
+
 

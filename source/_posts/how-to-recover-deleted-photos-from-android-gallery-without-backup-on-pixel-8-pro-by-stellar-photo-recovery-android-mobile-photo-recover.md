@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Pixel 8 Pro
-date: 2024-04-30T01:36:18.512Z
+date: 2024-05-19T18:32:07.745Z
 tags: 
   - recover
 categories: 
@@ -260,4 +260,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Get Out of Recovery or DFU Mode on iPhone 12 mini? | Dr.fone
-date: 2024-04-30T01:46:30.335Z
-updated: 2024-05-01T01:46:30.335Z
+date: 2024-05-19T18:32:12.566Z
+updated: 2024-05-20T18:32:12.566Z
 tags: 
   - ios system repair
   - iphone repair
@@ -276,4 +276,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://howto.techidaily.com/vivo-y56-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y56 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

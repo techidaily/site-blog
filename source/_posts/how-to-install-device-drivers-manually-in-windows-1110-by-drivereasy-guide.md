@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually in Windows 11/10
-date: 2024-04-30T01:48:02.843Z
+date: 2024-05-19T18:32:13.317Z
 tags: 
   - driver
   - device driver
@@ -228,4 +228,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor X50i+ | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Hot 30i | Dr.fone</u></a></li>
 </ul></div>
+
 

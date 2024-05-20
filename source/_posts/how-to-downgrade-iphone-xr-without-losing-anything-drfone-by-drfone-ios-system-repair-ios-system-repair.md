@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XR without Losing Anything? | Dr.fone
-date: 2024-04-30T01:43:07.832Z
-updated: 2024-05-01T01:43:07.832Z
+date: 2024-05-19T18:32:10.817Z
+updated: 2024-05-20T18:32:10.817Z
 tags: 
   - ios system repair
   - iphone repair
@@ -416,4 +416,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-12-pro-max-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 12 Pro Max Without Apple ID Password?</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-m6-pro-4g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco M6 Pro 4G ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

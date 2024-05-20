@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Nokia C12 Pro.
-date: 2024-04-30T01:45:38.036Z
+date: 2024-05-19T18:32:12.235Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11x-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11X 5G to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-online-video-invitation-designers-top-picks/"><u>Free Online Video Invitation Designers Top Picks</u></a></li>
 </ul></div>
+
 

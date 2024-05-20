@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:46:59.964Z
+date: 2024-05-19T18:32:12.864Z
 tags: 
   - driver
   - device driver
@@ -298,4 +298,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-reno-11-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo Reno 11 5G Unlock Without Password</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Xiaomi Redmi A2+?
-date: 2024-04-30T01:35:30.897Z
+date: 2024-05-19T18:32:06.900Z
 tags: 
   - mp4 video
   - mp4 android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-6s-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 6s Randomly Asking for Apple ID Password</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-8-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 8 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

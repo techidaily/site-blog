@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Honor X8b with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:39.845Z
-updated: 2024-05-01T01:38:39.845Z
+date: 2024-05-19T18:32:08.738Z
+updated: 2024-05-20T18:32:08.738Z
 tags: 
   - repair
 categories: 
@@ -211,4 +211,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone X? Heres the Best Fixes</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nokia-c12-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nokia C12 to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

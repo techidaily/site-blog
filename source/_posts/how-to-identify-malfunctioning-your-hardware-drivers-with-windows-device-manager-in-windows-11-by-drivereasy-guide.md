@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:46:58.230Z
+date: 2024-05-19T18:32:12.853Z
 tags: 
   - driver
   - device driver
@@ -161,4 +161,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:47:04.501Z
+date: 2024-05-19T18:32:12.890Z
 tags: 
   - driver
   - device driver
@@ -215,4 +215,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-a78-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo A78? Fixed | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 14 Lock Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

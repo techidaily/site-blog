@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word
-date: 2024-04-30T01:48:35.019Z
-updated: 2024-05-01T01:48:35.019Z
+date: 2024-05-19T18:32:13.540Z
+updated: 2024-05-20T18:32:13.540Z
 tags: 
   - signer
   - signer online
@@ -211,4 +211,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 5G Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

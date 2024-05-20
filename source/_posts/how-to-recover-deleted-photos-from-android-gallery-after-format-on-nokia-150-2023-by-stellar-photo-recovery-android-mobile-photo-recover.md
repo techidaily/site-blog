@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Nokia 150 (2023)
-date: 2024-04-30T01:35:31.317Z
+date: 2024-05-19T18:32:07.251Z
 tags: 
   - recover
 categories: 
@@ -272,4 +272,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-13-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 13</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-zte-nubia-z60-ultra-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

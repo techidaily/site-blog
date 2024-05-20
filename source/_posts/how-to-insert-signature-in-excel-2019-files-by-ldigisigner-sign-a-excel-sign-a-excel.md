@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in Excel 2019 files
-date: 2024-04-30T01:47:53.751Z
-updated: 2024-05-01T01:47:53.751Z
+date: 2024-05-19T18:32:13.252Z
+updated: 2024-05-20T18:32:13.252Z
 tags: 
   - signer
   - signer online
@@ -218,4 +218,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor Magic 6? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-zte-nubia-flip-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on ZTE Nubia Flip 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

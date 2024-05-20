@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .xlsm files
-date: 2024-04-30T01:47:51.648Z
-updated: 2024-05-01T01:47:51.648Z
+date: 2024-05-19T18:32:13.233Z
+updated: 2024-05-20T18:32:13.233Z
 tags: 
   - signer
   - signer online
@@ -194,4 +194,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6s-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6s</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-zte-nubia-flip-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On ZTE Nubia Flip 5G?</u></a></li>
 </ul></div>
+
 

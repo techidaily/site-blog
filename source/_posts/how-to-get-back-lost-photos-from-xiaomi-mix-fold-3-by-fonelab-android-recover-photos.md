@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Xiaomi Mix Fold 3.
-date: 2024-04-30T01:46:13.844Z
+date: 2024-05-19T18:32:12.436Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -215,4 +215,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-nubia-z50s-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Nubia Z50S Pro</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

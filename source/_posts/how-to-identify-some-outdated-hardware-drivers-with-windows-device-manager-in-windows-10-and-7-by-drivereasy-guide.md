@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-04-30T01:47:29.686Z
+date: 2024-05-19T18:32:13.059Z
 tags: 
   - driver
   - device driver
@@ -296,4 +296,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-y27-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo Y27 4G without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v29e-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V29e Phone</u></a></li>
 </ul></div>
+
 

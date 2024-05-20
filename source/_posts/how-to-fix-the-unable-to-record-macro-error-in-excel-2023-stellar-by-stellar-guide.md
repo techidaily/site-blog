@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Unable to Record Macro Error in Excel 2023? | Stellar
-date: 2024-04-30T01:45:09.004Z
-updated: 2024-05-01T01:45:09.004Z
+date: 2024-05-19T18:32:11.973Z
+updated: 2024-05-20T18:32:11.973Z
 tags: 
   - repair
   - repair excel
@@ -934,4 +934,5 @@ You can use the first two possible solutions to fix the “The file is corrupted
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-converting-an-srt-file-to-vtt-is-extremely-easy-the-article-enlists-various-methods-you-can-use-to-convert-an-srt-file-to-vtt-introducing-you-/"><u>2024 Approved Converting an SRT File to VTT Is Extremely Easy. The Article Enlists Various Methods You Can Use to Convert an SRT File to VTT, Introducing You to Filmora, Which Allows You to Edit Your SRT Files</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-animation-mastery-8-elite-software-options-for-mac-and-windows-users/"><u>New Animation Mastery 8 Elite Software Options for Mac and Windows Users</u></a></li>
 </ul></div>
+
 

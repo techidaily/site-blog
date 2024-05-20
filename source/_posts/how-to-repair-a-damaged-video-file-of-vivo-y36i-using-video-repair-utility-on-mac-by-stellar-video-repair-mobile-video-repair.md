@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Vivo Y36i using Video Repair Utility on Mac?
-date: 2024-04-30T01:37:59.616Z
+date: 2024-05-19T18:32:08.398Z
 tags: 
   - repair
 categories: 
@@ -225,4 +225,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 Pro Passcode without a Computer</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-poco-c50-easily-by-drfone-android/"><u>How To Unlock a Poco C50 Easily?</u></a></li>
 </ul></div>
+
 

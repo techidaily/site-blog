@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2019 files
-date: 2024-04-30T01:48:30.310Z
-updated: 2024-05-01T01:48:30.310Z
+date: 2024-05-19T18:32:13.515Z
+updated: 2024-05-20T18:32:13.515Z
 tags: 
   - signer
   - signer online
@@ -225,4 +225,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-gt-5-240w-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme GT 5 (240W) Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/jaycut-101-how-to-edit-videos-online-for-free/"><u>Jaycut 101 How to Edit Videos Online for Free</u></a></li>
 </ul></div>
+
 

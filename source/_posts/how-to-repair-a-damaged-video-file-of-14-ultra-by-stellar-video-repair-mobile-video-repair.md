@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Damaged video file of 14 Ultra?
-date: 2024-04-30T01:37:36.061Z
-updated: 2024-05-01T01:37:36.061Z
+date: 2024-05-19T18:32:08.251Z
+updated: 2024-05-20T18:32:08.251Z
 tags: 
   - repair
 categories: 
@@ -178,4 +178,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/undelete-lost-music-from-galaxy-s23plus-by-fonelab-android-recover-music/"><u>Undelete lost music from Galaxy S23+</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-will-show-you-how-to-clone-yourslef-in-videos-with-filmora/"><u>2024 Approved This Article Will Show You How to Clone Yourslef in Videos with Filmora</u></a></li>
 </ul></div>
+
 

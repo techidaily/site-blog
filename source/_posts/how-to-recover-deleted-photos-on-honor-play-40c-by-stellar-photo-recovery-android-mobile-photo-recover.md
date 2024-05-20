@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Honor Play 40C
-date: 2024-04-30T01:36:42.396Z
-updated: 2024-05-01T01:36:42.396Z
+date: 2024-05-19T18:32:07.890Z
+updated: 2024-05-20T18:32:07.890Z
 tags: 
   - recover
 categories: 
@@ -248,4 +248,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Asus ROG Phone 7 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-samsung-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Samsung .</u></a></li>
 </ul></div>
+
 

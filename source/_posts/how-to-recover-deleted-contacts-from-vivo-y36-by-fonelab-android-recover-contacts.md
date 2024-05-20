@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Vivo Y36.
-date: 2024-04-30T01:50:08.730Z
+date: 2024-05-19T18:32:14.400Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -223,4 +223,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-6-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 6</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-edit-gopro-videos-on-mac-for-2024/"><u>New How to Edit GoPro Videos on Mac for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XR to an Older Version? | Dr.fone
-date: 2024-04-30T01:43:06.274Z
-updated: 2024-05-01T01:43:06.274Z
+date: 2024-05-19T18:32:10.809Z
+updated: 2024-05-20T18:32:10.809Z
 tags: 
   - ios system repair
   - iphone repair
@@ -459,4 +459,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Tecno Spark 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

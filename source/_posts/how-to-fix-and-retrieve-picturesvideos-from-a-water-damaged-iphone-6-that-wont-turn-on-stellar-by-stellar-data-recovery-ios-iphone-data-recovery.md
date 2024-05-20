@@ -1,7 +1,7 @@
 ---
 title: How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 6 That Wont Turn on | Stellar
-date: 2024-04-30T01:44:05.946Z
-updated: 2024-05-01T01:44:05.946Z
+date: 2024-05-19T18:32:11.293Z
+updated: 2024-05-20T18:32:11.293Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -605,4 +605,5 @@ However, you can also try to restore deleted Notes from an iCloud, e-mail accoun
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme Note 50? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/iphone-11-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 11® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
 </ul></div>
+
 

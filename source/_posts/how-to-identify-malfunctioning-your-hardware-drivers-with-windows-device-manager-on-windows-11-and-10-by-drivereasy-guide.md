@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:46:59.569Z
+date: 2024-05-19T18:32:12.861Z
 tags: 
   - driver
   - device driver
@@ -213,4 +213,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G04 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Passcode without Computer?</u></a></li>
 </ul></div>
+
 

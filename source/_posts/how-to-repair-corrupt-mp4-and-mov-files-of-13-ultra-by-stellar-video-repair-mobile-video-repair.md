@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of 13 Ultra?
-date: 2024-04-30T01:39:01.149Z
-updated: 2024-05-01T01:39:01.149Z
+date: 2024-05-19T18:32:08.892Z
+updated: 2024-05-20T18:32:08.892Z
 tags: 
   - repair
 categories: 
@@ -215,4 +215,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-xs-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone XS Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

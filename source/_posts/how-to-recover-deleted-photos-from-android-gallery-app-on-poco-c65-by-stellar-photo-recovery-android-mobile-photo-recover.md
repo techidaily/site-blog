@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Poco C65
-date: 2024-04-30T01:35:43.564Z
+date: 2024-05-19T18:32:07.510Z
 tags: 
   - recover
 categories: 
@@ -306,4 +306,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nokia-c12-plus-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nokia C12 Plus Phone Network-Ready</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

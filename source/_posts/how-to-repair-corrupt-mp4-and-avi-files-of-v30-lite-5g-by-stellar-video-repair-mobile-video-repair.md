@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of V30 Lite 5G?
-date: 2024-04-30T01:38:55.709Z
-updated: 2024-05-01T01:38:55.709Z
+date: 2024-05-19T18:32:08.862Z
+updated: 2024-05-20T18:32:08.862Z
 tags: 
   - repair
 categories: 
@@ -175,4 +175,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-a60s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel A60s Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-12-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus 12 Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

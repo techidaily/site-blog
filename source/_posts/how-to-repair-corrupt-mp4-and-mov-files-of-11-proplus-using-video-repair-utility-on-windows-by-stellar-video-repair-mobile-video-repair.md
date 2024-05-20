@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of 11 Pro+ using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:00.960Z
+date: 2024-05-19T18:32:08.891Z
 tags: 
   - repair
 categories: 
@@ -174,4 +174,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-some-must-know-useful-lego-animation-ideas-for-you/"><u>Updated In 2024, Some Must-Know Useful Lego Animation Ideas for You</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-note-12-pro-4g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi Note 12 Pro 4G is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

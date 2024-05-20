@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager in Windows 10
-date: 2024-04-30T01:47:26.407Z
+date: 2024-05-19T18:32:13.040Z
 tags: 
   - driver
   - device driver
@@ -165,4 +165,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 14 Pro and iPad</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Poco C65 | Dr.fone</u></a></li>
 </ul></div>
+
 

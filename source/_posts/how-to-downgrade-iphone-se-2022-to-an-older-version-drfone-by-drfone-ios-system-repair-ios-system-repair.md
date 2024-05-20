@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2022) to an Older Version? | Dr.fone
-date: 2024-04-30T01:42:59.308Z
-updated: 2024-05-01T01:42:59.308Z
+date: 2024-05-19T18:32:10.765Z
+updated: 2024-05-20T18:32:10.765Z
 tags: 
   - ios system repair
   - iphone repair
@@ -393,4 +393,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V27e Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

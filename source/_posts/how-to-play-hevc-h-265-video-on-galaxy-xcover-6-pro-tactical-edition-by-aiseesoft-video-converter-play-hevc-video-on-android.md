@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy XCover 6 Pro Tactical Edition?
-date: 2024-04-30T01:35:30.964Z
+date: 2024-05-19T18:32:06.965Z
 tags: 
   - hevc video
   - hevc android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-8-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 8 Plus SIM Lock 4 Easy Methods</u></a></li>
 </ul></div>
+
 

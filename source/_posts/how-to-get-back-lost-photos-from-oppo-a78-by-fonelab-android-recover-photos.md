@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Oppo A78.
-date: 2024-04-30T01:46:04.521Z
+date: 2024-05-19T18:32:12.397Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-mix-fold-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Mix Fold 3 Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

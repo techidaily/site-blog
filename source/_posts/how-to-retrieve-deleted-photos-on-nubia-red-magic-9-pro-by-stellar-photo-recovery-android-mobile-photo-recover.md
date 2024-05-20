@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Nubia Red Magic 9 Pro
-date: 2024-04-30T01:41:11.208Z
+date: 2024-05-19T18:32:09.824Z
 tags: 
   - recover
 categories: 
@@ -238,4 +238,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-s17-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo S17 Pro</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Data Loss? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Moto G14
-date: 2024-04-30T01:36:47.649Z
+date: 2024-05-19T18:32:07.921Z
 tags: 
   - recover
 categories: 
@@ -259,4 +259,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 15 Pro Max</u></a></li>
 </ul></div>
+
 

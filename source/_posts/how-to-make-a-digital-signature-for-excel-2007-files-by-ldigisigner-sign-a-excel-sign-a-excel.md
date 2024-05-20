@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2007 files
-date: 2024-04-30T01:48:29.544Z
-updated: 2024-05-01T01:48:29.544Z
+date: 2024-05-19T18:32:13.511Z
+updated: 2024-05-20T18:32:13.511Z
 tags: 
   - signer
   - signer online
@@ -255,4 +255,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v27-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V27 to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
+
 

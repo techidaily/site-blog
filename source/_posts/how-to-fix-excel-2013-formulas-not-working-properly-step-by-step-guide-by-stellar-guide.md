@@ -1,6 +1,6 @@
 ---
 title: How to Fix Excel 2013 Formulas Not Working Properly | Step-by-Step Guide
-date: 2024-04-30T01:44:27.233Z
+date: 2024-05-19T18:32:11.534Z
 tags: 
   - repair
   - repair excel
@@ -195,4 +195,5 @@ This blog discussed some problems you might make causing an Excel formula to sto
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Sony Xperia 10 V | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

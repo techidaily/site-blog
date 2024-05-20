@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Tecno Spark 20C on Mac?
-date: 2024-04-30T01:38:28.596Z
+date: 2024-05-19T18:32:08.597Z
 tags: 
   - repair
 categories: 
@@ -237,4 +237,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone SE/iPad? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-note-30-vip-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Note 30 VIP for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Lava Yuva 2
-date: 2024-04-30T01:41:06.291Z
+date: 2024-05-19T18:32:09.795Z
 tags: 
   - recover
 categories: 
@@ -299,4 +299,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-hot-30i-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Hot 30i? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-a2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

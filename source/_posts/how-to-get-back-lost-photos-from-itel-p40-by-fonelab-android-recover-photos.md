@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Itel P40.
-date: 2024-04-30T01:45:58.463Z
+date: 2024-05-19T18:32:12.360Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-honor-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Honor FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

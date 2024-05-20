@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Honor Play 40C.
-date: 2024-04-30T01:50:48.818Z
+date: 2024-05-19T18:32:14.734Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -191,4 +191,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-15-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 15 Pro Prevention & Solution</u></a></li>
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-blaze-2-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Blaze 2 FRP Bypass</u></a></li>
 </ul></div>
+
 

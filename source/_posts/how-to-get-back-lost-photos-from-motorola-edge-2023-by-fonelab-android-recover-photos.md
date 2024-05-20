@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Motorola Edge 2023.
-date: 2024-04-30T01:46:00.618Z
+date: 2024-05-19T18:32:12.372Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-11-pro-max-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 11 Pro Max Screen with PC | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Infinix Smart 7 HD</u></a></li>
 </ul></div>
+
 

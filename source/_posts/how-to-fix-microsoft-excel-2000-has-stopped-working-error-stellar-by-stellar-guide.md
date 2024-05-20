@@ -1,7 +1,7 @@
 ---
 title: How to fix Microsoft Excel 2000 has stopped working error? | Stellar
-date: 2024-04-30T01:44:48.933Z
-updated: 2024-05-01T01:44:48.933Z
+date: 2024-05-19T18:32:11.725Z
+updated: 2024-05-20T18:32:11.725Z
 tags: 
   - repair
   - repair excel
@@ -637,4 +637,5 @@ Above, we have discussed some effective methods to fix the sharing violation err
 <li><a href="https://ai-vdieo-software.techidaily.com/windows-10-essentials-top-10-free-video-compression-software/"><u>Windows 10 Essentials Top 10 Free Video Compression Software</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-htc-u23-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 HTC U23 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

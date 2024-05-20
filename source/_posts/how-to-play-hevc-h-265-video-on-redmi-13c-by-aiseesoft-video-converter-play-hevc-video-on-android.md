@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Redmi 13C?
-date: 2024-04-30T01:35:31.000Z
+date: 2024-05-19T18:32:07.009Z
 tags: 
   - hevc video
   - hevc android
@@ -181,4 +181,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-xr21-by-drfone-android/"><u>How to Bypass FRP on Nokia XR21?</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-f54-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy F54 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

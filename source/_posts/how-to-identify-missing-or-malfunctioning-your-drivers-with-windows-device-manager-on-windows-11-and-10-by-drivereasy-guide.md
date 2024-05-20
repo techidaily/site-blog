@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:15.669Z
+date: 2024-05-19T18:32:12.951Z
 tags: 
   - driver
   - device driver
@@ -233,4 +233,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 12 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Samsung Galaxy A05 using Video Repair Utility on Windows?
-date: 2024-04-30T01:37:53.500Z
+date: 2024-05-19T18:32:08.363Z
 tags: 
   - repair
 categories: 
@@ -233,4 +233,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-vivo-y100t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y100t Devices</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-itel-a60-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Itel A60 to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

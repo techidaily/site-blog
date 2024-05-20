@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Mix Fold 3?
-date: 2024-04-30T01:35:30.972Z
+date: 2024-05-19T18:32:06.991Z
 tags: 
   - hevc video
   - hevc android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-mix-fold-3-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-6-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 6 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
 </ul></div>
+
 

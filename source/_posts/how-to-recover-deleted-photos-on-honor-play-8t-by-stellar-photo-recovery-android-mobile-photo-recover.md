@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Honor Play 8T
-date: 2024-04-30T01:36:42.770Z
+date: 2024-05-19T18:32:07.892Z
 tags: 
   - recover
 categories: 
@@ -249,4 +249,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17e-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17e | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-11-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 11 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

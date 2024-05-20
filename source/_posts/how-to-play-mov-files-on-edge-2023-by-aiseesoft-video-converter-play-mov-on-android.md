@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Edge 2023 ?
-date: 2024-04-30T01:35:31.081Z
+date: 2024-05-19T18:32:07.056Z
 tags: 
   - mov video
   - mov android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-13-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 13 Pro Max</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24 Ultra Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

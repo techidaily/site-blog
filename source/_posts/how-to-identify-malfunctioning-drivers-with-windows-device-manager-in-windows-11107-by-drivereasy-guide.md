@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:46:49.100Z
+date: 2024-05-19T18:32:12.729Z
 tags: 
   - driver
   - device driver
@@ -179,4 +179,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-guide-to-storyboard/"><u>New Step-by-Step Guide to Storyboard</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-go-2023-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark Go (2023) Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

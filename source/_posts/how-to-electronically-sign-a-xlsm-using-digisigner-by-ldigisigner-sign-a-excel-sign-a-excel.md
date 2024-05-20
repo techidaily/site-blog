@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xlsm Using DigiSigner
-date: 2024-04-30T01:43:20.742Z
-updated: 2024-05-01T01:43:20.742Z
+date: 2024-05-19T18:32:10.932Z
+updated: 2024-05-20T18:32:10.932Z
 tags: 
   - signer
   - signer online
@@ -230,4 +230,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

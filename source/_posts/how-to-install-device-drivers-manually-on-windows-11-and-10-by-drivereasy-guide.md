@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually on Windows 11 & 10
-date: 2024-04-30T01:48:03.989Z
+date: 2024-05-19T18:32:13.332Z
 tags: 
   - driver
   - device driver
@@ -271,4 +271,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ai-video-editing.techidaily.com/how-to-change-speed-of-video-in-final-cut-pro-for-2024/"><u>How To Change Speed of Video in Final Cut Pro for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-s23-ultra-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy S23 Ultra Lock Screen Password</u></a></li>
 </ul></div>
+
 

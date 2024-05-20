@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on ROG Phone 8 Pro
-date: 2024-04-30T01:35:47.522Z
+date: 2024-05-19T18:32:07.534Z
 tags: 
   - recover
 categories: 
@@ -264,4 +264,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark Go (2023) | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y77t-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y77t Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

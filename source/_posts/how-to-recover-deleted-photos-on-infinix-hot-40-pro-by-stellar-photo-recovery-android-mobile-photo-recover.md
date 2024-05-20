@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Infinix Hot 40 Pro
-date: 2024-04-30T01:36:43.896Z
-updated: 2024-05-01T01:36:43.896Z
+date: 2024-05-19T18:32:07.899Z
+updated: 2024-05-20T18:32:07.899Z
 tags: 
   - recover
 categories: 
@@ -296,4 +296,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-13-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 13</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-z-flip-5-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy Z Flip 5 Phone that is Locked?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for {{ext}} files
-date: 2024-04-30T01:48:31.072Z
-updated: 2024-05-01T01:48:31.072Z
+date: 2024-05-19T18:32:13.520Z
+updated: 2024-05-20T18:32:13.520Z
 tags: 
   - signer
   - signer online
@@ -206,4 +206,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-editing-video.techidaily.com/new-11-ways-to-speed-up-a-video-on-iphone/"><u>New 11 Ways To Speed Up A Video On iPhone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-narzo-n55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme Narzo N55 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

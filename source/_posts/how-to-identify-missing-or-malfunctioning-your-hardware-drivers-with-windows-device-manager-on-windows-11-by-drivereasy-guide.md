@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:47:19.076Z
+date: 2024-05-19T18:32:12.969Z
 tags: 
   - driver
   - device driver
@@ -318,4 +318,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-motion-text-effects-for-your-video-in-2024/"><u>Updated How to Create Motion Text Effects for Your Video, In 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-14-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 14 Pro From Your Apple ID</u></a></li>
 </ul></div>
+
 

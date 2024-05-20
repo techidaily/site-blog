@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xlsx files
-date: 2024-04-30T01:47:55.085Z
-updated: 2024-05-01T01:47:55.085Z
+date: 2024-05-19T18:32:13.260Z
+updated: 2024-05-20T18:32:13.260Z
 tags: 
   - signer
   - signer online
@@ -224,4 +224,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-poco-x6-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Poco X6? Look No Further | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-9-oneplus-nord-n30-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 OnePlus Nord N30 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 10
-date: 2024-04-30T01:46:48.115Z
+date: 2024-05-19T18:32:12.723Z
 tags: 
   - driver
   - device driver
@@ -150,4 +150,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-11-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 11 to iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-s23-ultra-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy S23 Ultra Phone With/Without IMEI Number</u></a></li>
 </ul></div>
+
 

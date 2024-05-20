@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Samsung Galaxy A15 4G?
-date: 2024-04-30T01:38:24.609Z
+date: 2024-05-19T18:32:08.578Z
 tags: 
   - repair
 categories: 
@@ -231,4 +231,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/why-does-my-sony-xperia-5-v-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Sony Xperia 5 V Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Pro Max Passcode not Working?</u></a></li>
 </ul></div>
+
 

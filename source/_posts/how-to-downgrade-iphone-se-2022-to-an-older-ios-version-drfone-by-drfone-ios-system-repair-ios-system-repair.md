@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2022) to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:42:59.117Z
-updated: 2024-05-01T01:42:59.117Z
+date: 2024-05-19T18:32:10.764Z
+updated: 2024-05-20T18:32:10.764Z
 tags: 
   - ios system repair
   - iphone repair
@@ -380,4 +380,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-subtitles-in-canva-in-2024/"><u>How to Add Subtitles in Canva, In 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-note-12-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi Note 12 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+
 

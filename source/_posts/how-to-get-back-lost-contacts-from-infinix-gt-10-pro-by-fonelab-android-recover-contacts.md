@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Infinix GT 10 Pro.
-date: 2024-04-30T01:45:32.479Z
+date: 2024-05-19T18:32:12.176Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -208,4 +208,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/does-samsung-galaxy-xcover-7-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy XCover 7 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo K11x? | Dr.fone</u></a></li>
 </ul></div>
+
 

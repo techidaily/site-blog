@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Nubia Red Magic 8S Pro?
-date: 2024-04-30T01:35:30.769Z
+date: 2024-05-19T18:32:06.802Z
 tags: 
   - repair
 categories: 
@@ -228,4 +228,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-razr-40-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Razr 40</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .xltm files
-date: 2024-04-30T01:47:52.031Z
-updated: 2024-05-01T01:47:52.031Z
+date: 2024-05-19T18:32:13.235Z
+updated: 2024-05-20T18:32:13.235Z
 tags: 
   - signer
   - signer online
@@ -199,4 +199,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
 </ul></div>
+
 

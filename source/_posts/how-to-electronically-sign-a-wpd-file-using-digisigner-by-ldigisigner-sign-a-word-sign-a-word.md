@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .wpd file Using DigiSigner
-date: 2024-04-30T01:43:19.794Z
-updated: 2024-05-01T01:43:19.794Z
+date: 2024-05-19T18:32:10.928Z
+updated: 2024-05-20T18:32:10.928Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-3-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord 3 5G to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-15-pro-max-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 15 Pro Max using find my iphone</u></a></li>
 </ul></div>
+
 

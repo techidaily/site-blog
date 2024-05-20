@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Nubia Red Magic 9 Pro?
-date: 2024-04-30T01:38:17.341Z
+date: 2024-05-19T18:32:08.512Z
 tags: 
   - repair
 categories: 
@@ -246,4 +246,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-mini-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 mini to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-capture-captivating-detailed-videos-if-yes-then-you-need-to-learn-the-recording-of-super-slow-motion-videos-in-this-article-i-will-sho/"><u>2024 Approved Want to Capture Captivating, Detailed Videos? If Yes, Then You Need to Learn the Recording of Super Slow Motion Videos. In This Article, I Will Show You How to Record a Super Slow-Motion Video on Your Android and iPhone</u></a></li>
 </ul></div>
+
 

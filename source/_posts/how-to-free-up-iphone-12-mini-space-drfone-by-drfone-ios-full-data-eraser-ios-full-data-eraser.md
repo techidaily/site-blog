@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 12 mini Space | Dr.fone
-date: 2024-04-30T01:45:18.545Z
-updated: 2024-05-01T01:45:18.545Z
+date: 2024-05-19T18:32:12.083Z
+updated: 2024-05-20T18:32:12.083Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -357,4 +357,5 @@ The report will display the details of the connected iDevice, followed by the da
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Nokia 130 Music | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-se-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone SE to Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

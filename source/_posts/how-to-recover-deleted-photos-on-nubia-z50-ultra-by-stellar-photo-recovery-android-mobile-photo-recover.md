@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Nubia Z50 Ultra
-date: 2024-04-30T01:36:52.598Z
+date: 2024-05-19T18:32:07.955Z
 tags: 
   - recover
 categories: 
@@ -255,4 +255,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-step/"><u>2024 Approved Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps</u></a></li>
 </ul></div>
+
 

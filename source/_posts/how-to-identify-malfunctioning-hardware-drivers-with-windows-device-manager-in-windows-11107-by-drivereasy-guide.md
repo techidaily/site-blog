@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:46:52.331Z
+date: 2024-05-19T18:32:12.748Z
 tags: 
   - driver
   - device driver
@@ -225,4 +225,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia C22? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a79-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A79 5G to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

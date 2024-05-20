@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from OnePlus 12.
-date: 2024-04-30T01:45:39.390Z
+date: 2024-05-19T18:32:12.246Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -170,4 +170,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-100-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor 100 to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

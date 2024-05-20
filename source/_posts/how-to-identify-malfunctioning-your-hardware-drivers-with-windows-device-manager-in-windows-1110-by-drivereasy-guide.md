@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:46:58.421Z
+date: 2024-05-19T18:32:12.854Z
 tags: 
   - driver
   - device driver
@@ -220,4 +220,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-gt-3-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme GT 3 Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-c50-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco C50 Through Google Earth?</u></a></li>
 </ul></div>
+
 

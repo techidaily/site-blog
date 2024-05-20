@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .doc file
-date: 2024-04-30T01:47:44.881Z
-updated: 2024-05-01T01:47:44.881Z
+date: 2024-05-19T18:32:13.144Z
+updated: 2024-05-20T18:32:13.144Z
 tags: 
   - signer
   - signer online
@@ -193,4 +193,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-14-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 14 Plus</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-s23-tactical-edition-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy S23 Tactical Edition Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Nubia Red Magic 9 Pro using Video Repair Utility on Mac?
-date: 2024-04-30T01:44:11.797Z
+date: 2024-05-19T18:32:11.370Z
 tags: 
   - repair
 categories: 
@@ -257,4 +257,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-online/"><u>2024 Approved AI Script | Online</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a25-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-30T01:47:08.947Z
+date: 2024-05-19T18:32:12.921Z
 tags: 
   - driver
   - device driver
@@ -300,4 +300,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-vdieo-software.techidaily.com/replace-virtualdub-with-these-powerful-video-editing-solutions/"><u>Replace VirtualDub with These Powerful Video Editing Solutions</u></a></li>
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

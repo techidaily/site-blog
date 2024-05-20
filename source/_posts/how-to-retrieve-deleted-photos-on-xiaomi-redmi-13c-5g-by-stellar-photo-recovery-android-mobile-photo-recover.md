@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Xiaomi Redmi 13C 5G
-date: 2024-04-30T01:41:27.928Z
+date: 2024-05-19T18:32:09.919Z
 tags: 
   - recover
 categories: 
@@ -262,4 +262,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-13-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 13 Pro Max for Free</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Xiaomi 13 Ultra
-date: 2024-04-30T01:37:10.684Z
+date: 2024-05-19T18:32:08.058Z
 tags: 
   - recover
 categories: 
@@ -253,4 +253,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G34 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Play 8T | Dr.fone</u></a></li>
 </ul></div>
+
 

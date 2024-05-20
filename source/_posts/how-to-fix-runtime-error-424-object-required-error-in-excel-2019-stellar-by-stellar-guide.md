@@ -1,7 +1,7 @@
 ---
 title: How to fix runtime error 424 object required error in Excel 2019 | Stellar
-date: 2024-04-30T01:45:03.954Z
-updated: 2024-05-01T01:45:03.954Z
+date: 2024-05-19T18:32:11.909Z
+updated: 2024-05-20T18:32:11.909Z
 tags: 
   - repair
   - repair excel
@@ -963,4 +963,5 @@ You may receive the “unable to record” error in Excel while creating or stor
 <li><a href="https://ai-video-apps.techidaily.com/open-source-video-editing-on-a-budget-top-free-options-for-2024/"><u>Open-Source Video Editing on a Budget Top Free Options for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Pop 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

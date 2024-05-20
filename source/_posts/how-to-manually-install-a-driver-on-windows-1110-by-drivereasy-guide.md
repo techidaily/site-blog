@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 11/10
-date: 2024-04-30T01:48:39.887Z
+date: 2024-05-19T18:32:13.603Z
 tags: 
   - driver
   - device driver
@@ -237,4 +237,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On OnePlus Ace 3 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/remove-tecno-spark-10-4g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Tecno Spark 10 4G unlock screen</u></a></li>
 </ul></div>
+
 

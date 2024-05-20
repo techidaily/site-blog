@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Huawei Nova Y71 using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:06.818Z
+date: 2024-05-19T18:32:08.925Z
 tags: 
   - repair
 categories: 
@@ -242,4 +242,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia C110? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S23 FE FRP Bypass</u></a></li>
 </ul></div>
+
 

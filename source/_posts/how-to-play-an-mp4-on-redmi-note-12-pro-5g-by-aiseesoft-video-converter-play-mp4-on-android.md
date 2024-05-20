@@ -1,7 +1,7 @@
 ---
 title: How to play an MP4 on Redmi Note 12 Pro 5G?
-date: 2024-04-30T01:35:30.864Z
-updated: 2024-05-01T01:35:30.864Z
+date: 2024-05-19T18:32:06.880Z
+updated: 2024-05-20T18:32:06.880Z
 tags: 
   - mp4 video
   - mp4 android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y36i-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y36i in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
+
 

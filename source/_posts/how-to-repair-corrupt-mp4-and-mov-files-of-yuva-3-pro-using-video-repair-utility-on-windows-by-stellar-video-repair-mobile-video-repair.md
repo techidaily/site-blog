@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Yuva 3 Pro using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:26.935Z
-updated: 2024-05-01T01:39:26.935Z
+date: 2024-05-19T18:32:09.061Z
+updated: 2024-05-20T18:32:09.061Z
 tags: 
   - repair
 categories: 
@@ -234,4 +234,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-discover-how-to-download-mobile-phone-green-screen-videos-and-pictures-for-free-elevate-your-content-with-hd-quality-green-screen-frames.m/"><u>New 2024 Approved Discover How to Download Mobile Phone Green Screen Videos and Pictures for Free. Elevate Your Content with HD Quality Green Screen Frames</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-8-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 8 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Camon 20 Pro 5G
-date: 2024-04-30T01:36:38.424Z
+date: 2024-05-19T18:32:07.865Z
 tags: 
   - recover
 categories: 
@@ -256,4 +256,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-translation.techidaily.com/new-all-about-kapwing-video-translation-for-2024/"><u>New All About Kapwing Video Translation for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-15-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 15 Pro Max From Your Apple ID</u></a></li>
 </ul></div>
+
 

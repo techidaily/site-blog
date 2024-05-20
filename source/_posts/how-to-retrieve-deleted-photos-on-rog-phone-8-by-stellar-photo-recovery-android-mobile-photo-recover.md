@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on ROG Phone 8
-date: 2024-04-30T01:41:18.515Z
-updated: 2024-05-01T01:41:18.515Z
+date: 2024-05-19T18:32:09.874Z
+updated: 2024-05-20T18:32:09.874Z
 tags: 
   - recover
 categories: 
@@ -247,4 +247,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola G54 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-create-benime-whiteboard-animation-on-android/"><u>Updated 2024 Approved How to Create Benime Whiteboard Animation on Android</u></a></li>
 </ul></div>
+
 

@@ -486,3 +486,4 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y77t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y77t Safely | Dr.fone</u></a></li>
 </ul></div>
 
+

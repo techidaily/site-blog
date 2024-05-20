@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .xltx files
-date: 2024-04-30T01:47:52.223Z
-updated: 2024-05-01T01:47:52.223Z
+date: 2024-05-19T18:32:13.236Z
+updated: 2024-05-20T18:32:13.236Z
 tags: 
   - signer
   - signer online
@@ -190,4 +190,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord N30 SE | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

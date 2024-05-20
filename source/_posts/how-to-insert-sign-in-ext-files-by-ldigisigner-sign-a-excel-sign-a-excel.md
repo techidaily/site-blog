@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in {{ext}} files
-date: 2024-04-30T01:47:47.991Z
-updated: 2024-05-01T01:47:47.991Z
+date: 2024-05-19T18:32:13.161Z
+updated: 2024-05-20T18:32:13.161Z
 tags: 
   - signer
   - signer online
@@ -222,4 +222,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-se-2020-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone SE (2020) to iPod touch | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-vivo-y100t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y100t working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

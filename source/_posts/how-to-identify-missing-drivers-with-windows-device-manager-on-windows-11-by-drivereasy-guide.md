@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:47:02.859Z
+date: 2024-05-19T18:32:12.881Z
 tags: 
   - driver
   - device driver
@@ -178,4 +178,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 5G Phones with/without a PC</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-infinix-hot-40i-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Hot 40i Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

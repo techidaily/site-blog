@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Infinix .
-date: 2024-04-30T01:50:50.935Z
-updated: 2024-05-01T01:50:50.935Z
+date: 2024-05-19T18:32:14.744Z
+updated: 2024-05-20T18:32:14.744Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -160,4 +160,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo A79 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
+
 

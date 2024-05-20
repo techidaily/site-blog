@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 12 Space | Dr.fone
-date: 2024-04-30T01:45:19.240Z
-updated: 2024-05-01T01:45:19.240Z
+date: 2024-05-19T18:32:12.087Z
+updated: 2024-05-20T18:32:12.087Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -286,4 +286,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-13-pro-max-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 13 Pro Max Is Unlocked</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-add-expression-in-after-effects-for-2024/"><u>How to Add Expression in After Effects for 2024</u></a></li>
 </ul></div>
+
 

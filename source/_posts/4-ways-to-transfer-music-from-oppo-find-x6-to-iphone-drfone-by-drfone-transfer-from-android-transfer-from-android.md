@@ -472,3 +472,4 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-htc-by-fonelab-android-recover-call-logs/" ><u>How to recover old call logs from your HTC ?</u></a></li>
 </ul></div>
 
+

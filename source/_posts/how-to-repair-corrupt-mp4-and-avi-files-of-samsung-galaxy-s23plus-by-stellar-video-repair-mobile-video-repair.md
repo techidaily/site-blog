@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Samsung Galaxy S23+?
-date: 2024-04-30T01:38:52.878Z
+date: 2024-05-19T18:32:08.835Z
 tags: 
   - repair
 categories: 
@@ -173,4 +173,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-gt-5-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme GT 5 Device</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-f23-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo F23 5G to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

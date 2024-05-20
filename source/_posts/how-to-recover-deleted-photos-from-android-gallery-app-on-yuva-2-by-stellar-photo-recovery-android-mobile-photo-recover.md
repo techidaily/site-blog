@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Yuva 2
-date: 2024-04-30T01:35:58.143Z
+date: 2024-05-19T18:32:07.597Z
 tags: 
   - recover
 categories: 
@@ -281,4 +281,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo X Flip | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-x-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone X Activation Lock</u></a></li>
 </ul></div>
+
 

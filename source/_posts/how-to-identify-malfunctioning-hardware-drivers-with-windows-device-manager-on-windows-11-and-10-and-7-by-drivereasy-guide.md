@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-30T01:46:53.100Z
+date: 2024-05-19T18:32:12.753Z
 tags: 
   - driver
   - device driver
@@ -226,4 +226,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-editing.techidaily.com/1713950319746-if-you-want-to-color-grading-your-video-adobe-lightroom-will-be-the-right-choice-this-article-will-teach-you-how-to-use-lightroom-to-apply-color-grading-to-/"><u>If You Want to Color Grading Your Video, Adobe Lightroom Will Be the Right Choice. This Article Will Teach You How to Use Lightroom to Apply Color Grading to Videos with Ease for 2024</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic 6 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

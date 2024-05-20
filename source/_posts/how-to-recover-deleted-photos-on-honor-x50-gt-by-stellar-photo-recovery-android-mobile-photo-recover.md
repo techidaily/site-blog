@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Honor X50 GT
-date: 2024-04-30T01:36:42.956Z
+date: 2024-05-19T18:32:07.893Z
 tags: 
   - recover
 categories: 
@@ -244,4 +244,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>New How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

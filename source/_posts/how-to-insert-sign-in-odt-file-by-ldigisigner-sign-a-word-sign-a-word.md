@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .odt file
-date: 2024-04-30T01:47:48.755Z
-updated: 2024-05-01T01:47:48.755Z
+date: 2024-05-19T18:32:13.165Z
+updated: 2024-05-20T18:32:13.165Z
 tags: 
   - signer
   - signer online
@@ -201,4 +201,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-v27-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo V27 FRP Locks</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-vivo-y78t-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y78t Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Nova Y71
-date: 2024-04-30T01:41:10.639Z
-updated: 2024-05-01T01:41:10.639Z
+date: 2024-05-19T18:32:09.821Z
+updated: 2024-05-20T18:32:09.821Z
 tags: 
   - recover
 categories: 
@@ -246,4 +246,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevch265-files-on-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Samsung Galaxy S23+?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Nubia Z50 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

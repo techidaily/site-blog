@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Y200 using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:26.556Z
+date: 2024-05-19T18:32:09.059Z
 tags: 
   - repair
 categories: 
@@ -199,4 +199,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-tecno-spark-20-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Tecno Spark 20 on Windows?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-12-pro-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 12 Pro Is Unlocked</u></a></li>
 </ul></div>
+
 

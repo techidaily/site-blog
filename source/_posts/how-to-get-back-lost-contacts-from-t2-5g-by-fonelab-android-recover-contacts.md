@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from T2 5G.
-date: 2024-04-30T01:45:46.519Z
+date: 2024-05-19T18:32:12.286Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Gionee F3 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y78t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y78t to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

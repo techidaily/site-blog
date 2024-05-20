@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Vivo Y100i Power 5G
-date: 2024-04-30T01:35:31.421Z
+date: 2024-05-19T18:32:07.356Z
 tags: 
   - recover
 categories: 
@@ -292,4 +292,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2023-file-by-stellar-guide/"><u>Get Rid of corrupt Excel 2023 File</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor X50i | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Honor X50.
-date: 2024-04-30T01:50:49.413Z
+date: 2024-05-19T18:32:14.737Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -187,4 +187,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-guide-to-video-resumes-4-best-makers-with-free-templates/"><u>2024 Approved The Ultimate Guide to Video Resumes 4 Best Makers with Free Templates</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g84-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G84 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

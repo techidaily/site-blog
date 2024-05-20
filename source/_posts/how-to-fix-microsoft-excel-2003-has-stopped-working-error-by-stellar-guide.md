@@ -1,6 +1,6 @@
 ---
 title: How to fix Microsoft Excel 2003 has stopped working error?
-date: 2024-04-30T01:44:49.528Z
+date: 2024-05-19T18:32:11.729Z
 tags: 
   - repair
   - repair excel
@@ -94,4 +94,5 @@ _**Note:** Several users have reported about encountering the ‘_**_Excel has 
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-video-editing-on-chromebook-a-step-by-step-guide-to-using-any-app/"><u>Updated In 2024, Video Editing on Chromebook A Step-by-Step Guide to Using Any App</u></a></li>
 <li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

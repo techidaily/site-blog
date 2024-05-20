@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on 11X 5G
-date: 2024-04-30T01:35:31.198Z
+date: 2024-05-19T18:32:07.161Z
 tags: 
   - recover
 categories: 
@@ -273,4 +273,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 10 4G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

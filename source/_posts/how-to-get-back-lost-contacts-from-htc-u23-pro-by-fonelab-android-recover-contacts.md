@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from HTC U23 Pro.
-date: 2024-04-30T01:45:31.725Z
+date: 2024-05-19T18:32:12.173Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-itel-a70-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel A70 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

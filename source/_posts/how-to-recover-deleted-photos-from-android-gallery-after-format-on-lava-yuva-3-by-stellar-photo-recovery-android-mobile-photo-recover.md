@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Lava Yuva 3
-date: 2024-04-30T01:35:31.271Z
+date: 2024-05-19T18:32:07.234Z
 tags: 
   - recover
 categories: 
@@ -257,4 +257,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-samsung-galaxy-a14-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Samsung Galaxy A14 4G</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-y55s-5g-2023-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Y55s 5G (2023).</u></a></li>
 </ul></div>
+
 

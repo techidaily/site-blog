@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Sony Xperia 5 V.
-date: 2024-04-30T01:50:05.474Z
+date: 2024-05-19T18:32:14.372Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -164,4 +164,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-movie-intro-creators-for-you/"><u>The Ultimate List 10 Best Movie Intro Creators for You</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-android-review-a-comprehensive-guide-for-2024/"><u>New VN Video Editor Android Review A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Razr 40?
-date: 2024-04-30T01:35:30.863Z
+date: 2024-05-19T18:32:06.879Z
 tags: 
   - mp4 video
   - mp4 android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10C | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-z50-ultra-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Z50 Ultra Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

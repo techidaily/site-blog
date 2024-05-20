@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Itel A60
-date: 2024-04-30T01:36:45.439Z
+date: 2024-05-19T18:32:07.908Z
 tags: 
   - recover
 categories: 
@@ -290,4 +290,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-speed-up-video-with-canva-online-tool/"><u>In 2024, How to Speed Up Video with Canva Online Tool?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

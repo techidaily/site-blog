@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xlb files
-date: 2024-04-30T01:47:54.518Z
-updated: 2024-05-01T01:47:54.518Z
+date: 2024-05-19T18:32:13.257Z
+updated: 2024-05-20T18:32:13.257Z
 tags: 
   - signer
   - signer online
@@ -205,4 +205,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-xr-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone XR iCloud Bypass</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-music-from-vivo-s17-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Vivo S17 Pro</u></a></li>
 </ul></div>
+
 

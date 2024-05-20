@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Tecno Spark 10 5G with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:54.955Z
-updated: 2024-05-01T01:38:54.955Z
+date: 2024-05-19T18:32:08.857Z
+updated: 2024-05-20T18:32:08.857Z
 tags: 
   - repair
 categories: 
@@ -204,4 +204,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-note-50-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Note 50 on Windows?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-a38-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A38 Unlock Without Password</u></a></li>
 </ul></div>
+
 

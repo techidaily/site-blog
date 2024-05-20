@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XR without iTunes? | Dr.fone
-date: 2024-04-30T01:43:07.248Z
-updated: 2024-05-01T01:43:07.248Z
+date: 2024-05-19T18:32:10.814Z
+updated: 2024-05-20T18:32:10.814Z
 tags: 
   - ios system repair
   - iphone repair
@@ -410,4 +410,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

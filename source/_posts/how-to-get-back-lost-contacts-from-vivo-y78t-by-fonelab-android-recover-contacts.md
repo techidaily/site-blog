@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Vivo Y78t.
-date: 2024-04-30T01:45:49.364Z
+date: 2024-05-19T18:32:12.303Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -213,4 +213,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-easily-match-color-in-video-clips-with-final-cut-pro/"><u>Updated How to Easily Match Color in Video Clips with Final Cut Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-play-8t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Play 8T to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

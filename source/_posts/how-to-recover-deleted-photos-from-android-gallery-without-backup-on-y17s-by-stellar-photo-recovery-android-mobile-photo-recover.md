@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Y17s
-date: 2024-04-30T01:36:33.620Z
-updated: 2024-05-01T01:36:33.620Z
+date: 2024-05-19T18:32:07.834Z
+updated: 2024-05-20T18:32:07.834Z
 tags: 
   - recover
 categories: 
@@ -271,4 +271,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-a2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi A2 without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

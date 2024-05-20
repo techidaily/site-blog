@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10
-date: 2024-04-30T01:47:12.226Z
+date: 2024-05-19T18:32:12.935Z
 tags: 
   - driver
   - device driver
@@ -265,4 +265,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo A56s 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Infinix Hot 40?
-date: 2024-04-30T01:37:42.625Z
+date: 2024-05-19T18:32:08.287Z
 tags: 
   - repair
 categories: 
@@ -213,4 +213,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-30i-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 30i to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oppo-k11x-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Oppo K11x</u></a></li>
 </ul></div>
+
 

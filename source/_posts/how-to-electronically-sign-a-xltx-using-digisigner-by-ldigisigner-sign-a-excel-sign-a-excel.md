@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xltx Using DigiSigner
-date: 2024-04-30T01:43:21.316Z
-updated: 2024-05-01T01:43:21.316Z
+date: 2024-05-19T18:32:10.934Z
+updated: 2024-05-20T18:32:10.934Z
 tags: 
   - signer
   - signer online
@@ -249,4 +249,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark 20C | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Find N3 | Dr.fone</u></a></li>
 </ul></div>
+
 

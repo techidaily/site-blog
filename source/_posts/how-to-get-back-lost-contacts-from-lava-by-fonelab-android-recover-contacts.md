@@ -1,7 +1,7 @@
 ---
 title: How to get back lost contacts from Lava .
-date: 2024-04-30T01:45:35.568Z
-updated: 2024-05-01T01:45:35.568Z
+date: 2024-05-19T18:32:12.189Z
+updated: 2024-05-20T18:32:12.189Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -166,4 +166,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-htc-u23-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast HTC U23 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Hot 40i.</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Spark 20 Pro+.
-date: 2024-04-30T01:46:09.301Z
+date: 2024-05-19T18:32:12.417Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -192,4 +192,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-s23-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy S23 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

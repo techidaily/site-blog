@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2013 Using DigiSigner
-date: 2024-04-30T01:43:16.169Z
-updated: 2024-05-01T01:43:16.169Z
+date: 2024-05-19T18:32:10.894Z
+updated: 2024-05-20T18:32:10.894Z
 tags: 
   - signer
   - signer online
@@ -202,4 +202,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Edge 40 Neo | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Smart 7? | Dr.fone</u></a></li>
 </ul></div>
+
 

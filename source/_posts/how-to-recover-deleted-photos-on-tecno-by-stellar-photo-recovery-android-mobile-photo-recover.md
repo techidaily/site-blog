@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Tecno
-date: 2024-04-30T01:37:05.580Z
+date: 2024-05-19T18:32:08.035Z
 tags: 
   - recover
 categories: 
@@ -243,4 +243,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone SE (2022)?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

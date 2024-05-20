@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on X90S
-date: 2024-04-30T01:35:31.433Z
+date: 2024-05-19T18:32:07.380Z
 tags: 
   - recover
 categories: 
@@ -246,4 +246,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-s18-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo S18 Pro for Streaming | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
+
 

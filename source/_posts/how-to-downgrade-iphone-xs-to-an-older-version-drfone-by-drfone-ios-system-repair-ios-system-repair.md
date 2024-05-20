@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XS to an Older Version? | Dr.fone
-date: 2024-04-30T01:43:10.868Z
-updated: 2024-05-01T01:43:10.868Z
+date: 2024-05-19T18:32:10.833Z
+updated: 2024-05-20T18:32:10.833Z
 tags: 
   - ios system repair
   - iphone repair
@@ -404,4 +404,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://bypass-frp.techidaily.com/xiaomi-14-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi 14 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-reno-10-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Reno 10 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

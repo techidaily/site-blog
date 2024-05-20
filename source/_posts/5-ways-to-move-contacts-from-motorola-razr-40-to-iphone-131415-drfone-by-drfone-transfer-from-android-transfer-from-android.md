@@ -533,3 +533,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on V27
-date: 2024-04-30T01:41:22.338Z
+date: 2024-05-19T18:32:09.893Z
 tags: 
   - recover
 categories: 
@@ -314,4 +314,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-infinix-hot-30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Infinix Hot 30 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-f04-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy F04 Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

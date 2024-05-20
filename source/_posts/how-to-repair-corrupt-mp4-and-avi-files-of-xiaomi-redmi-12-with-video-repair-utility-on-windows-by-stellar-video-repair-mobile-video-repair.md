@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Xiaomi Redmi 12 with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:58.956Z
+date: 2024-05-19T18:32:08.880Z
 tags: 
   - repair
 categories: 
@@ -170,4 +170,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11f-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11F 5G FRP Locks</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
+
 

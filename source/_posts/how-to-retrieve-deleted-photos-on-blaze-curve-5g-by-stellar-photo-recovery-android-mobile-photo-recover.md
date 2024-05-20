@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Blaze Curve 5G
-date: 2024-04-30T01:40:58.152Z
+date: 2024-05-19T18:32:09.745Z
 tags: 
   - recover
 categories: 
@@ -272,4 +272,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

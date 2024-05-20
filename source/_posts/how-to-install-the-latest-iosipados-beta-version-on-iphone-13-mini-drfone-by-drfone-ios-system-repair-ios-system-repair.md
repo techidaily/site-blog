@@ -1,7 +1,7 @@
 ---
 title: How To Install the Latest iOS/iPadOS Beta Version on iPhone 13 mini? | Dr.fone
-date: 2024-04-30T01:48:16.583Z
-updated: 2024-05-01T01:48:16.583Z
+date: 2024-05-19T18:32:13.386Z
+updated: 2024-05-20T18:32:13.386Z
 tags: 
   - ios system repair
   - iphone repair
@@ -347,4 +347,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-asus-rog-phone-8-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Asus ROG Phone 8 Pro Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-v30t-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme V30T</u></a></li>
 </ul></div>
+
 

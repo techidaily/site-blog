@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Itel A05s
-date: 2024-04-30T01:36:45.251Z
+date: 2024-05-19T18:32:07.907Z
 tags: 
   - recover
 categories: 
@@ -248,4 +248,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel P40+? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 14 Pro Max</u></a></li>
 </ul></div>
+
 

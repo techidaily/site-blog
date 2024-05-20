@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Itel A60.
-date: 2024-04-30T01:45:58.084Z
+date: 2024-05-19T18:32:12.357Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -162,4 +162,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme GT 5 (240W)? | Dr.fone</u></a></li>
 </ul></div>
+
 

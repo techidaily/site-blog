@@ -1,6 +1,6 @@
 ---
 title: How to install and update device drivers manually on Windows 11/10
-date: 2024-04-30T01:47:58.261Z
+date: 2024-05-19T18:32:13.280Z
 tags: 
   - driver
   - device driver
@@ -278,4 +278,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oneplus-nord-n30-se-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset OnePlus Nord N30 SE Without Volume Buttons | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 6 with IMEI Code?</u></a></li>
 </ul></div>
+
 

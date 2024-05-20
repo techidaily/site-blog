@@ -1,7 +1,7 @@
 ---
 title: How to Repair Broken video files of Infinix Smart 8 HD on Mac?
-date: 2024-04-30T01:38:10.845Z
-updated: 2024-05-01T01:38:10.845Z
+date: 2024-05-19T18:32:08.474Z
+updated: 2024-05-20T18:32:08.474Z
 tags: 
   - repair
 categories: 
@@ -171,4 +171,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-which-mp3-converter-is-right-for-your-mac/"><u>Updated In 2024, Which MP3 Converter Is Right for Your Mac?</u></a></li>
 </ul></div>
+
 

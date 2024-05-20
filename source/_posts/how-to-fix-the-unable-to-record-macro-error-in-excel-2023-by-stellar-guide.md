@@ -1,6 +1,6 @@
 ---
 title: How to Fix the Unable to Record Macro Error in Excel 2023?
-date: 2024-04-30T01:45:08.810Z
+date: 2024-05-19T18:32:11.971Z
 tags: 
   - repair
   - repair excel
@@ -168,4 +168,5 @@ You may receive the “unable to record” error in Excel while creating or stor
 <li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-itel-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Itel</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-magic-vs-2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Magic Vs 2 to Another | Dr.fone</u></a></li>
 </ul></div>
+
 

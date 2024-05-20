@@ -1,6 +1,6 @@
 ---
 title: How to install and update hardware device drivers manually in Windows 11
-date: 2024-04-30T01:47:59.592Z
+date: 2024-05-19T18:32:13.287Z
 tags: 
   - driver
   - device driver
@@ -236,4 +236,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy S24</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme 12 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-30T01:47:31.748Z
+date: 2024-05-19T18:32:13.071Z
 tags: 
   - driver
   - device driver
@@ -197,4 +197,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-14-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 14 Users</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-video-editing-on-chromebook-a-step-by-step-guide-to-using-any-app/"><u>Updated In 2024, Video Editing on Chromebook A Step-by-Step Guide to Using Any App</u></a></li>
 </ul></div>
+
 

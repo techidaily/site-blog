@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:46:48.505Z
+date: 2024-05-19T18:32:12.725Z
 tags: 
   - driver
   - device driver
@@ -228,4 +228,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor 70 Lite 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F15 5G?</u></a></li>
 </ul></div>
+
 

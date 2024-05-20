@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Realme Narzo 60 5G
-date: 2024-04-30T01:37:00.445Z
+date: 2024-05-19T18:32:08.010Z
 tags: 
   - recover
 categories: 
@@ -283,4 +283,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-topics.techidaily.com/new-what-is-ai-generated-text/"><u>New What Is AI Generated Text?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
+
 

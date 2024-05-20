@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted contacts from Infinix .
-date: 2024-04-30T01:49:51.502Z
-updated: 2024-05-01T01:49:51.502Z
+date: 2024-05-19T18:32:14.280Z
+updated: 2024-05-20T18:32:14.280Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -218,4 +218,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-reno-10-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Reno 10 5G FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-z-flip-5-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy Z Flip 5 Android SIM Unlock APK</u></a></li>
 </ul></div>
+
 

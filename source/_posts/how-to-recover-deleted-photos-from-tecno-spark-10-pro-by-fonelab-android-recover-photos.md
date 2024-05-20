@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Tecno Spark 10 Pro.
-date: 2024-04-30T01:51:06.923Z
+date: 2024-05-19T18:32:14.822Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/converting-voice-to-written-language-a-guide/"><u>Converting Voice to Written Language A Guide</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Note 30 VIP
-date: 2024-04-30T01:36:51.847Z
-updated: 2024-05-01T01:36:51.847Z
+date: 2024-05-19T18:32:07.950Z
+updated: 2024-05-20T18:32:07.950Z
 tags: 
   - recover
 categories: 
@@ -256,4 +256,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a25-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A25 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

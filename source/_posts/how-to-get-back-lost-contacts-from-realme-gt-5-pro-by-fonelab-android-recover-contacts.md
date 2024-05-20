@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Realme GT 5 Pro.
-date: 2024-04-30T01:45:42.915Z
+date: 2024-05-19T18:32:12.266Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 without Losing Any Data? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-note-30i-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Note 30i Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

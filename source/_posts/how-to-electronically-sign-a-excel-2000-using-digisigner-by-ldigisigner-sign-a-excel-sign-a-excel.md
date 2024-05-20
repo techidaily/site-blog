@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2000 Using DigiSigner
-date: 2024-04-30T01:43:15.414Z
-updated: 2024-05-01T01:43:15.414Z
+date: 2024-05-19T18:32:10.889Z
+updated: 2024-05-20T18:32:10.889Z
 tags: 
   - signer
   - signer online
@@ -213,4 +213,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-text-animation-for-videos/"><u>In 2024, How to Create Text Animation for Videos</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-below-are-some-of-the-top-five-flv-editors-available-for-use-the-one-you-choose-will-depend-on-the-kind-of-editing-you-have-in-mind/"><u>Updated In 2024, Below Are some of the Top Five FLV Editors Available for Use. The One You Choose Will Depend on the Kind of Editing You Have in Mind</u></a></li>
 </ul></div>
+
 

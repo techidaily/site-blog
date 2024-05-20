@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .txt file
-date: 2024-04-30T01:48:32.730Z
-updated: 2024-05-01T01:48:32.730Z
+date: 2024-05-19T18:32:13.528Z
+updated: 2024-05-20T18:32:13.528Z
 tags: 
   - signer
   - signer online
@@ -197,4 +197,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-70-lite-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor 70 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/this-article-focuses-on-telling-you-the-top-10-free-and-best-quicktime-mov-movie-editors-all-of-them-are-very-easy-to-use-for-2024/"><u>This Article Focuses on Telling You the Top 10 FREE and Best QuickTime (MOV) Movie Editors. All of Them Are Very Easy to Use for 2024</u></a></li>
 </ul></div>
+
 

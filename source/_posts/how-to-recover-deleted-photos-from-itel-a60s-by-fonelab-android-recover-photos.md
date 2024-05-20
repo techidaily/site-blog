@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Itel A60s.
-date: 2024-04-30T01:50:53.887Z
+date: 2024-05-19T18:32:14.759Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -214,4 +214,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/new-break-free-from-os-limits-running-windows-and-mac-video-editors-on-chromebook/"><u>New Break Free From OS Limits Running Windows and Mac Video Editors on Chromebook</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-14-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 14 Plus without Password?</u></a></li>
 </ul></div>
+
 

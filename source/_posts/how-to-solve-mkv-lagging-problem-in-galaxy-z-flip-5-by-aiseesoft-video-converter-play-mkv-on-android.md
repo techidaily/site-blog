@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Galaxy Z Flip 5?
-date: 2024-04-30T01:41:56.634Z
+date: 2024-05-19T18:32:10.145Z
 tags: 
   - mkv video
   - mkv android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-v29e-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on V29e.</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-mts-video-editing-made-easy-top-5-software-solutions/"><u>New MTS Video Editing Made Easy Top 5 Software Solutions</u></a></li>
 </ul></div>
+
 

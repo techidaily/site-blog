@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Realme C51
-date: 2024-04-30T01:37:00.071Z
+date: 2024-05-19T18:32:08.008Z
 tags: 
   - recover
 categories: 
@@ -266,4 +266,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/bricked-your-vivo-y27-4g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y27 4G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-edge-40-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Edge 40 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

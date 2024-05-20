@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Moto G14?
-date: 2024-04-30T01:35:30.983Z
+date: 2024-05-19T18:32:07.003Z
 tags: 
   - hevc video
   - hevc android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Max Without a Passcode</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

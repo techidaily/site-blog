@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Nokia C12.
-date: 2024-04-30T01:46:02.769Z
+date: 2024-05-19T18:32:12.391Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -199,4 +199,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

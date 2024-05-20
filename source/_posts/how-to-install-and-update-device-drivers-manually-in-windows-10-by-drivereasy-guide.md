@@ -1,6 +1,6 @@
 ---
 title: How to install and update device drivers manually in Windows 10
-date: 2024-04-30T01:47:55.851Z
+date: 2024-05-19T18:32:13.264Z
 tags: 
   - driver
   - device driver
@@ -225,4 +225,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Sony Xperia 1 V?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-add-transition-effects-in-premiere-pro-for-2024/"><u>Updated Guide to Add Transition Effects in Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

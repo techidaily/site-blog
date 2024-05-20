@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .ott file Using DigiSigner
-date: 2024-04-30T01:43:18.277Z
-updated: 2024-05-01T01:43:18.277Z
+date: 2024-05-19T18:32:10.912Z
+updated: 2024-05-20T18:32:10.912Z
 tags: 
   - signer
   - signer online
@@ -223,4 +223,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a05-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A05 Device</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 

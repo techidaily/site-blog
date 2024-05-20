@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xlsx Using DigiSigner
-date: 2024-04-30T01:43:20.931Z
-updated: 2024-05-01T01:43:20.931Z
+date: 2024-05-19T18:32:10.933Z
+updated: 2024-05-20T18:32:10.933Z
 tags: 
   - signer
   - signer online
@@ -221,4 +221,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A1 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-g24-power-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola G24 Power</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Honor Play 8T
-date: 2024-04-30T01:36:05.040Z
+date: 2024-05-19T18:32:07.637Z
 tags: 
   - recover
 categories: 
@@ -313,4 +313,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT 5 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-13t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi 13T Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

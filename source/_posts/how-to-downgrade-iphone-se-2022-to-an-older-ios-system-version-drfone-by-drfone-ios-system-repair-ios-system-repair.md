@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2022) to an Older iOS System Version? | Dr.fone
-date: 2024-04-30T01:42:58.928Z
-updated: 2024-05-01T01:42:58.928Z
+date: 2024-05-19T18:32:10.763Z
+updated: 2024-05-20T18:32:10.763Z
 tags: 
   - ios system repair
   - iphone repair
@@ -380,4 +380,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-20c-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 20C | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-c22-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia C22 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted pictures from A18.
-date: 2024-04-30T01:51:19.747Z
+date: 2024-05-19T18:32:14.952Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://review-topics.techidaily.com/poco-bypass-tools-to-bypass-lock-screen-poco-m6-pro-4g-by-drfone-android-unlock-android-unlock/"><u>Poco Bypass Tools to Bypass Lock Screen(Poco M6 Pro 4G)</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-blaze-2-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Blaze 2 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

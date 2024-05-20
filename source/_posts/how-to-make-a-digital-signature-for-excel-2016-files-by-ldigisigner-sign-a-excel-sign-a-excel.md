@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2016 files
-date: 2024-04-30T01:48:30.120Z
-updated: 2024-05-01T01:48:30.120Z
+date: 2024-05-19T18:32:13.514Z
+updated: 2024-05-20T18:32:13.514Z
 tags: 
   - signer
   - signer online
@@ -251,4 +251,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-editing-video.techidaily.com/new-add-fade-in-windows-video-editor/"><u>New Add Fade in Windows Video Editor</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

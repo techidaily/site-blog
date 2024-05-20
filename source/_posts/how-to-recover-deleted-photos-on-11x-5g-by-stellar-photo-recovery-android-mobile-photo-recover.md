@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on 11X 5G
-date: 2024-04-30T01:36:35.744Z
-updated: 2024-05-01T01:36:35.744Z
+date: 2024-05-19T18:32:07.848Z
+updated: 2024-05-20T18:32:07.848Z
 tags: 
   - recover
 categories: 
@@ -265,4 +265,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola Moto G84 5G support - Turn Off Screen Lock.</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a05s-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A05s? | Dr.fone</u></a></li>
 </ul></div>
+
 

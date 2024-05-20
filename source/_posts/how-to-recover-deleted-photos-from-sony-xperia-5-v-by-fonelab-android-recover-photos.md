@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Sony Xperia 5 V.
-date: 2024-04-30T01:51:05.972Z
+date: 2024-05-19T18:32:14.818Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -158,4 +158,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Magic 6 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-s17-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo S17 Phone</u></a></li>
 </ul></div>
+
 

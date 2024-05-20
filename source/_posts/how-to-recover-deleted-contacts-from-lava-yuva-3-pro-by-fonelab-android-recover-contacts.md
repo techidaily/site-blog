@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Lava Yuva 3 Pro.
-date: 2024-04-30T01:49:54.571Z
+date: 2024-05-19T18:32:14.292Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -186,4 +186,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-aspect-ratio-calculators-for-designers/"><u>New The Ultimate List of Aspect Ratio Calculators for Designers</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
+
 

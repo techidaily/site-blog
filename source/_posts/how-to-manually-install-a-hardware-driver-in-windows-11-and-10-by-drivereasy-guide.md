@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Hardware Driver in Windows 11 & 10
-date: 2024-04-30T01:48:41.027Z
+date: 2024-05-19T18:32:13.611Z
 tags: 
   - driver
   - device driver
@@ -247,4 +247,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

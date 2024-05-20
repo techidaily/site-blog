@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Vivo Y36i?
-date: 2024-04-30T01:37:59.427Z
+date: 2024-05-19T18:32:08.397Z
 tags: 
   - repair
 categories: 
@@ -215,4 +215,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-p40-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel P40</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-change-video-thumbnail-on-google-drive-for-2024/"><u>Updated How to Change Video Thumbnail on Google Drive for 2024</u></a></li>
 </ul></div>
+
 

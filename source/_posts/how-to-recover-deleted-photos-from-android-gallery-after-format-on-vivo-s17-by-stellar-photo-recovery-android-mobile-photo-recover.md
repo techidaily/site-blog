@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Vivo S17
-date: 2024-04-30T01:35:31.412Z
+date: 2024-05-19T18:32:07.346Z
 tags: 
   - recover
 categories: 
@@ -271,4 +271,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Pova 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

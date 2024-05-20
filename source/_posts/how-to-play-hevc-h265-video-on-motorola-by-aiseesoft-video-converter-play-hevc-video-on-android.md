@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola ?
-date: 2024-04-30T01:35:31.033Z
+date: 2024-05-19T18:32:07.043Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo S17e | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 11 Pro</u></a></li>
 </ul></div>
+
 

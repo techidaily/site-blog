@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Motorola .
-date: 2024-04-30T01:46:00.227Z
+date: 2024-05-19T18:32:12.370Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -205,4 +205,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-13c-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi 13C? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-lenovo-thinkphone-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lenovo ThinkPhone Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .dotm file
-date: 2024-04-30T01:48:28.779Z
-updated: 2024-05-01T01:48:28.779Z
+date: 2024-05-19T18:32:13.507Z
+updated: 2024-05-20T18:32:13.507Z
 tags: 
   - signer
   - signer online
@@ -187,4 +187,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 mini? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

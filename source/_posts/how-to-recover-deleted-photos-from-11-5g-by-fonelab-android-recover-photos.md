@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from 11 5G.
-date: 2024-04-30T01:50:42.852Z
+date: 2024-05-19T18:32:14.697Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -235,4 +235,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy M34 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-sony-xperia-1-v-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Sony Xperia 1 V to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

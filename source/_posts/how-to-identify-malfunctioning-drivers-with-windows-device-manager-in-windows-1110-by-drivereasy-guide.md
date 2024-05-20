@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:46:48.903Z
+date: 2024-05-19T18:32:12.728Z
 tags: 
   - driver
   - device driver
@@ -225,4 +225,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 6s</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12plus-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12+ 5G Device</u></a></li>
 </ul></div>
+
 

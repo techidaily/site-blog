@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on 12 Pro+ 5G
-date: 2024-04-30T01:36:36.148Z
+date: 2024-05-19T18:32:07.851Z
 tags: 
   - recover
 categories: 
@@ -266,4 +266,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Magic 5 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

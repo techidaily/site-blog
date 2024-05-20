@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10
-date: 2024-04-30T01:47:13.753Z
+date: 2024-05-19T18:32:12.943Z
 tags: 
   - driver
   - device driver
@@ -189,4 +189,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-6s-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 6s Plus</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

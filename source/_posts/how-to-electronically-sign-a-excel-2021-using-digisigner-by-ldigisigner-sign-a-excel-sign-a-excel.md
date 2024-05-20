@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2021 Using DigiSigner
-date: 2024-04-30T01:43:16.736Z
-updated: 2024-05-01T01:43:16.736Z
+date: 2024-05-19T18:32:10.897Z
+updated: 2024-05-20T18:32:10.897Z
 tags: 
   - signer
   - signer online
@@ -195,4 +195,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia C12 Plus | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor 90 Lite? | Dr.fone</u></a></li>
 </ul></div>
+
 

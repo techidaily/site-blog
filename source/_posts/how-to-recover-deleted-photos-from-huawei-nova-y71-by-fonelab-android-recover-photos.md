@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Huawei Nova Y71.
-date: 2024-04-30T01:50:50.366Z
+date: 2024-05-19T18:32:14.742Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -147,4 +147,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic 6 Pro</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-6-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 6 Plus to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of 11 Pro+ using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:00.772Z
+date: 2024-05-19T18:32:08.890Z
 tags: 
   - repair
 categories: 
@@ -215,4 +215,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/mac-movie-creation-a-beginners-tutorial-for-2024/"><u>Mac Movie Creation A Beginners Tutorial for 2024</u></a></li>
 </ul></div>
+
 

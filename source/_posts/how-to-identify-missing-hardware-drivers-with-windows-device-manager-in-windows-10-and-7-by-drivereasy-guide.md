@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-04-30T01:47:03.626Z
+date: 2024-05-19T18:32:12.886Z
 tags: 
   - driver
   - device driver
@@ -188,4 +188,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g23-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G23 by Name | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-6-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 6 Plus for Free</u></a></li>
 </ul></div>
+
 

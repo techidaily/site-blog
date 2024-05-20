@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 13 Space | Dr.fone
-date: 2024-04-30T01:45:20.010Z
-updated: 2024-05-01T01:45:20.010Z
+date: 2024-05-19T18:32:12.101Z
+updated: 2024-05-20T18:32:12.101Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -288,4 +288,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-max-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro Max to Other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P55T | Dr.fone</u></a></li>
 </ul></div>
+
 

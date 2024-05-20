@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Nokia G42 5G
-date: 2024-04-30T01:36:50.528Z
+date: 2024-05-19T18:32:07.937Z
 tags: 
   - recover
 categories: 
@@ -265,4 +265,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-s17e-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo S17e to Another | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
 </ul></div>
+
 

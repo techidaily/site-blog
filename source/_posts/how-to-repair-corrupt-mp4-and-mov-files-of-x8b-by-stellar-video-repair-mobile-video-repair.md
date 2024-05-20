@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of X8b?
-date: 2024-04-30T01:39:24.543Z
+date: 2024-05-19T18:32:09.048Z
 tags: 
   - repair
 categories: 
@@ -194,4 +194,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-apps.techidaily.com/new-top-10-vegas-pro-alternatives-for-mac-free-and-paid-for-2024/"><u>New Top 10 Vegas Pro Alternatives for Mac (Free & Paid) for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

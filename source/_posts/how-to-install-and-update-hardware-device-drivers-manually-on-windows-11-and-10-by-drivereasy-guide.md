@@ -1,6 +1,6 @@
 ---
 title: How to install and update hardware device drivers manually on Windows 11 & 10
-date: 2024-04-30T01:48:00.922Z
+date: 2024-05-19T18:32:13.293Z
 tags: 
   - driver
   - device driver
@@ -264,4 +264,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-a78-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo A78 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-eager-to-discover-the-top-rated-and-reliable-luts-that-can-be-used-in-shotcut-this-article-will-help-you-a-lot-with-this-matter/"><u>New 2024 Approved Are You Eager to Discover the Top-Rated and Reliable LUTs that Can Be Used in Shotcut? This Article Will Help You a Lot with This Matter</u></a></li>
 </ul></div>
+
 

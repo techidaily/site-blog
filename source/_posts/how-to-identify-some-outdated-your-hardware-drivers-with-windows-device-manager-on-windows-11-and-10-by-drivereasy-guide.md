@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated your hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:38.083Z
+date: 2024-05-19T18:32:13.109Z
 tags: 
   - driver
   - device driver
@@ -266,4 +266,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-edge-2023-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Edge 2023</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Yuva 3 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

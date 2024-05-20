@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from HTC .
-date: 2024-04-30T01:50:49.606Z
+date: 2024-05-19T18:32:14.738Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -176,4 +176,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-windows-movie-maker-save-mp4-file/"><u>New How Windows Movie Maker Save MP4 File</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-f25-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo F25 Pro 5G Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:47:14.325Z
+date: 2024-05-19T18:32:12.945Z
 tags: 
   - driver
   - device driver
@@ -292,4 +292,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco C65 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-vivo-g2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo G2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

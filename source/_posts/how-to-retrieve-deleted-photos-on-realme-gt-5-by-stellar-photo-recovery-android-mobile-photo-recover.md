@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Realme GT 5
-date: 2024-04-30T01:41:17.007Z
+date: 2024-05-19T18:32:09.866Z
 tags: 
   - recover
 categories: 
@@ -266,4 +266,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-zte-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For ZTE</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-oppo-f23-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo F23 5G Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

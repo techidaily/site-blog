@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Nord N30 5G?
-date: 2024-04-30T01:38:45.348Z
-updated: 2024-05-01T01:38:45.348Z
+date: 2024-05-19T18:32:08.763Z
+updated: 2024-05-20T18:32:08.763Z
 tags: 
   - repair
 categories: 
@@ -197,4 +197,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-zte-axon-40-lite-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from ZTE Axon 40 Lite FRP Bypass</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 10
-date: 2024-04-30T01:47:16.850Z
+date: 2024-05-19T18:32:12.957Z
 tags: 
   - driver
   - device driver
@@ -300,4 +300,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40i-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40i Phone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oneplus-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your OnePlus Phone</u></a></li>
 </ul></div>
+
 

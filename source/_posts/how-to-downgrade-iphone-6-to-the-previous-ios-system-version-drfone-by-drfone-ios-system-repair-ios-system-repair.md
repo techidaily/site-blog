@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6 to the Previous iOS System Version? | Dr.fone
-date: 2024-04-30T01:42:40.865Z
-updated: 2024-05-01T01:42:40.865Z
+date: 2024-05-19T18:32:10.664Z
+updated: 2024-05-20T18:32:10.664Z
 tags: 
   - ios system repair
   - iphone repair
@@ -420,4 +420,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://ai-voice.techidaily.com/new-top-6-free-talking-stock-photo-sites-for-2024/"><u>New Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-15-best-capcut-templates-for-slow-motion-editing/"><u>New 15 Best CapCut Templates for Slow Motion Editing</u></a></li>
 </ul></div>
+
 

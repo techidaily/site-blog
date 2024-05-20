@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .docx file
-date: 2024-04-30T01:48:28.397Z
-updated: 2024-05-01T01:48:28.397Z
+date: 2024-05-19T18:32:13.505Z
+updated: 2024-05-20T18:32:13.505Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-13t-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from 13T.</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-quik-or-not-a-comprehensive-review-and-pc-alternatives/"><u>New 2024 Approved Quik or Not A Comprehensive Review and PC Alternatives</u></a></li>
 </ul></div>
+
 

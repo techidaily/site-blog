@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .wbk file
-date: 2024-04-30T01:48:33.114Z
-updated: 2024-05-01T01:48:33.114Z
+date: 2024-05-19T18:32:13.530Z
+updated: 2024-05-20T18:32:13.530Z
 tags: 
   - signer
   - signer online
@@ -237,4 +237,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-stunning-intros-with-these-top-10-pc-software/"><u>New 2024 Approved Create Stunning Intros with These Top 10 PC Software</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

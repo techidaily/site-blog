@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Honor X7b?
-date: 2024-04-30T01:35:30.756Z
+date: 2024-05-19T18:32:06.789Z
 tags: 
   - repair
 categories: 
@@ -219,4 +219,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12t-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12T Pro Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

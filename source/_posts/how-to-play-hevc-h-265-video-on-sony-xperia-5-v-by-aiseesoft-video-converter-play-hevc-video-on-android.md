@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Sony Xperia 5 V?
-date: 2024-04-30T01:35:31.014Z
+date: 2024-05-19T18:32:07.022Z
 tags: 
   - hevc video
   - hevc android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Find X7 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-lava-blaze-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Blaze Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

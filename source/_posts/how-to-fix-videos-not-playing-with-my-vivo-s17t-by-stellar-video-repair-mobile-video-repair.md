@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Vivo S17t?
-date: 2024-04-30T01:45:17.574Z
+date: 2024-05-19T18:32:12.076Z
 tags: 
   - repair
 categories: 
@@ -225,4 +225,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy XCover 7</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Google Pixel 8? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Realme Note 50
-date: 2024-04-30T01:37:01.018Z
+date: 2024-05-19T18:32:08.012Z
 tags: 
   - recover
 categories: 
@@ -261,4 +261,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-13-mini-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 13 mini?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-using-track-matte-and-tracking-in-adobe-after-effects-reviewing-all-possibilities/"><u>2024 Approved Using Track Matte and Tracking in Adobe After Effects Reviewing All Possibilities</u></a></li>
 </ul></div>
+
 

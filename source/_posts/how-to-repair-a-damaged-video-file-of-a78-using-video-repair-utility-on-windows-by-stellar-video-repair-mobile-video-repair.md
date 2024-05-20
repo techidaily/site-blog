@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of A78 using Video Repair Utility on Windows?
-date: 2024-04-30T01:37:36.440Z
+date: 2024-05-19T18:32:08.253Z
 tags: 
   - repair
 categories: 
@@ -196,4 +196,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-note-13-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi Note 13 Pro 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno FRP</u></a></li>
 </ul></div>
+
 

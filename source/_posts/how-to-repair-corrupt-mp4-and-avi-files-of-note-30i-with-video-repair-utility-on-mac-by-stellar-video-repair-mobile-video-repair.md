@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Note 30i with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:45.537Z
+date: 2024-05-19T18:32:08.764Z
 tags: 
   - repair
 categories: 
@@ -201,4 +201,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-p55-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel P55 PC | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone XS? | Dr.fone</u></a></li>
 </ul></div>
+
 

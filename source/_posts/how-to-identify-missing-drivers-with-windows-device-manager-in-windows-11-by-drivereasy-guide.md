@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:47:01.325Z
+date: 2024-05-19T18:32:12.872Z
 tags: 
   - driver
   - device driver
@@ -190,4 +190,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a79-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A79 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia XR21 | Dr.fone</u></a></li>
 </ul></div>
+
 

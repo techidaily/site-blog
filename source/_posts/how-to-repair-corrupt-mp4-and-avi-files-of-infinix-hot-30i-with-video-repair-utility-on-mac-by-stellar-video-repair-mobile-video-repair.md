@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Infinix Hot 30i with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:40.784Z
+date: 2024-05-19T18:32:08.742Z
 tags: 
   - repair
 categories: 
@@ -167,4 +167,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G04 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V30 Lite 5G</u></a></li>
 </ul></div>
+
 

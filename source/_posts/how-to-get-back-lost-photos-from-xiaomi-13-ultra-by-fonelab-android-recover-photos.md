@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Xiaomi 13 Ultra.
-date: 2024-04-30T01:46:13.272Z
+date: 2024-05-19T18:32:12.433Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -191,4 +191,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

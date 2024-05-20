@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Sony Xperia 5 V using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:20.364Z
+date: 2024-05-19T18:32:09.007Z
 tags: 
   - repair
 categories: 
@@ -232,4 +232,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-gt-3-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme GT 3 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-infinix-note-30-vip-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Infinix Note 30 VIP? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

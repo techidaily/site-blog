@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually in Windows 11 & 10
-date: 2024-04-30T01:48:02.459Z
+date: 2024-05-19T18:32:13.315Z
 tags: 
   - driver
   - device driver
@@ -175,4 +175,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-note-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Note 30 5G</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-11-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 11 Pro Max With or Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

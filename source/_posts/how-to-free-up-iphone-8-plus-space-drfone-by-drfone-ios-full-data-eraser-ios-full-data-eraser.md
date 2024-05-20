@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 8 Plus Space | Dr.fone
-date: 2024-04-30T01:45:22.868Z
-updated: 2024-05-01T01:45:22.868Z
+date: 2024-05-19T18:32:12.118Z
+updated: 2024-05-20T18:32:12.118Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -333,4 +333,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
 </ul></div>
+
 

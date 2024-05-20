@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Honor 90 Lite
-date: 2024-04-30T01:36:41.463Z
+date: 2024-05-19T18:32:07.884Z
 tags: 
   - recover
 categories: 
@@ -265,4 +265,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-meizu-21-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Meizu 21 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-effective-10-ways-to-convert-youtube-to-mov-at-ease-pc-and-online/"><u>Updated In 2024, Effective 10 Ways to Convert YouTube to MOV at Ease PC & Online</u></a></li>
 </ul></div>
+
 

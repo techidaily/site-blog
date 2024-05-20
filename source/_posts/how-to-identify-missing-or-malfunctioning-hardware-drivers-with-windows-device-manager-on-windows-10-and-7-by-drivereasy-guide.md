@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-30T01:47:12.035Z
+date: 2024-05-19T18:32:12.934Z
 tags: 
   - driver
   - device driver
@@ -266,4 +266,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s24-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S24 for Free? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-y28-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo Y28 5G to Another | Dr.fone</u></a></li>
 </ul></div>
+
 

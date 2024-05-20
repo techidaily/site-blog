@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager
-date: 2024-04-30T01:47:26.000Z
+date: 2024-05-19T18:32:13.038Z
 tags: 
   - driver
   - device driver
@@ -182,4 +182,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-vdieo-software.techidaily.com/why-mp3-converter-windows-should-be-your-go-to-tool-an-insiders-look/"><u>Why Mp3 Converter Windows Should Be Your Go-To Tool An Insiders Look</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

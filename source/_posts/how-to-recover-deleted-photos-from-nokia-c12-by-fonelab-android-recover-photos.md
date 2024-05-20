@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Nokia C12.
-date: 2024-04-30T01:50:57.373Z
+date: 2024-05-19T18:32:14.784Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-moto-g-stylus-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Moto G Stylus (2023)?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-xr-by-drfone-ios/"><u>Remove Device Supervision From your iPhone XR</u></a></li>
 </ul></div>
+
 

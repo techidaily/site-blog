@@ -1,7 +1,7 @@
 ---
 title: How To Install the Latest iOS Beta Version on iPhone XS? | Dr.fone
-date: 2024-04-30T01:48:14.685Z
-updated: 2024-05-01T01:48:14.685Z
+date: 2024-05-19T18:32:13.377Z
+updated: 2024-05-20T18:32:13.377Z
 tags: 
   - ios system repair
   - iphone repair
@@ -377,4 +377,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-12-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 12 Pro when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-record-video-in-slow-motion-comprehending-important-points/"><u>New 2024 Approved How To Record Video in Slow Motion Comprehending Important Points</u></a></li>
 </ul></div>
+
 

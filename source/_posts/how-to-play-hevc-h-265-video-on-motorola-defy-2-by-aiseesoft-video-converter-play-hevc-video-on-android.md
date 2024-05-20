@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Defy 2?
-date: 2024-04-30T01:35:30.975Z
+date: 2024-05-19T18:32:06.994Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a1x-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A1x 5G Screen | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

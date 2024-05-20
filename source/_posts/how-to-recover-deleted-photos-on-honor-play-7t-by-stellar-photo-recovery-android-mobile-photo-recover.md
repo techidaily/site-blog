@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Honor Play 7T
-date: 2024-04-30T01:36:42.582Z
+date: 2024-05-19T18:32:07.891Z
 tags: 
   - recover
 categories: 
@@ -274,4 +274,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-nord-n30-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Nord N30 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

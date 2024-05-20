@@ -1,7 +1,7 @@
 ---
 title: How to get back lost contacts from Nubia .
-date: 2024-04-30T01:45:38.982Z
-updated: 2024-05-01T01:45:38.982Z
+date: 2024-05-19T18:32:12.244Z
+updated: 2024-05-20T18:32:12.244Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-galaxy-a25-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Galaxy A25 5G</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-zero-5g-2023-turbo-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Zero 5G 2023 Turbo to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

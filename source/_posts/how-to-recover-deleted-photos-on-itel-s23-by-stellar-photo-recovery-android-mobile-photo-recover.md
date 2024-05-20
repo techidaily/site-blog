@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Itel S23
-date: 2024-04-30T01:36:46.002Z
+date: 2024-05-19T18:32:07.912Z
 tags: 
   - recover
 categories: 
@@ -276,4 +276,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-about-zte-blade-a73-5g-frp-bypass-by-drfone-android/"><u>In 2024, About ZTE Blade A73 5G FRP Bypass</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-flip-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock ZTE Nubia Flip 5G Phone without Google Account?</u></a></li>
 </ul></div>
+
 

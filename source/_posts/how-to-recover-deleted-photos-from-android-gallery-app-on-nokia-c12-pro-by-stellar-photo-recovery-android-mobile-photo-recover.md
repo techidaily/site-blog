@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Nokia C12 Pro
-date: 2024-04-30T01:35:37.901Z
+date: 2024-05-19T18:32:07.478Z
 tags: 
   - recover
 categories: 
@@ -263,4 +263,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-a60s-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel A60s to New Phone | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus 12 Devices</u></a></li>
 </ul></div>
+
 

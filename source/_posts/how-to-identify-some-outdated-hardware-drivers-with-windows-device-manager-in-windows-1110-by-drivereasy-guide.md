@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:47:30.767Z
+date: 2024-05-19T18:32:13.065Z
 tags: 
   - driver
   - device driver
@@ -188,4 +188,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-130-music-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 130 Music to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s24-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S24 Ultra Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

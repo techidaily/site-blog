@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 10
-date: 2024-04-30T01:46:49.678Z
+date: 2024-05-19T18:32:12.732Z
 tags: 
   - driver
   - device driver
@@ -185,4 +185,5 @@ There are two reasons why…
 <li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-14-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 14 Parental Restrictions With/Without Password</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-videos-for-instagram-for-20/"><u>Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram for 2024</u></a></li>
 </ul></div>
+
 

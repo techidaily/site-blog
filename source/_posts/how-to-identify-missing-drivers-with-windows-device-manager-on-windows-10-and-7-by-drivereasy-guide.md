@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-30T01:47:02.088Z
+date: 2024-05-19T18:32:12.876Z
 tags: 
   - driver
   - device driver
@@ -200,4 +200,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-some-effective-slow-motion-video-editors-you-can-try/"><u>Updated 2024 Approved Some Effective Slow Motion Video Editors You Can Try</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-xr-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone XR Without a Home Button</u></a></li>
 </ul></div>
+
 

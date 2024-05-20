@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted pictures from Samsung Galaxy S23 Tactical Edition.
-date: 2024-04-30T01:51:37.017Z
+date: 2024-05-19T18:32:15.044Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -213,4 +213,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-s18e-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S18e Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-yuva-3-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava Yuva 3 FRP?</u></a></li>
 </ul></div>
+
 

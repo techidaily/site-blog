@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of 14 Ultra using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:01.339Z
+date: 2024-05-19T18:32:08.893Z
 tags: 
   - repair
 categories: 
@@ -213,4 +213,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-gt-10-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix GT 10 Pro to iPhone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Zero 30 5G Phone</u></a></li>
 </ul></div>
+
 

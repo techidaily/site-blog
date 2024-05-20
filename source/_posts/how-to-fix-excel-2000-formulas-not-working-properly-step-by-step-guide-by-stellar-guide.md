@@ -1,6 +1,6 @@
 ---
 title: How to Fix Excel 2000 Formulas Not Working Properly | Step-by-Step Guide
-date: 2024-04-30T01:44:22.473Z
+date: 2024-05-19T18:32:11.470Z
 tags: 
   - repair
   - repair excel
@@ -166,4 +166,5 @@ This blog discussed some problems you might make causing an Excel formula to sto
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-4-things-you-need-to-know-about-pinterest-gif/"><u>Updated 2024 Approved 4 Things You Need to Know About Pinterest GIF</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:47:29.108Z
+date: 2024-05-19T18:32:13.056Z
 tags: 
   - driver
   - device driver
@@ -161,4 +161,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-nord-ce-3-lite-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Nord CE 3 Lite 5G Phones with/without a PC</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

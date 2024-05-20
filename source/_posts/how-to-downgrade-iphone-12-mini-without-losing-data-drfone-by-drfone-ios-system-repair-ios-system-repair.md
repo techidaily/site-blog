@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 12 mini without Losing Data? | Dr.fone
-date: 2024-04-30T01:42:04.040Z
-updated: 2024-05-01T01:42:04.040Z
+date: 2024-05-19T18:32:10.195Z
+updated: 2024-05-20T18:32:10.195Z
 tags: 
   - ios system repair
   - iphone repair
@@ -385,4 +385,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-a24-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy A24? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-14-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

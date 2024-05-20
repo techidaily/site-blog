@@ -1,6 +1,6 @@
 ---
 title: How to identify missing your drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:47:20.797Z
+date: 2024-05-19T18:32:12.976Z
 tags: 
   - driver
   - device driver
@@ -261,4 +261,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-data-recovery-recover-lost-data-from-xiaomi-redmi-note-12-pro-5g-by-fonelab-android-recover-data/"><u>Xiaomi Data Recovery – recover lost data from Xiaomi Redmi Note 12 Pro 5G</u></a></li>
 </ul></div>
+
 

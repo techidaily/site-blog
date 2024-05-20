@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in HTC U23 Pro?
-date: 2024-04-30T01:41:56.825Z
+date: 2024-05-19T18:32:10.146Z
 tags: 
   - mkv video
   - mkv android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy A05s | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c22-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C22 Phone FRP Lock</u></a></li>
 </ul></div>
+
 

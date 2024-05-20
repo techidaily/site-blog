@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xltm Using DigiSigner
-date: 2024-04-30T01:43:21.126Z
-updated: 2024-05-01T01:43:21.126Z
+date: 2024-05-19T18:32:10.933Z
+updated: 2024-05-20T18:32:10.933Z
 tags: 
   - signer
   - signer online
@@ -211,4 +211,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-xs-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone XS? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-fade-audio-with-movavi-editor/"><u>Updated How To Fade Audio With Movavi Editor</u></a></li>
 </ul></div>
+
 

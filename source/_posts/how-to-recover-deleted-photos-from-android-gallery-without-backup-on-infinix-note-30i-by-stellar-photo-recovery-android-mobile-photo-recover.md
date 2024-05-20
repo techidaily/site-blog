@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Infinix Note 30i
-date: 2024-04-30T01:36:07.747Z
+date: 2024-05-19T18:32:07.652Z
 tags: 
   - recover
 categories: 
@@ -251,4 +251,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Itel A60 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-yuva-3-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Yuva 3 Pro</u></a></li>
 </ul></div>
+
 

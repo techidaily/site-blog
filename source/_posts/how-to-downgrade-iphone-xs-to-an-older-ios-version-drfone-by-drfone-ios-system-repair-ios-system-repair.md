@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XS to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:43:10.676Z
-updated: 2024-05-01T01:43:10.676Z
+date: 2024-05-19T18:32:10.832Z
+updated: 2024-05-20T18:32:10.832Z
 tags: 
   - ios system repair
   - iphone repair
@@ -367,4 +367,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-xiaomi-redmi-note-12-proplus-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Xiaomi Redmi Note 12 Pro+ 5G? Look No Further | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-14-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi 14 Pro</u></a></li>
 </ul></div>
+
 

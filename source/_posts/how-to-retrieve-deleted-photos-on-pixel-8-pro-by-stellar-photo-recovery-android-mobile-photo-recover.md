@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Pixel 8 Pro
-date: 2024-04-30T01:41:14.147Z
+date: 2024-05-19T18:32:09.841Z
 tags: 
   - recover
 categories: 
@@ -256,4 +256,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/how-to-fix-it-itel-s23plus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Itel S23+ Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

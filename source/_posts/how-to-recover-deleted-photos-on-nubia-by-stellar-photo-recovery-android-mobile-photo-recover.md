@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Nubia
-date: 2024-04-30T01:36:52.034Z
-updated: 2024-05-01T01:36:52.034Z
+date: 2024-05-19T18:32:07.951Z
+updated: 2024-05-20T18:32:07.951Z
 tags: 
   - recover
 categories: 
@@ -243,4 +243,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/forgot-iphone-xr-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone XR Password? – Here are the Best Solutions | Stellar</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-glitch-text-effect-in-2024/"><u>New How to Create a Glitch Text Effect, In 2024</u></a></li>
 </ul></div>
+
 

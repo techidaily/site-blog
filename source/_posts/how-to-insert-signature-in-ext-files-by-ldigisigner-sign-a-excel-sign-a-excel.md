@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in {{ext}} files
-date: 2024-04-30T01:47:54.327Z
-updated: 2024-05-01T01:47:54.327Z
+date: 2024-05-19T18:32:13.256Z
+updated: 2024-05-20T18:32:13.256Z
 tags: 
   - signer
   - signer online
@@ -224,4 +224,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone SE</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11f-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Reno 11F 5G Phone without Google Account?</u></a></li>
 </ul></div>
+
 

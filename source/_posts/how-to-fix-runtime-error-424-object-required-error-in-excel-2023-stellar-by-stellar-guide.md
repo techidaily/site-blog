@@ -1,7 +1,7 @@
 ---
 title: How to fix runtime error 424 object required error in Excel 2023 | Stellar
-date: 2024-04-30T01:45:04.744Z
-updated: 2024-05-01T01:45:04.744Z
+date: 2024-05-19T18:32:11.917Z
+updated: 2024-05-20T18:32:11.917Z
 tags: 
   - repair
   - repair excel
@@ -899,4 +899,5 @@ You might encounter the “Cannot insert object” error when embedding or inser
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

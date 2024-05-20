@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Word Using DigiSigner
-date: 2024-04-30T01:43:19.604Z
-updated: 2024-05-01T01:43:19.604Z
+date: 2024-05-19T18:32:10.927Z
+updated: 2024-05-20T18:32:10.927Z
 tags: 
   - signer
   - signer online
@@ -231,4 +231,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-dubbing-videos-with-voiceovers-using-wondershare-filmora/"><u>In 2024, Dubbing Videos With Voiceovers | Using Wondershare Filmora</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results/"><u>New Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results</u></a></li>
 </ul></div>
+
 

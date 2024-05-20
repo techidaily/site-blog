@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Pixel 8 Pro.
-date: 2024-04-30T01:50:00.839Z
+date: 2024-05-19T18:32:14.317Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -215,4 +215,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-15-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 15 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-lava-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Lava Agni 2 5G</u></a></li>
 </ul></div>
+
 

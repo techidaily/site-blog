@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Google Pixel Fold
-date: 2024-04-30T01:41:00.506Z
-updated: 2024-05-01T01:41:00.506Z
+date: 2024-05-19T18:32:09.759Z
+updated: 2024-05-20T18:32:09.759Z
 tags: 
   - recover
 categories: 
@@ -242,4 +242,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/undelete-lost-messages-from-realme-11x-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme 11X 5G</u></a></li>
 <li><a href="https://review-topics.techidaily.com/oppo-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Oppo Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
+
 

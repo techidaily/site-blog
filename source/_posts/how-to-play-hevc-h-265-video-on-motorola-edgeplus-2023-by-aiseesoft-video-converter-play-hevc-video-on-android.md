@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Edge+ (2023)?
-date: 2024-04-30T01:35:30.978Z
+date: 2024-05-19T18:32:06.996Z
 tags: 
   - hevc video
   - hevc android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone XS? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-12-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 12 Pro?</u></a></li>
 </ul></div>
+
 

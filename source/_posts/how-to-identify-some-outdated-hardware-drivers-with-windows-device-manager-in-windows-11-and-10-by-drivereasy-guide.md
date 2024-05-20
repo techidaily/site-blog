@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:47:30.380Z
+date: 2024-05-19T18:32:13.063Z
 tags: 
   - driver
   - device driver
@@ -233,4 +233,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Nubia Z50 Ultra | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-samsung-galaxy-a05-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A05 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

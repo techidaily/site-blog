@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Lava using Video Repair Utility on Mac?
-date: 2024-04-30T01:37:44.776Z
+date: 2024-05-19T18:32:08.299Z
 tags: 
   - repair
 categories: 
@@ -221,4 +221,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-find-x6-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo Find X6 Pro to Mac? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-z-flip-5frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy Z Flip 5FRP Lock</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Motorola Defy 2?
-date: 2024-04-30T01:41:58.157Z
+date: 2024-05-19T18:32:10.152Z
 tags: 
   - mkv video
   - mkv android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V30 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-15-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 15 Plus</u></a></li>
 </ul></div>
+
 

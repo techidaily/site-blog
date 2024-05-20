@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Narzo 60 5G.
-date: 2024-04-30T01:50:56.989Z
-updated: 2024-05-01T01:50:56.989Z
+date: 2024-05-19T18:32:14.775Z
+updated: 2024-05-20T18:32:14.775Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -162,4 +162,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/bricked-your-vivo-v30-lite-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo V30 Lite 5G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-play-7t-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor Play 7T Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

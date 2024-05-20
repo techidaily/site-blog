@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola G24 Power?
-date: 2024-04-30T01:35:30.978Z
+date: 2024-05-19T18:32:06.997Z
 tags: 
   - hevc video
   - hevc android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On HTC U23 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

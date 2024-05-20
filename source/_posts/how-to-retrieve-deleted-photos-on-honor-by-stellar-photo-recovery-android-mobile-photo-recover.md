@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Honor
-date: 2024-04-30T01:41:01.629Z
-updated: 2024-05-01T01:41:01.629Z
+date: 2024-05-19T18:32:09.765Z
+updated: 2024-05-20T18:32:09.765Z
 tags: 
   - recover
 categories: 
@@ -287,4 +287,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) Passcode without Computer?</u></a></li>
 </ul></div>
+
 

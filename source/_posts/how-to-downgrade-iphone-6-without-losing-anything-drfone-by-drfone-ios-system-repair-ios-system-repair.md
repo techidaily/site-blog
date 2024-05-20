@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6 without Losing Anything? | Dr.fone
-date: 2024-04-30T01:42:42.332Z
-updated: 2024-05-01T01:42:42.332Z
+date: 2024-05-19T18:32:10.671Z
+updated: 2024-05-20T18:32:10.671Z
 tags: 
   - ios system repair
   - iphone repair
@@ -392,4 +392,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Bootloader Easily</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

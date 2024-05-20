@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a {{ext}} Using DigiSigner
-date: 2024-04-30T01:43:17.330Z
-updated: 2024-05-01T01:43:17.330Z
+date: 2024-05-19T18:32:10.900Z
+updated: 2024-05-20T18:32:10.900Z
 tags: 
   - signer
   - signer online
@@ -227,4 +227,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-motorola-g24-power-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Motorola G24 Power Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

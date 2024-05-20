@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Defy 2 using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:03.244Z
+date: 2024-05-19T18:32:08.904Z
 tags: 
   - repair
 categories: 
@@ -173,4 +173,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-rtf-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .rtf file online free - (Tutorial)</u></a></li>
 <li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

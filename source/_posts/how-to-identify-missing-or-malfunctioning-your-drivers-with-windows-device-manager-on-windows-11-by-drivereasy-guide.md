@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:47:15.860Z
+date: 2024-05-19T18:32:12.952Z
 tags: 
   - driver
   - device driver
@@ -253,4 +253,5 @@ There are two reasons why…
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone X</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XS without iTunes? | Dr.fone
-date: 2024-04-30T01:43:11.813Z
-updated: 2024-05-01T01:43:11.813Z
+date: 2024-05-19T18:32:10.838Z
+updated: 2024-05-20T18:32:10.838Z
 tags: 
   - ios system repair
   - iphone repair
@@ -381,4 +381,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-14-plus-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 14 Plus SIM Lock?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-2-practical-ways-to-combine-videos-on-tiktok/"><u>New In 2024, 2 Practical Ways to Combine Videos on TikTok</u></a></li>
 </ul></div>
+
 

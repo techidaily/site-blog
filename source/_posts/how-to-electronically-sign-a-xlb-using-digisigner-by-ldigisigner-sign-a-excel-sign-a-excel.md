@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xlb Using DigiSigner
-date: 2024-04-30T01:43:20.363Z
-updated: 2024-05-01T01:43:20.363Z
+date: 2024-05-19T18:32:10.930Z
+updated: 2024-05-20T18:32:10.930Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-frp.techidaily.com/huawei-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Huawei ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-9awithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 9Awith/without a PC</u></a></li>
 </ul></div>
+
 

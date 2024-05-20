@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2022) without iTunes? | Dr.fone
-date: 2024-04-30T01:43:00.256Z
-updated: 2024-05-01T01:43:00.256Z
+date: 2024-05-19T18:32:10.770Z
+updated: 2024-05-20T18:32:10.770Z
 tags: 
   - ios system repair
   - iphone repair
@@ -464,4 +464,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-12-5-ways-to-get-into-a-locked-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 12? 5 Ways to get into a Locked iPhone 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

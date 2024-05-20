@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Samsung Galaxy M14 5G?
-date: 2024-04-30T01:38:52.494Z
-updated: 2024-05-01T01:38:52.494Z
+date: 2024-05-19T18:32:08.833Z
+updated: 2024-05-20T18:32:08.833Z
 tags: 
   - repair
 categories: 
@@ -216,4 +216,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor Magic5 Ultimate | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-t2-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo T2 Pro 5G PC | Dr.fone</u></a></li>
 </ul></div>
+
 

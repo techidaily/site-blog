@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Edge 40 Neo?
-date: 2024-04-30T01:41:55.487Z
+date: 2024-05-19T18:32:10.138Z
 tags: 
   - mkv video
   - mkv android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-15-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 15</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-13-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi 13 Ultra to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

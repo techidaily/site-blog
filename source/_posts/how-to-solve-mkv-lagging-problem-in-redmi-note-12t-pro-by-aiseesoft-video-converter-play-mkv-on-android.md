@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Redmi Note 12T Pro?
-date: 2024-04-30T01:41:59.488Z
+date: 2024-05-19T18:32:10.159Z
 tags: 
   - mkv video
   - mkv android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/undelete-lost-data-from-vivo-y36-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo Y36</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-15-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 15 Pro iCloud Bypass</u></a></li>
 </ul></div>
+
 

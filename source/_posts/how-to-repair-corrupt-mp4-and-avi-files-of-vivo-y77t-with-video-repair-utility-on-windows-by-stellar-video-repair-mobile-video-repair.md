@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Vivo Y77t with Video Repair Utility on Windows? 
-date: 2024-04-30T01:38:58.008Z
+date: 2024-05-19T18:32:08.875Z
 tags: 
   - repair
 categories: 
@@ -198,4 +198,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v30-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V30 Pro Quickly | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

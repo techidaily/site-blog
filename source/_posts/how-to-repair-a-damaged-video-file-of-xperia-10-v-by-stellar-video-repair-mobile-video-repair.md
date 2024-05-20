@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Damaged video file of Xperia 10 V?
-date: 2024-04-30T01:38:02.105Z
-updated: 2024-05-01T01:38:02.105Z
+date: 2024-05-19T18:32:08.413Z
+updated: 2024-05-20T18:32:08.413Z
 tags: 
   - repair
 categories: 
@@ -202,4 +202,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone SE</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-8t-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 8T 5G Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
+
 

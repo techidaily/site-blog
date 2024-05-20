@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .fodt file
-date: 2024-04-30T01:48:31.366Z
-updated: 2024-05-01T01:48:31.366Z
+date: 2024-05-19T18:32:13.521Z
+updated: 2024-05-20T18:32:13.521Z
 tags: 
   - signer
   - signer online
@@ -192,4 +192,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-lava-blaze-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Lava Blaze Pro 5G with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easyhdr-review-is-this-a-good-choice-to-create-hdr/"><u>Updated In 2024, EasyHDR Review Is This a Good Choice to Create HDR</u></a></li>
 </ul></div>
+
 

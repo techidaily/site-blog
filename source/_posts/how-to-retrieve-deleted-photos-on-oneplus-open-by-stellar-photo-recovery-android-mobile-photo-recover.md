@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on OnePlus Open
-date: 2024-04-30T01:41:11.586Z
+date: 2024-05-19T18:32:09.826Z
 tags: 
   - recover
 categories: 
@@ -295,4 +295,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-editing-video.techidaily.com/new-are-you-looking-to-enhance-your-video-or-photo-colors-using-premiere-luts-get-to-know-about-the-best-free-lut-effects-to-get-started/"><u>New Are You Looking to Enhance Your Video or Photo Colors Using Premiere LUTs? Get to Know About the Best Free LUT Effects to Get Started</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/in-2024-top-12-best-meme-makers-online-for-free/"><u>In 2024, Top 12 Best Meme Makers Online for FREE</u></a></li>
 </ul></div>
+
 

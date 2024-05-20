@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Honor X8b
-date: 2024-04-30T01:41:02.758Z
+date: 2024-05-19T18:32:09.774Z
 tags: 
   - recover
 categories: 
@@ -244,4 +244,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y78t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y78t Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-14-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 14 without Security Questions?</u></a></li>
 </ul></div>
+
 

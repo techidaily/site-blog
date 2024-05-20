@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Samsung Galaxy S23+?
-date: 2024-04-30T01:42:00.841Z
+date: 2024-05-19T18:32:10.166Z
 tags: 
   - mkv video
   - mkv android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-blur-faces-in-your-video-on-iphone/"><u>In 2024, Learn How to Blur Faces in Your Video on iPhone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/clean-audio-clear-message-removing-unwanted-sounds-in-fcpx/"><u>Clean Audio, Clear Message Removing Unwanted Sounds in FCPX</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:46:56.697Z
+date: 2024-05-19T18:32:12.842Z
 tags: 
   - driver
   - device driver
@@ -258,4 +258,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-s24-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy S24 Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/turn-your-text-into-a-podcast-made-possible-for-2024/"><u>Turn Your Text Into a Podcast Made Possible for 2024</u></a></li>
 </ul></div>
+
 

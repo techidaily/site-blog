@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Lava Yuva 3 Pro
-date: 2024-04-30T01:41:06.479Z
+date: 2024-05-19T18:32:09.796Z
 tags: 
   - recover
 categories: 
@@ -259,4 +259,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-g42-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia G42 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-c55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme C55 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

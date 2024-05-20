@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager
-date: 2024-04-30T01:47:06.836Z
+date: 2024-05-19T18:32:12.904Z
 tags: 
   - driver
   - device driver
@@ -285,4 +285,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

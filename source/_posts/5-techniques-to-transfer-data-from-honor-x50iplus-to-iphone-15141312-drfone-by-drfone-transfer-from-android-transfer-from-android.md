@@ -485,3 +485,4 @@ In conclusion, there are various methods to transfer videos from Honor X50i+ to 
 <li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze Pro 5G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .ott file
-date: 2024-04-30T01:48:31.964Z
-updated: 2024-05-01T01:48:31.964Z
+date: 2024-05-19T18:32:13.524Z
+updated: 2024-05-20T18:32:13.524Z
 tags: 
   - signer
   - signer online
@@ -201,4 +201,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-8-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 8 Prevention & Solution | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-txt-to-srt-3-effective-ways-to-convert-txt-to-srt/"><u>New TXT to SRT 3 Effective Ways to Convert TXT to SRT</u></a></li>
 </ul></div>
+
 

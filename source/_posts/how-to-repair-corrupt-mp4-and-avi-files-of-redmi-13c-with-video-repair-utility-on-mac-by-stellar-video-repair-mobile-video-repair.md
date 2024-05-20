@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Redmi 13C with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:51.733Z
-updated: 2024-05-01T01:38:51.733Z
+date: 2024-05-19T18:32:08.828Z
+updated: 2024-05-20T18:32:08.828Z
 tags: 
   - repair
 categories: 
@@ -177,4 +177,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-guide-adding-audio-in-wondershare-filmora/"><u>Updated In 2024, Guide Adding Audio in Wondershare Filmora</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

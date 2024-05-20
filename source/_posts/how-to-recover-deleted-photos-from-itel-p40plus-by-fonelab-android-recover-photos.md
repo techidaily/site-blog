@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Itel P40+.
-date: 2024-04-30T01:50:54.486Z
+date: 2024-05-19T18:32:14.762Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo X100 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-15-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 15 Pro</u></a></li>
 </ul></div>
+
 

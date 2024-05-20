@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Infinix Note 30 5G using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:07.418Z
-updated: 2024-05-01T01:39:07.418Z
+date: 2024-05-19T18:32:08.928Z
+updated: 2024-05-20T18:32:08.928Z
 tags: 
   - repair
 categories: 
@@ -235,4 +235,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-14-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 14 Plus Safe and Legal</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel Phone</u></a></li>
 </ul></div>
+
 

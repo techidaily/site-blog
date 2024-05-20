@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on HTC U23?
-date: 2024-04-30T01:35:30.916Z
+date: 2024-05-19T18:32:06.919Z
 tags: 
   - mts video
   - mts android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-11-pro-max-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 11 Pro Max online without jailbreak</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/about-vivo-s17t-frp-bypass-by-drfone-android/"><u>About Vivo S17t FRP Bypass</u></a></li>
 </ul></div>
+
 

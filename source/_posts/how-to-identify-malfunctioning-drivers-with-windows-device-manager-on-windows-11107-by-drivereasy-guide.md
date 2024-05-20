@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-30T01:46:50.790Z
+date: 2024-05-19T18:32:12.738Z
 tags: 
   - driver
   - device driver
@@ -258,4 +258,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c12-plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C12 Plus? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-itel-p55-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel P55 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

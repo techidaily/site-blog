@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from X50 GT.
-date: 2024-04-30T01:46:12.889Z
+date: 2024-05-19T18:32:12.432Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo V27 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE</u></a></li>
 </ul></div>
+
 

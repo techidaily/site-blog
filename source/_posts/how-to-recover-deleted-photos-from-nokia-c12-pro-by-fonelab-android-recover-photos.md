@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Nokia C12 Pro.
-date: 2024-04-30T01:50:57.758Z
+date: 2024-05-19T18:32:14.786Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-12-websites-with-triggered-animate-on-scroll-examples/"><u>New In 2024, 12 Websites with Triggered Animate on Scroll Examples</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-lava-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Lava</u></a></li>
 </ul></div>
+
 

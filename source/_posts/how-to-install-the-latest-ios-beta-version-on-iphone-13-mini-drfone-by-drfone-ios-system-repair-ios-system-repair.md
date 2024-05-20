@@ -1,7 +1,7 @@
 ---
 title: How To Install the Latest iOS Beta Version on iPhone 13 mini? | Dr.fone
-date: 2024-04-30T01:48:09.943Z
-updated: 2024-05-01T01:48:09.943Z
+date: 2024-05-19T18:32:13.359Z
+updated: 2024-05-20T18:32:13.359Z
 tags: 
   - ios system repair
   - iphone repair
@@ -305,4 +305,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-15-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 15 Plus When You Forget the Passcode?</u></a></li>
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-itel-a60s-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Itel A60s</u></a></li>
 </ul></div>
+
 

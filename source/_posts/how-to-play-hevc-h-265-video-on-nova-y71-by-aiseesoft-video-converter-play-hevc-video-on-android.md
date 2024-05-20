@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Nova Y71?
-date: 2024-04-30T01:35:30.994Z
+date: 2024-05-19T18:32:07.005Z
 tags: 
   - hevc video
   - hevc android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy F04? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to get back lost contacts from Lava Yuva 2.
-date: 2024-04-30T01:45:35.759Z
-updated: 2024-05-01T01:45:35.759Z
+date: 2024-05-19T18:32:12.190Z
+updated: 2024-05-20T18:32:12.190Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -187,4 +187,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-guide-to-iphone-apps-must-haves-and-hidden-gems/"><u>In 2024, The Ultimate Guide to iPhone Apps Must-Haves and Hidden Gems</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-se-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone SE Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 </ul></div>
+
 

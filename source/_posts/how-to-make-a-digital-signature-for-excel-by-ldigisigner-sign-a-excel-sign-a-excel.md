@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel
-date: 2024-04-30T01:48:30.882Z
-updated: 2024-05-01T01:48:30.882Z
+date: 2024-05-19T18:32:13.519Z
+updated: 2024-05-20T18:32:13.519Z
 tags: 
   - signer
   - signer online
@@ -227,4 +227,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-green-screen-magic-top-10-apps-for-android-and-ios-users/"><u>2024 Approved Free Green Screen Magic Top 10 Apps for Android and iOS Users</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-vivo-x100-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo X100 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

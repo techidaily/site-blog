@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Xperia 10 V?
-date: 2024-04-30T01:35:30.786Z
+date: 2024-05-19T18:32:06.822Z
 tags: 
   - repair
 categories: 
@@ -174,4 +174,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus Ace 3 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Lava Agni 2 5G
-date: 2024-04-30T01:41:05.723Z
+date: 2024-05-19T18:32:09.791Z
 tags: 
   - recover
 categories: 
@@ -249,4 +249,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/bricked-your-itel-p40plus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel P40+? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-change-text-color-in-premiere-pro/"><u>Updated In 2024, How To Change Text Color In Premiere Pro</u></a></li>
 </ul></div>
+
 

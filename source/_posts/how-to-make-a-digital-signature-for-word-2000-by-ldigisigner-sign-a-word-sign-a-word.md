@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word 2000
-date: 2024-04-30T01:48:33.304Z
-updated: 2024-05-01T01:48:33.304Z
+date: 2024-05-19T18:32:13.531Z
+updated: 2024-05-20T18:32:13.531Z
 tags: 
   - signer
   - signer online
@@ -245,4 +245,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-zero-5g-2023-turbo-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Zero 5G 2023 Turbo Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-lenovo-thinkphone-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lenovo ThinkPhone FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Samsung ?
-date: 2024-04-30T01:41:59.870Z
+date: 2024-05-19T18:32:10.161Z
 tags: 
   - mkv video
   - mkv android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/new-to-video-editing-here-are-the-best-software-options-for-2024/"><u>New to Video Editing? Here Are the Best Software Options for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

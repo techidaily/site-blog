@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:46:50.596Z
+date: 2024-05-19T18:32:12.737Z
 tags: 
   - driver
   - device driver
@@ -162,4 +162,5 @@ There are two reasons why…
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-razr-40-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Razr 40 Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-reno-11-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo Reno 11 5G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

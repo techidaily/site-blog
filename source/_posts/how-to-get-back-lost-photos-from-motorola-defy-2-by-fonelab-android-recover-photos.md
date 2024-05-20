@@ -1,7 +1,7 @@
 ---
 title: How to get back lost photos from Motorola Defy 2.
-date: 2024-04-30T01:46:00.423Z
-updated: 2024-05-01T01:46:00.423Z
+date: 2024-05-19T18:32:12.371Z
+updated: 2024-05-20T18:32:12.371Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -184,4 +184,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A2 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

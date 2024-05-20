@@ -1,7 +1,7 @@
 ---
 title: How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 6s Plus That Wont Turn on | Stellar
-date: 2024-04-30T01:44:06.146Z
-updated: 2024-05-01T01:44:06.146Z
+date: 2024-05-19T18:32:11.294Z
+updated: 2024-05-20T18:32:11.294Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -404,4 +404,5 @@ ___
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-s23-tactical-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy S23 Tactical Edition Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-honor-magic-v2-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor Magic V2 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

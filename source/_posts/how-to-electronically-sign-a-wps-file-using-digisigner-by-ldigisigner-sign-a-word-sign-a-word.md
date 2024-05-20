@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .wps file Using DigiSigner
-date: 2024-04-30T01:43:19.984Z
-updated: 2024-05-01T01:43:19.984Z
+date: 2024-05-19T18:32:10.928Z
+updated: 2024-05-20T18:32:10.928Z
 tags: 
   - signer
   - signer online
@@ -203,4 +203,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-11-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 11 Pro? How to Fix</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-se-2020-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone SE (2020) When Its Locked Within Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

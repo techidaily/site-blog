@@ -1,7 +1,7 @@
 ---
 title: How to fix Microsoft Excel 2023 has stopped working error? | Stellar
-date: 2024-04-30T01:44:55.220Z
-updated: 2024-05-01T01:44:55.220Z
+date: 2024-05-19T18:32:11.824Z
+updated: 2024-05-20T18:32:11.824Z
 tags: 
   - repair
   - repair excel
@@ -858,4 +858,5 @@ The software is free to download. You can scan, repair, and preview a corrupt Ex
 <li><a href="https://ai-topics.techidaily.com/updated-in-2024-the-top-10-ai-avatar-generators/"><u>Updated In 2024, The Top 10 AI Avatar Generators</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-13-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 13</u></a></li>
 </ul></div>
+
 

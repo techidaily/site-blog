@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xlsx files
-date: 2024-04-30T01:48:36.557Z
-updated: 2024-05-01T01:48:36.557Z
+date: 2024-05-19T18:32:13.573Z
+updated: 2024-05-20T18:32:13.573Z
 tags: 
   - signer
   - signer online
@@ -207,4 +207,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 13 Pro Max</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-aspect-ratio-mastery-how-to-get-twitter-video-dimensions-fast/"><u>2024 Approved Aspect Ratio Mastery How to Get Twitter Video Dimensions Fast</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Xiaomi Mix Fold 3
-date: 2024-04-30T01:35:56.470Z
+date: 2024-05-19T18:32:07.586Z
 tags: 
   - recover
 categories: 
@@ -301,4 +301,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-11-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme 11 Pro Easily?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

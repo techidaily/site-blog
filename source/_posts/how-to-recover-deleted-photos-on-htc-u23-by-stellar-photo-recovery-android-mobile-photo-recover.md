@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on HTC U23
-date: 2024-04-30T01:36:43.331Z
+date: 2024-05-19T18:32:07.895Z
 tags: 
   - recover
 categories: 
@@ -288,4 +288,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x7-ultra-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X7 Ultra Phone FRP Lock</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
 </ul></div>
+
 

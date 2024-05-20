@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2020) to an Older Version? | Dr.fone
-date: 2024-04-30T01:42:57.026Z
-updated: 2024-05-01T01:42:57.026Z
+date: 2024-05-19T18:32:10.752Z
+updated: 2024-05-20T18:32:10.752Z
 tags: 
   - ios system repair
   - iphone repair
@@ -447,4 +447,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-11-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 11 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-next-level-video-editing-the-ultimate-guide-to-cool-effects/"><u>New 2024 Approved Next-Level Video Editing The Ultimate Guide to Cool Effects</u></a></li>
 </ul></div>
+
 

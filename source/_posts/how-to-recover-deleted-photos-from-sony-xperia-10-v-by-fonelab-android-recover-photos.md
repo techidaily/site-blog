@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Sony Xperia 10 V.
-date: 2024-04-30T01:51:05.778Z
+date: 2024-05-19T18:32:14.818Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Find X7 Ultra | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-motorola-defy-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Defy 2 Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

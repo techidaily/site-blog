@@ -457,3 +457,4 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x50-gt-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X50 GT to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

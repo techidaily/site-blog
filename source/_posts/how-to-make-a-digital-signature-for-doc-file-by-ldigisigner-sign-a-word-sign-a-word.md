@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .doc file
-date: 2024-04-30T01:48:27.821Z
-updated: 2024-05-01T01:48:27.822Z
+date: 2024-05-19T18:32:13.502Z
+updated: 2024-05-20T18:32:13.502Z
 tags: 
   - signer
   - signer online
@@ -187,4 +187,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X50i | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-x100-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on X100</u></a></li>
 </ul></div>
+
 

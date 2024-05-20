@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Xiaomi 13T Pro with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:58.388Z
+date: 2024-05-19T18:32:08.877Z
 tags: 
   - repair
 categories: 
@@ -245,4 +245,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Lenovo ThinkPhone | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-huawei-nova-y71-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Huawei Nova Y71 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

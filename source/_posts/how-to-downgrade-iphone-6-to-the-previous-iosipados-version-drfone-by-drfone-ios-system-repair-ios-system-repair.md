@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6 to the Previous iOS/iPadOS Version? | Dr.fone
-date: 2024-04-30T01:42:41.358Z
-updated: 2024-05-01T01:42:41.358Z
+date: 2024-05-19T18:32:10.666Z
+updated: 2024-05-20T18:32:10.666Z
 tags: 
   - ios system repair
   - iphone repair
@@ -376,4 +376,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-v30t-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme V30T Location Is Wrong | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now</u></a></li>
 </ul></div>
+
 

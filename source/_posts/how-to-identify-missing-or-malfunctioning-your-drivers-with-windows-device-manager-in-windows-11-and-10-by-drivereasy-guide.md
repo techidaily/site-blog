@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:47:14.136Z
+date: 2024-05-19T18:32:12.944Z
 tags: 
   - driver
   - device driver
@@ -169,4 +169,5 @@ There are two reasons why…
 <li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-7-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 7 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
 </ul></div>
+
 

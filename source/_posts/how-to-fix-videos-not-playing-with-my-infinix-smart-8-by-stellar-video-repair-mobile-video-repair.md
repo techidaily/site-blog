@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Infinix Smart 8?
-date: 2024-04-30T01:35:30.762Z
+date: 2024-05-19T18:32:06.796Z
 tags: 
   - repair
 categories: 
@@ -225,4 +225,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-narzo-60x-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme Narzo 60x 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-infinix-smart-7-hd-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Infinix Smart 7 HD Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

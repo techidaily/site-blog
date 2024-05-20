@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in Excel 2021 files
-date: 2024-04-30T01:47:53.942Z
-updated: 2024-05-01T01:47:53.942Z
+date: 2024-05-19T18:32:13.253Z
+updated: 2024-05-20T18:32:13.253Z
 tags: 
   - signer
   - signer online
@@ -232,4 +232,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y78t-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y78t</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2020) to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:42:56.838Z
-updated: 2024-05-01T01:42:56.838Z
+date: 2024-05-19T18:32:10.751Z
+updated: 2024-05-20T18:32:10.751Z
 tags: 
   - ios system repair
   - iphone repair
@@ -450,4 +450,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Huawei Nova Y71? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola FRP</u></a></li>
 </ul></div>
+
 

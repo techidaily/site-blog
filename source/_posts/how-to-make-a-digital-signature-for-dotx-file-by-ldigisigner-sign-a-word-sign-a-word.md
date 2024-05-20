@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .dotx file
-date: 2024-04-30T01:48:28.971Z
-updated: 2024-05-01T01:48:28.971Z
+date: 2024-05-19T18:32:13.508Z
+updated: 2024-05-20T18:32:13.508Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-voice-clone.techidaily.com/new-introduction-of-virbo-windows-wondershare-virbo-for-2024/"><u>New Introduction of Virbo Windows | Wondershare Virbo for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-smartest-video-editors-for-effortless-reframing/"><u>2024 Approved Smartest Video Editors for Effortless Reframing</u></a></li>
 </ul></div>
+
 

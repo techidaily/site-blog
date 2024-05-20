@@ -421,3 +421,4 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://techidaily.com/how-to-soft-reset-vivo-t2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo T2 5G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

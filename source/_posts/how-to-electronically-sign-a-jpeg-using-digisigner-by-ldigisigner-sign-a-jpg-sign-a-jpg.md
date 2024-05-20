@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .jpeg Using DigiSigner
-date: 2024-04-30T01:43:17.709Z
-updated: 2024-05-01T01:43:17.709Z
+date: 2024-05-19T18:32:10.909Z
+updated: 2024-05-20T18:32:10.909Z
 tags: 
   - signer
   - signer online
@@ -153,4 +153,5 @@ You only need a device - a laptop, tablet or smartphone, as well as access to th
 <li><a href="https://techidaily.com/how-to-reset-lava-blaze-curve-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze Curve 5G Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy F04? | Dr.fone</u></a></li>
 </ul></div>
+
 

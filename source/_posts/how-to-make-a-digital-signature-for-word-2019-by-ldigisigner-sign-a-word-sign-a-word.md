@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word 2019
-date: 2024-04-30T01:48:34.449Z
-updated: 2024-05-01T01:48:34.449Z
+date: 2024-05-19T18:32:13.537Z
+updated: 2024-05-20T18:32:13.537Z
 tags: 
   - signer
   - signer online
@@ -202,4 +202,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-se-2022-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone SE (2022) Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
 </ul></div>
+
 

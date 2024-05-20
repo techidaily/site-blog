@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2016 Using DigiSigner
-date: 2024-04-30T01:43:16.359Z
-updated: 2024-05-01T01:43:16.359Z
+date: 2024-05-19T18:32:10.895Z
+updated: 2024-05-20T18:32:10.895Z
 tags: 
   - signer
   - signer online
@@ -236,4 +236,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-6-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 to the Latest iOS Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

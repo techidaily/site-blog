@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:46:53.678Z
+date: 2024-05-19T18:32:12.767Z
 tags: 
   - driver
   - device driver
@@ -260,4 +260,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-galaxy-a34-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Galaxy A34 5G on Windows?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Y200
-date: 2024-04-30T01:36:33.811Z
+date: 2024-05-19T18:32:07.835Z
 tags: 
   - recover
 categories: 
@@ -250,4 +250,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation/"><u>New Must-Have Apps for Real-Time Video Translation</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-6-solutions-to-unlock-infinix-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Infinix Phones If You Forgot Password, PIN, Pattern</u></a></li>
 </ul></div>
+
 

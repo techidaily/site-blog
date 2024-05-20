@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Lava Blaze 2 5G with Video Repair Utility on Windows? 
-date: 2024-04-30T01:38:42.134Z
+date: 2024-05-19T18:32:08.748Z
 tags: 
   - repair
 categories: 
@@ -258,4 +258,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C32 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-k11-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo K11 5G to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

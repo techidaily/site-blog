@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-30T01:47:04.120Z
+date: 2024-05-19T18:32:12.888Z
 tags: 
   - driver
   - device driver
@@ -218,4 +218,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-xr21-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia XR21 Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/top-5-websites-and-software-to-convert-powerpoint-to-mp4-for-2024/"><u>Top 5 Websites and Software to Convert Powerpoint to Mp4 for 2024</u></a></li>
 </ul></div>
+
 

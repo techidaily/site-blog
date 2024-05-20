@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:47:28.917Z
+date: 2024-05-19T18:32:13.055Z
 tags: 
   - driver
   - device driver
@@ -236,4 +236,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://phone-solutions.techidaily.com/bypass-reset-realme-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Realme Phone Screen Passcode/Pattern/Pin</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco C50? | Dr.fone</u></a></li>
 </ul></div>
+
 

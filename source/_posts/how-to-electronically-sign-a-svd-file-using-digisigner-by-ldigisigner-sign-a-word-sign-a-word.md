@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .svd file Using DigiSigner
-date: 2024-04-30T01:43:18.845Z
-updated: 2024-05-01T01:43:18.845Z
+date: 2024-05-19T18:32:10.923Z
+updated: 2024-05-20T18:32:10.923Z
 tags: 
   - signer
   - signer online
@@ -223,4 +223,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-6-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 6 Plus</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20 Phone FRP Lock</u></a></li>
 </ul></div>
+
 

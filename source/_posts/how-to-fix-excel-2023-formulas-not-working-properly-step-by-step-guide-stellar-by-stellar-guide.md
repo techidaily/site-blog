@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excel 2023 Formulas Not Working Properly | Step-by-Step Guide | Stellar
-date: 2024-04-30T01:44:31.996Z
-updated: 2024-05-01T01:44:31.996Z
+date: 2024-05-19T18:32:11.596Z
+updated: 2024-05-20T18:32:11.596Z
 tags: 
   - repair
   - repair excel
@@ -929,4 +929,5 @@ Free download to scan and preview all recoverable Excel data.
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-oppo-reno-11-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Reno 11 5G? Try These Fixes</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-comment-on-youtube-live-chat/"><u>How to Comment on YouTube Live Chat</u></a></li>
 </ul></div>
+
 

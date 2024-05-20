@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Nubia Z50S Pro
-date: 2024-04-30T01:36:52.785Z
+date: 2024-05-19T18:32:07.956Z
 tags: 
   - recover
 categories: 
@@ -273,4 +273,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-create-intro-video-with-kinemaster/"><u>Updated 2024 Approved How to Create Intro Video with KineMaster</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-x-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone X Safe and Legal</u></a></li>
 </ul></div>
+
 

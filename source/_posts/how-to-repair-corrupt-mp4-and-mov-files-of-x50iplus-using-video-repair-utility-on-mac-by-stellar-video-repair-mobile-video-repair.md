@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of X50i+ using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:24.352Z
+date: 2024-05-19T18:32:09.047Z
 tags: 
   - repair
 categories: 
@@ -213,4 +213,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

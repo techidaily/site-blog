@@ -1,7 +1,7 @@
 ---
 title: How to get back lost photos from Redmi 13C.
-date: 2024-04-30T01:46:07.187Z
-updated: 2024-05-01T01:46:07.187Z
+date: 2024-05-19T18:32:12.407Z
+updated: 2024-05-20T18:32:12.408Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -187,4 +187,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-razr-40-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Razr 40 ? Fix It Easily | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-12-pro-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 12 Pro and iPad</u></a></li>
 </ul></div>
+
 

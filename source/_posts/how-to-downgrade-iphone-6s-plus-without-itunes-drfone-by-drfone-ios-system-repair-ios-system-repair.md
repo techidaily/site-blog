@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6s Plus without iTunes? | Dr.fone
-date: 2024-04-30T01:42:44.044Z
-updated: 2024-05-01T01:42:44.044Z
+date: 2024-05-19T18:32:10.680Z
+updated: 2024-05-20T18:32:10.680Z
 tags: 
   - ios system repair
   - iphone repair
@@ -416,4 +416,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

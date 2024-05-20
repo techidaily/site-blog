@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted pictures from Infinix .
-date: 2024-04-30T01:51:26.634Z
-updated: 2024-05-01T01:51:26.634Z
+date: 2024-05-19T18:32:14.988Z
+updated: 2024-05-20T18:32:14.988Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo T2 Pro 5G Phone Without Password?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-8-top-premiere-pro-slideshow-templates/"><u>Updated 2024 Approved 8 Top Premiere Pro Slideshow Templates</u></a></li>
 </ul></div>
+
 

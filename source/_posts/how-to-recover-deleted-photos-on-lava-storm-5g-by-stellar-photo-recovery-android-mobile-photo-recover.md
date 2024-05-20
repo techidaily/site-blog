@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Lava Storm 5G
-date: 2024-04-30T01:36:46.522Z
+date: 2024-05-19T18:32:07.914Z
 tags: 
   - recover
 categories: 
@@ -244,4 +244,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-pop-8-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Pop 8 FRP In 3 Different Ways</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-s18-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo S18 Pro to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

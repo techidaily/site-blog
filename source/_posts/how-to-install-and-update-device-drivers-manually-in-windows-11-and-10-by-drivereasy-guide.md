@@ -1,6 +1,6 @@
 ---
 title: How to install and update device drivers manually in Windows 11 & 10
-date: 2024-04-30T01:47:56.229Z
+date: 2024-05-19T18:32:13.267Z
 tags: 
   - driver
   - device driver
@@ -266,4 +266,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6s-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6s without Face ID</u></a></li>
 </ul></div>
+
 

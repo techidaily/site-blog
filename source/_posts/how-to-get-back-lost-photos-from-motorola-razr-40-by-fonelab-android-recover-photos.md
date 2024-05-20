@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Motorola Razr 40.
-date: 2024-04-30T01:46:01.988Z
+date: 2024-05-19T18:32:12.380Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -158,4 +158,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Edge+ (2023) | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-google-pixel-fold-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Google Pixel Fold Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

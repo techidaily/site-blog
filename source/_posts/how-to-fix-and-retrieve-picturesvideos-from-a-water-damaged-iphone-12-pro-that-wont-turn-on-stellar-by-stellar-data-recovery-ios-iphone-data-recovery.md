@@ -1,7 +1,7 @@
 ---
 title: How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 12 Pro That Wont Turn on | Stellar
-date: 2024-04-30T01:44:03.097Z
-updated: 2024-05-01T01:44:03.097Z
+date: 2024-05-19T18:32:11.275Z
+updated: 2024-05-20T18:32:11.275Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -555,4 +555,5 @@ ___
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-m54-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy M54 5G Lock Screen Password?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Pop 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

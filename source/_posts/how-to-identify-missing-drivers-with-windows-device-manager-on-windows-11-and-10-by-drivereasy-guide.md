@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:02.666Z
+date: 2024-05-19T18:32:12.880Z
 tags: 
   - driver
   - device driver
@@ -181,4 +181,5 @@ There are two reasons why…
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Phantom V Flip | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-erase-apple-iphone-6-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 6 Plus Data Permanently | Dr.fone</u></a></li>
 </ul></div>
+
 

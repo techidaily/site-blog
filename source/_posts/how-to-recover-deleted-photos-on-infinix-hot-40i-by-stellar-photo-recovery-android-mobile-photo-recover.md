@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Infinix Hot 40i
-date: 2024-04-30T01:36:44.083Z
+date: 2024-05-19T18:32:07.900Z
 tags: 
   - recover
 categories: 
@@ -273,4 +273,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-poco-f5-pro-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Poco F5 Pro 5G</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oneplus-nord-ce-3-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track OnePlus Nord CE 3 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

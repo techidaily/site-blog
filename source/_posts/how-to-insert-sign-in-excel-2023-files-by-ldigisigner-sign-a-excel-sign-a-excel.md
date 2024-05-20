@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in Excel 2023 files
-date: 2024-04-30T01:47:47.800Z
-updated: 2024-05-01T01:47:47.800Z
+date: 2024-05-19T18:32:13.160Z
+updated: 2024-05-20T18:32:13.160Z
 tags: 
   - signer
   - signer online
@@ -225,4 +225,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-v30-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-g22-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
+
 

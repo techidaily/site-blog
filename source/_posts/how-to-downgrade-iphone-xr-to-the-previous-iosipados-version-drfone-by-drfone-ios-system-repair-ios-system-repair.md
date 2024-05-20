@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XR to the Previous iOS/iPadOS Version? | Dr.fone
-date: 2024-04-30T01:43:06.864Z
-updated: 2024-05-01T01:43:06.864Z
+date: 2024-05-19T18:32:10.812Z
+updated: 2024-05-20T18:32:10.812Z
 tags: 
   - ios system repair
   - iphone repair
@@ -452,4 +452,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo F23 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 

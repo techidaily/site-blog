@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy M14 5G?
-date: 2024-04-30T01:35:30.960Z
+date: 2024-05-19T18:32:06.961Z
 tags: 
   - hevc video
   - hevc android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo A78 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-gt-neo-5-se-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme GT Neo 5 SE – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

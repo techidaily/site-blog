@@ -1,6 +1,6 @@
 ---
 title: How to fix Microsoft Excel 2013 has stopped working error?
-date: 2024-04-30T01:44:51.921Z
+date: 2024-05-19T18:32:11.765Z
 tags: 
   - repair
   - repair excel
@@ -81,4 +81,5 @@ _**Note:** Several users have reported about encountering the ‘_**_Excel has 
 <li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 5 | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/5-top-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>5 Top Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
 </ul></div>
+
 

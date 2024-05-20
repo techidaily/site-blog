@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted pictures from S18.
-date: 2024-04-30T01:51:35.874Z
-updated: 2024-05-01T01:51:35.875Z
+date: 2024-05-19T18:32:15.038Z
+updated: 2024-05-20T18:32:15.038Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -211,4 +211,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-x50i-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor X50i</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-gt-5-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme GT 5 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Honor using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:05.122Z
+date: 2024-05-19T18:32:08.915Z
 tags: 
   - repair
 categories: 
@@ -220,4 +220,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-15-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 15 Pro Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-14-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 14 Pro to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

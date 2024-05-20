@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:47:27.376Z
+date: 2024-05-19T18:32:13.046Z
 tags: 
   - driver
   - device driver
@@ -160,4 +160,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ai-topics.techidaily.com/what-is-chatgpt-in-2024/"><u>What Is ChatGPT, In 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 </ul></div>
+
 

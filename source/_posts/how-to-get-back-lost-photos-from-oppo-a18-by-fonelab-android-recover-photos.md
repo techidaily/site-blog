@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Oppo A18.
-date: 2024-04-30T01:46:03.937Z
+date: 2024-05-19T18:32:12.395Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -155,4 +155,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-seamless-video-editing-on-arm-devices-filmora-x-makes-it-happen/"><u>Updated In 2024, Seamless Video Editing on ARM Devices Filmora X Makes It Happen</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

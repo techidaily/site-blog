@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Xiaomi .
-date: 2024-04-30T01:51:10.769Z
+date: 2024-05-19T18:32:14.837Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -177,4 +177,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-smart-8-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Smart 8 in Minutes | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-phantom-v-flip-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Phantom V Flip Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
+
 

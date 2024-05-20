@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE without iTunes? | Dr.fone
-date: 2024-04-30T01:43:02.672Z
-updated: 2024-05-01T01:43:02.672Z
+date: 2024-05-19T18:32:10.788Z
+updated: 2024-05-20T18:32:10.788Z
 tags: 
   - ios system repair
   - iphone repair
@@ -415,4 +415,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-14-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 14 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-step-by-step-to-crop-videos-with-cyberlink-powerdirector/"><u>New 2024 Approved Step by Step to Crop Videos with CyberLink PowerDirector</u></a></li>
 </ul></div>
+
 

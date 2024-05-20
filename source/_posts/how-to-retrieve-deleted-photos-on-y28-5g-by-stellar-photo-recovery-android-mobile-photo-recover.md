@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Y28 5G
-date: 2024-04-30T01:41:29.670Z
+date: 2024-05-19T18:32:09.927Z
 tags: 
   - recover
 categories: 
@@ -252,4 +252,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-12-proplus-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme 12 Pro+ 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

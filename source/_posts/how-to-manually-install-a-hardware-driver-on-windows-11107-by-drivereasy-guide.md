@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Hardware Driver on Windows 11/10/7
-date: 2024-04-30T01:48:43.137Z
+date: 2024-05-19T18:32:13.623Z
 tags: 
   - driver
   - device driver
@@ -239,4 +239,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-infinix-note-30-vip-racing-edition-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Infinix Note 30 VIP Racing Edition Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v30-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo V30 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

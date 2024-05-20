@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Agni 2 5G
-date: 2024-04-30T01:40:57.012Z
-updated: 2024-05-01T01:40:57.012Z
+date: 2024-05-19T18:32:09.738Z
+updated: 2024-05-20T18:32:09.738Z
 tags: 
   - recover
 categories: 
@@ -299,4 +299,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo S17 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XR? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:46:48.703Z
+date: 2024-05-19T18:32:12.727Z
 tags: 
   - driver
   - device driver
@@ -265,4 +265,5 @@ There are two reasons why…
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12t-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12T Pro without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-m14-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy M14 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

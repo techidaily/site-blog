@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on U23 Pro ?
-date: 2024-04-30T01:35:31.104Z
+date: 2024-05-19T18:32:07.084Z
 tags: 
   - mov video
   - mov android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-14-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 14 Plus? Heres the Best Fixes</u></a></li>
 </ul></div>
+
 

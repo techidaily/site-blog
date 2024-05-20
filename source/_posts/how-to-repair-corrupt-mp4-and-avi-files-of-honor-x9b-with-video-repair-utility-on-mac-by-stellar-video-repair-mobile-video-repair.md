@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Honor X9b with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:40.032Z
+date: 2024-05-19T18:32:08.739Z
 tags: 
   - repair
 categories: 
@@ -218,4 +218,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-14-pro-max-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 14 Pro Max to Computer? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-gt-10-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix GT 10 Pro to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

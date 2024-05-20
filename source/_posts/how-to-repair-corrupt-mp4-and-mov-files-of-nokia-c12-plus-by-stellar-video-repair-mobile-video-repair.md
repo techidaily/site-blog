@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Nokia C12 Plus? 
-date: 2024-04-30T01:39:12.876Z
+date: 2024-05-19T18:32:08.963Z
 tags: 
   - repair
 categories: 
@@ -223,4 +223,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-7-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Smart 7 Lock Screen Password?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-s17e-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo S17e to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

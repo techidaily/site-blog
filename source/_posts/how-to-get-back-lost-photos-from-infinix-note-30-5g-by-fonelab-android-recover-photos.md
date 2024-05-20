@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Infinix Note 30 5G.
-date: 2024-04-30T01:45:57.706Z
+date: 2024-05-19T18:32:12.355Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -173,4 +173,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo K11x | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-6-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 without Losing Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

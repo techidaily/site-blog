@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:47:32.132Z
+date: 2024-05-19T18:32:13.073Z
 tags: 
   - driver
   - device driver
@@ -171,4 +171,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y78t | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-11-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 11 Pro Max to iPod touch | Dr.fone</u></a></li>
 </ul></div>
+
 

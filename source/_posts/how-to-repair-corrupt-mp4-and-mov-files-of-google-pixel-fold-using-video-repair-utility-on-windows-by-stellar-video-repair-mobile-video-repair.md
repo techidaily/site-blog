@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Google Pixel Fold using Video Repair Utility on Windows? 
-date: 2024-04-30T01:39:04.370Z
+date: 2024-05-19T18:32:08.911Z
 tags: 
   - repair
 categories: 
@@ -201,4 +201,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel S23? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-100-workable-how-to-mask-track-with-adobe-premiere-pro/"><u>New 2024 Approved 100 Workable How to Mask Track with Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

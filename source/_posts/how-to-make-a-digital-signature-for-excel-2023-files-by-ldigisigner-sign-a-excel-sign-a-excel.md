@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2023 files
-date: 2024-04-30T01:48:30.692Z
-updated: 2024-05-01T01:48:30.692Z
+date: 2024-05-19T18:32:13.518Z
+updated: 2024-05-20T18:32:13.518Z
 tags: 
   - signer
   - signer online
@@ -245,4 +245,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-zte-nubia-z60-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 ZTE Nubia Z60 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-x100-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo X100 Pro Device SIM</u></a></li>
 </ul></div>
+
 

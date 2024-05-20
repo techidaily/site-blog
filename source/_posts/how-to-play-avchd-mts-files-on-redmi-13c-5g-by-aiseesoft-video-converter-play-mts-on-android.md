@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on Redmi 13C 5G?
-date: 2024-04-30T01:35:30.929Z
+date: 2024-05-19T18:32:06.930Z
 tags: 
   - mts video
   - mts android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 8 Pro Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

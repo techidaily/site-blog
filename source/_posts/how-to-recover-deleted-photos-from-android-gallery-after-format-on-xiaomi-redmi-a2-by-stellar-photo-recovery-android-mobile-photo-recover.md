@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Xiaomi Redmi A2
-date: 2024-04-30T01:35:31.438Z
+date: 2024-05-19T18:32:07.388Z
 tags: 
   - recover
 categories: 
@@ -264,4 +264,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-g24-power-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola G24 Power Device</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi K70 Pro Phone Without Password?</u></a></li>
 </ul></div>
+
 

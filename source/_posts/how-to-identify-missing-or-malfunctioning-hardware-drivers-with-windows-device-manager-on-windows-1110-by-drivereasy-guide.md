@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:47:12.991Z
+date: 2024-05-19T18:32:12.939Z
 tags: 
   - driver
   - device driver
@@ -263,4 +263,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-70-lite-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 70 Lite 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Open | Dr.fone</u></a></li>
 </ul></div>
+
 

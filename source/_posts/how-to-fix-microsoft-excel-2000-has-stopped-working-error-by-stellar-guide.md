@@ -1,6 +1,6 @@
 ---
 title: How to fix Microsoft Excel 2000 has stopped working error?
-date: 2024-04-30T01:44:48.742Z
+date: 2024-05-19T18:32:11.724Z
 tags: 
   - repair
   - repair excel
@@ -89,4 +89,5 @@ _**Note:** Several users have reported about encountering the ‘_**_Excel has 
 <li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-11-proipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 11 Pro/iPad/iPod</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

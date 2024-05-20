@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 11 & 10 & 7
-date: 2024-04-30T01:48:39.317Z
+date: 2024-05-19T18:32:13.600Z
 tags: 
   - driver
   - device driver
@@ -280,4 +280,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-2022-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE (2022) | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy A14 5G</u></a></li>
 </ul></div>
+
 

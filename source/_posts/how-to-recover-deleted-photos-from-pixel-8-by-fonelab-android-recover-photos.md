@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Pixel 8.
-date: 2024-04-30T01:51:01.623Z
+date: 2024-05-19T18:32:14.800Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -222,4 +222,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/new-are-you-ready-to-learn-about-something-free-yet-amazing-we-are-talking-about-all-format-video-players-for-pc-that-you-should-know-lets-begin/"><u>New Are You Ready to Learn About Something Free yet Amazing? We Are Talking About All Format Video Players for PC that You Should Know , Lets Begin</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
+
 

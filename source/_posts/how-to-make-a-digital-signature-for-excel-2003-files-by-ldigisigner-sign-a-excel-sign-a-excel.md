@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2003 files
-date: 2024-04-30T01:48:29.353Z
-updated: 2024-05-01T01:48:29.353Z
+date: 2024-05-19T18:32:13.510Z
+updated: 2024-05-20T18:32:13.510Z
 tags: 
   - signer
   - signer online
@@ -206,4 +206,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://howto.techidaily.com/vivo-t2-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-11-proplus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme 11 Pro+ without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xlsx 
-date: 2024-04-30T01:48:36.364Z
-updated: 2024-05-01T01:48:36.364Z
+date: 2024-05-19T18:32:13.572Z
+updated: 2024-05-20T18:32:13.572Z
 tags: 
   - signer
   - signer online
@@ -208,4 +208,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix Hot 40 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Yuva 3 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

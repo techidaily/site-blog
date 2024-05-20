@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Google .
-date: 2024-04-30T01:45:53.177Z
+date: 2024-05-19T18:32:12.329Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://animation-videos.techidaily.com/updated-10-caricature-makers-to-turn-photo-to-caricature-effects/"><u>Updated 10 Caricature Makers to Turn Photo to Caricature Effects</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-some-effective-slow-motion-video-editors-you-can-try/"><u>2024 Approved Some Effective Slow Motion Video Editors You Can Try</u></a></li>
 </ul></div>
+
 

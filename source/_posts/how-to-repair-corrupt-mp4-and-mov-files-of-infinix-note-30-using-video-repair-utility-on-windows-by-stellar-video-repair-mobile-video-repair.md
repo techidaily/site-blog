@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Infinix Note 30 using Video Repair Utility on Windows? 
-date: 2024-04-30T01:39:07.610Z
+date: 2024-05-19T18:32:08.930Z
 tags: 
   - repair
 categories: 
@@ -229,4 +229,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-apps.techidaily.com/new-get-your-glitch-on-top-free-online-generators-for-distorted-designs-for-2024/"><u>New Get Your Glitch On Top Free Online Generators for Distorted Designs for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

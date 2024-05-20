@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Redmi 12 5G?
-date: 2024-04-30T01:35:30.998Z
+date: 2024-05-19T18:32:07.008Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-14-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 14? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/remove-p40-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove P40 unlock screen</u></a></li>
 </ul></div>
+
 

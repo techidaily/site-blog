@@ -1,7 +1,7 @@
 ---
 title: How to get back lost photos from Redmi Note 13 5G.
-date: 2024-04-30T01:46:07.376Z
-updated: 2024-05-01T01:46:07.376Z
+date: 2024-05-19T18:32:12.408Z
+updated: 2024-05-20T18:32:12.408Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -189,4 +189,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-t2-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo T2 5G?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-11-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 11 Pro</u></a></li>
 </ul></div>
+
 

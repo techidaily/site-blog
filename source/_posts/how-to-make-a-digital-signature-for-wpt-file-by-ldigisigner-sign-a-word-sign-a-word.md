@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .wpt file
-date: 2024-04-30T01:48:35.588Z
-updated: 2024-05-01T01:48:35.588Z
+date: 2024-05-19T18:32:13.569Z
+updated: 2024-05-20T18:32:13.569Z
 tags: 
   - signer
   - signer online
@@ -212,4 +212,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-12-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 12 Activation Lock without Previous Owner?</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-se-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone SE with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

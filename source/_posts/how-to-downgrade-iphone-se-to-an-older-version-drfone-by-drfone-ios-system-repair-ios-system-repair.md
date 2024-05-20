@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE to an Older Version? | Dr.fone
-date: 2024-04-30T01:43:01.712Z
-updated: 2024-05-01T01:43:01.712Z
+date: 2024-05-19T18:32:10.778Z
+updated: 2024-05-20T18:32:10.778Z
 tags: 
   - ios system repair
   - iphone repair
@@ -389,4 +389,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30i-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 30i Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-15-top-video-to-gif-app-on-iphone-and-android/"><u>Updated In 2024, 15 Top Video to GIF App on iPhone and Android</u></a></li>
 </ul></div>
+
 

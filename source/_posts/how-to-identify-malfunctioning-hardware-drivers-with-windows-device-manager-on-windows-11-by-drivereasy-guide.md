@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:46:53.485Z
+date: 2024-05-19T18:32:12.766Z
 tags: 
   - driver
   - device driver
@@ -169,4 +169,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lava-blaze-curve-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Lava Blaze Curve 5G Device SIM</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 

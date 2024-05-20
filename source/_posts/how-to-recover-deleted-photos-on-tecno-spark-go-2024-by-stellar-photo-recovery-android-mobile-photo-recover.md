@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Tecno Spark Go (2024)
-date: 2024-04-30T01:37:07.652Z
+date: 2024-05-19T18:32:08.044Z
 tags: 
   - recover
 categories: 
@@ -277,4 +277,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-oppo-find-x7-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Find X7 to Protect Your Individual Information</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-do-you-know-how-to-zoom-on-facebook-livestream-videos-through-this-article-you-will-find-multiple-ways-and-detailed-steps-to-zoom-in-on-the-facebook/"><u>Updated Do You Know How to Zoom on Facebook Livestream Videos? Through This Article, You Will Find Multiple Ways and Detailed Steps to Zoom in on the Facebook Livestream Videos</u></a></li>
 </ul></div>
+
 

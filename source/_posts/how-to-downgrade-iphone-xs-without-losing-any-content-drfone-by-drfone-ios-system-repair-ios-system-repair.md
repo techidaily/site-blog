@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XS without Losing Any Content? | Dr.fone
-date: 2024-04-30T01:43:12.032Z
-updated: 2024-05-01T01:43:12.032Z
+date: 2024-05-19T18:32:10.840Z
+updated: 2024-05-20T18:32:10.840Z
 tags: 
   - ios system repair
   - iphone repair
@@ -363,4 +363,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-m6-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco M6 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Hot 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

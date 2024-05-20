@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Hardware Driver on Windows 11
-date: 2024-04-30T01:48:42.757Z
+date: 2024-05-19T18:32:13.621Z
 tags: 
   - driver
   - device driver
@@ -274,4 +274,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a38-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A38 Phone that is Locked?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-choose-a-nice-gopro-for-vlogging/"><u>Updated 2024 Approved How to Choose A Nice GoPro for Vlogging?</u></a></li>
 </ul></div>
+
 

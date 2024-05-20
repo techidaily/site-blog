@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on 90 Lite
-date: 2024-04-30T01:36:36.531Z
+date: 2024-05-19T18:32:07.854Z
 tags: 
   - recover
 categories: 
@@ -278,4 +278,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-6-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 6</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-e13withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto E13with/without a PC</u></a></li>
 </ul></div>
+
 

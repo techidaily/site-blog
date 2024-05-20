@@ -511,3 +511,4 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-sony-xperia-5-v-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Sony Xperia 5 V to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

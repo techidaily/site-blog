@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:47:07.606Z
+date: 2024-05-19T18:32:12.909Z
 tags: 
   - driver
   - device driver
@@ -305,4 +305,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Itel</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 

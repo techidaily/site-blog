@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted contacts from Red Magic 9 Pro.
-date: 2024-04-30T01:50:03.139Z
-updated: 2024-05-01T01:50:03.139Z
+date: 2024-05-19T18:32:14.356Z
+updated: 2024-05-20T18:32:14.356Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-camon-30-pro-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Camon 30 Pro 5G – What Can I Do? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-xr-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone XR Apple ID on MacBook</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xlsm files
-date: 2024-04-30T01:47:54.895Z
-updated: 2024-05-01T01:47:54.895Z
+date: 2024-05-19T18:32:13.259Z
+updated: 2024-05-20T18:32:13.259Z
 tags: 
   - signer
   - signer online
@@ -230,4 +230,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy S23 Tactical Edition</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-6-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic 6 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

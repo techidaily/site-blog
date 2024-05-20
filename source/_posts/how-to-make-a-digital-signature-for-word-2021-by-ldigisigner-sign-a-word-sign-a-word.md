@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word 2021
-date: 2024-04-30T01:48:34.639Z
-updated: 2024-05-01T01:48:34.639Z
+date: 2024-05-19T18:32:13.538Z
+updated: 2024-05-20T18:32:13.538Z
 tags: 
   - signer
   - signer online
@@ -189,4 +189,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xs-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone XS Max when Phone is Broken?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-xr-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone XR to Mac Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

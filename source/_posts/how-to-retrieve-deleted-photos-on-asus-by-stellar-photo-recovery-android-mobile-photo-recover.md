@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Asus
-date: 2024-04-30T01:40:57.201Z
-updated: 2024-05-01T01:40:57.201Z
+date: 2024-05-19T18:32:09.739Z
+updated: 2024-05-20T18:32:09.739Z
 tags: 
   - recover
 categories: 
@@ -252,4 +252,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme 11 Pro Bootloader Easily</u></a></li>
 </ul></div>
+
 

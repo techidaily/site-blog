@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Huawei Nova Y71?
-date: 2024-04-30T01:35:30.970Z
+date: 2024-05-19T18:32:06.989Z
 tags: 
   - hevc video
   - hevc android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy A15 4G?
-date: 2024-04-30T01:35:30.956Z
+date: 2024-05-19T18:32:06.957Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

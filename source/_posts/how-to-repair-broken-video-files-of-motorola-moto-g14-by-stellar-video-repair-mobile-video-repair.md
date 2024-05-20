@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Motorola Moto G14?
-date: 2024-04-30T01:38:15.055Z
+date: 2024-05-19T18:32:08.499Z
 tags: 
   - repair
 categories: 
@@ -234,4 +234,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-se-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone SE Space | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g04-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G04 Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

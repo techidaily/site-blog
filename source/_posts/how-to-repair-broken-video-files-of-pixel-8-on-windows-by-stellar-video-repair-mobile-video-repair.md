@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Pixel 8 on Windows??
-date: 2024-04-30T01:38:20.095Z
+date: 2024-05-19T18:32:08.548Z
 tags: 
   - repair
 categories: 
@@ -186,4 +186,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-x9b-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor X9b PC | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-a-review-of-3d-lut-mobile-app-a-composite-application-for-editing-media-for-2024/"><u>New A Review of 3D LUT Mobile App - A Composite Application for Editing Media for 2024</u></a></li>
 </ul></div>
+
 

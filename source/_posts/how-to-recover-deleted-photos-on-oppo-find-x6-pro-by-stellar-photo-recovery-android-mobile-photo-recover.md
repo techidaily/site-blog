@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Oppo Find X6 Pro
-date: 2024-04-30T01:36:55.999Z
+date: 2024-05-19T18:32:07.975Z
 tags: 
   - recover
 categories: 
@@ -271,4 +271,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y77t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y77t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nubia-z50s-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nubia Z50S Pro – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Honor 90 Pro with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:39.095Z
+date: 2024-05-19T18:32:08.715Z
 tags: 
   - repair
 categories: 
@@ -192,4 +192,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-square-to-wide-how-to-change-your-videos-shape/"><u>Updated 2024 Approved From Square to Wide How to Change Your Videos Shape</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-create-stunning-lyric-videos-with-these-top-online-tools-for-2024/"><u>New Create Stunning Lyric Videos with These Top Online Tools for 2024</u></a></li>
 </ul></div>
+
 

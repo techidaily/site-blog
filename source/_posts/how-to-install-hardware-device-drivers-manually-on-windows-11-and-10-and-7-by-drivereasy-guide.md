@@ -1,6 +1,6 @@
 ---
 title: How to install hardware device drivers manually on Windows 11 & 10 & 7
-date: 2024-04-30T01:48:07.254Z
+date: 2024-05-19T18:32:13.348Z
 tags: 
   - driver
   - device driver
@@ -182,4 +182,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor 90 GT? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone X? | Stellar</u></a></li>
 </ul></div>
+
 

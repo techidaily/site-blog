@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Infinix Note 30i
-date: 2024-04-30T01:36:44.871Z
+date: 2024-05-19T18:32:07.905Z
 tags: 
   - recover
 categories: 
@@ -258,4 +258,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2022-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE (2022) to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 </ul></div>
+
 

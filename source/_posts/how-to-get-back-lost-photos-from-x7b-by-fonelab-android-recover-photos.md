@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from X7b.
-date: 2024-04-30T01:46:13.080Z
+date: 2024-05-19T18:32:12.432Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-add-effects-to-video-online/"><u>New 2024 Approved Add Effects to Video Online</u></a></li>
 </ul></div>
+
 

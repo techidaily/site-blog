@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word 2023
-date: 2024-04-30T01:48:34.830Z
-updated: 2024-05-01T01:48:34.830Z
+date: 2024-05-19T18:32:13.539Z
+updated: 2024-05-20T18:32:13.539Z
 tags: 
   - signer
   - signer online
@@ -219,4 +219,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-14-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi 14 Pro Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
+
 

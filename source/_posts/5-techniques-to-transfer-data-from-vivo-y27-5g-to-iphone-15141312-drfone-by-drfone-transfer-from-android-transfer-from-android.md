@@ -595,3 +595,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nubia-red-magic-9-proplus-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nubia Red Magic 9 Pro+ Phone Pattern Lock</u></a></li>
 </ul></div>
 
+

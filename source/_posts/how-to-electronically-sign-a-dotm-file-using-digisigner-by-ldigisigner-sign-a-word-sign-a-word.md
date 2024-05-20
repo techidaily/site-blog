@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .dotm file Using DigiSigner
-date: 2024-04-30T01:43:15.036Z
-updated: 2024-05-01T01:43:15.036Z
+date: 2024-05-19T18:32:10.887Z
+updated: 2024-05-20T18:32:10.887Z
 tags: 
   - signer
   - signer online
@@ -227,4 +227,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme Narzo 60x 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-forward-to-backward-a-comprehensive-guide-to-reversing-tiktok-videos/"><u>In 2024, From Forward to Backward A Comprehensive Guide to Reversing TikTok Videos</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on C65
-date: 2024-04-30T01:40:58.341Z
-updated: 2024-05-01T01:40:58.341Z
+date: 2024-05-19T18:32:09.746Z
+updated: 2024-05-20T18:32:09.746Z
 tags: 
   - recover
 categories: 
@@ -285,4 +285,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/unlock-vivo-x100-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo X100 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-k11x-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo K11x Devices</u></a></li>
 </ul></div>
+
 

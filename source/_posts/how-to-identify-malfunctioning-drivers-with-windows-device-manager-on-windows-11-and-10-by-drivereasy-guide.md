@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:46:50.063Z
+date: 2024-05-19T18:32:12.734Z
 tags: 
   - driver
   - device driver
@@ -272,4 +272,5 @@ There are two reasons why…
 <li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-14-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 14</u></a></li>
 </ul></div>
+
 

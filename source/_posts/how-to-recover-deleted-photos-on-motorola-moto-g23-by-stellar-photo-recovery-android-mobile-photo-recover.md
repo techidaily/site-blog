@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Motorola Moto G23
-date: 2024-04-30T01:36:48.772Z
-updated: 2024-05-01T01:36:48.772Z
+date: 2024-05-19T18:32:07.927Z
+updated: 2024-05-20T18:32:07.927Z
 tags: 
   - recover
 categories: 
@@ -285,4 +285,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted pictures from Poco C65.
-date: 2024-04-30T01:51:33.393Z
-updated: 2024-05-01T01:51:33.393Z
+date: 2024-05-19T18:32:15.025Z
+updated: 2024-05-20T18:32:15.025Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -192,4 +192,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 12 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c12-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C12 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

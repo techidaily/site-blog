@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XR to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:43:06.086Z
-updated: 2024-05-01T01:43:06.086Z
+date: 2024-05-19T18:32:10.808Z
+updated: 2024-05-20T18:32:10.808Z
 tags: 
   - ios system repair
   - iphone repair
@@ -454,4 +454,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy S24+ | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
+
 

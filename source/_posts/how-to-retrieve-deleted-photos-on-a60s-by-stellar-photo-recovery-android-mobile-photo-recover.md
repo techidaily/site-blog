@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on A60s
-date: 2024-04-30T01:40:56.631Z
-updated: 2024-05-01T01:40:56.631Z
+date: 2024-05-19T18:32:09.735Z
+updated: 2024-05-20T18:32:09.735Z
 tags: 
   - recover
 categories: 
@@ -305,4 +305,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-12-pro-max-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 12 Pro Max The Right Way</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-90-gt-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor 90 GT</u></a></li>
 </ul></div>
+
 

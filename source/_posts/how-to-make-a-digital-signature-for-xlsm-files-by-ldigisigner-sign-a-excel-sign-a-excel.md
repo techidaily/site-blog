@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xlsm files
-date: 2024-04-30T01:48:36.156Z
-updated: 2024-05-01T01:48:36.156Z
+date: 2024-05-19T18:32:13.571Z
+updated: 2024-05-20T18:32:13.571Z
 tags: 
   - signer
   - signer online
@@ -248,4 +248,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-tecno-pop-8-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Tecno Pop 8</u></a></li>
 </ul></div>
+
 

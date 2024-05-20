@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE to the Previous iOS Version? | Dr.fone
-date: 2024-04-30T01:43:02.099Z
-updated: 2024-05-01T01:43:02.099Z
+date: 2024-05-19T18:32:10.780Z
+updated: 2024-05-20T18:32:10.780Z
 tags: 
   - ios system repair
   - iphone repair
@@ -460,4 +460,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-c51-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme C51 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Redmi A2?
-date: 2024-04-30T01:35:31.001Z
+date: 2024-05-19T18:32:07.010Z
 tags: 
   - hevc video
   - hevc android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-xs-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone XS to ZTE Phones | Dr.fone</u></a></li>
 </ul></div>
+
 

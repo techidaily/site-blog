@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 to the Previous iOS Version? | Dr.fone
-date: 2024-04-30T01:42:55.080Z
-updated: 2024-05-01T01:42:55.080Z
+date: 2024-05-19T18:32:10.742Z
+updated: 2024-05-20T18:32:10.742Z
 tags: 
   - ios system repair
   - iphone repair
@@ -398,4 +398,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 6 Plus?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-mp4-video-tag-editors/"><u>2024 Approved Best MP4 Video Tag Editors</u></a></li>
 </ul></div>
+
 

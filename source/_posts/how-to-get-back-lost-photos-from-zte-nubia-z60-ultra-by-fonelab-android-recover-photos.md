@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from ZTE Nubia Z60 Ultra.
-date: 2024-04-30T01:46:16.147Z
+date: 2024-05-19T18:32:12.447Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -179,4 +179,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-poco-m6-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Poco M6 5G? Look No Further | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12 Pro Max</u></a></li>
 </ul></div>
+
 

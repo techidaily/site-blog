@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on 11 5G
-date: 2024-04-30T01:36:35.176Z
-updated: 2024-05-01T01:36:35.176Z
+date: 2024-05-19T18:32:07.845Z
+updated: 2024-05-20T18:32:07.845Z
 tags: 
   - recover
 categories: 
@@ -243,4 +243,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-change-text-in-premiere-pro/"><u>New How To Change Text In Premiere Pro</u></a></li>
 <li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-civi-3-disney-100th-anniversary-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Civi 3 Disney 100th Anniversary Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
+
 

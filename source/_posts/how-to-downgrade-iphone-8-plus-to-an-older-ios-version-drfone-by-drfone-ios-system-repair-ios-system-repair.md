@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 Plus to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:42:52.228Z
-updated: 2024-05-01T01:42:52.228Z
+date: 2024-05-19T18:32:10.726Z
+updated: 2024-05-20T18:32:10.726Z
 tags: 
   - ios system repair
   - iphone repair
@@ -421,4 +421,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-12-proplus-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme 12 Pro+ 5G? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-realme-gt-3-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Realme GT 3 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
+
 

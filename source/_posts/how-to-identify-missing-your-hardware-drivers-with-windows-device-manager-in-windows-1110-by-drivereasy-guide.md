@@ -1,6 +1,6 @@
 ---
 title: How to identify missing your hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:47:23.886Z
+date: 2024-05-19T18:32:13.025Z
 tags: 
   - driver
   - device driver
@@ -185,4 +185,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f15-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F15 5G to Protect Your Individual Information</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-know-how-to-convert-youtube-sbv-subtitles-to-srt-format-here-is-an-ultimate-guide-about-it/"><u>Updated Do You Want to Know How to Convert YouTube SBV Subtitles to SRT Format? Here Is an Ultimate Guide About It</u></a></li>
 </ul></div>
+
 

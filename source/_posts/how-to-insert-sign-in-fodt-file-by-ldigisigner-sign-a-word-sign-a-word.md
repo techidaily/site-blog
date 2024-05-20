@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .fodt file
-date: 2024-04-30T01:47:48.180Z
-updated: 2024-05-01T01:47:48.180Z
+date: 2024-05-19T18:32:13.162Z
+updated: 2024-05-20T18:32:13.162Z
 tags: 
   - signer
   - signer online
@@ -188,4 +188,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a38-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A38 by Name | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

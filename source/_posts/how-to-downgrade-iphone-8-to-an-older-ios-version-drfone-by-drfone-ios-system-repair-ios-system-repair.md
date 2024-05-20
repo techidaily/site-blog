@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:42:54.512Z
-updated: 2024-05-01T01:42:54.512Z
+date: 2024-05-19T18:32:10.739Z
+updated: 2024-05-20T18:32:10.739Z
 tags: 
   - ios system repair
   - iphone repair
@@ -468,4 +468,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo S18e | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/top-5-tecno-phantom-v-fold-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Tecno Phantom V Fold Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

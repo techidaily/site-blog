@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 13 mini Space | Dr.fone
-date: 2024-04-30T01:45:19.431Z
-updated: 2024-05-01T01:45:19.431Z
+date: 2024-05-19T18:32:12.097Z
+updated: 2024-05-20T18:32:12.097Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -321,4 +321,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a14-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A14 4G Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-replacing-sky-background-using-adobe-photoshop-a-comprehensive-guide/"><u>In 2024, Replacing Sky Background Using Adobe Photoshop A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

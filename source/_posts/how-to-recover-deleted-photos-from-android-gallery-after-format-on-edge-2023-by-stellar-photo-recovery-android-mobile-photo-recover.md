@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Edge 2023
-date: 2024-04-30T01:35:31.219Z
+date: 2024-05-19T18:32:07.182Z
 tags: 
   - recover
 categories: 
@@ -272,4 +272,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-a60s-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Itel A60s</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-11-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 11 Lock Screen with Notifications? | Dr.fone</u></a></li>
 </ul></div>
+
 

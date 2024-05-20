@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Y100 5G
-date: 2024-04-30T01:41:29.095Z
+date: 2024-05-19T18:32:09.925Z
 tags: 
   - recover
 categories: 
@@ -251,4 +251,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-12-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 12 5G without App | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 10T 5G Phone Without Password?</u></a></li>
 </ul></div>
+
 

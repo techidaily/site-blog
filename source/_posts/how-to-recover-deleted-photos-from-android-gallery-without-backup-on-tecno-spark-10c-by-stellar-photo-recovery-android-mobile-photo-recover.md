@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Tecno Spark 10C
-date: 2024-04-30T01:36:26.811Z
+date: 2024-05-19T18:32:07.793Z
 tags: 
   - recover
 categories: 
@@ -246,4 +246,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-11-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 11 When You Forget the Passcode?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Samsung Galaxy A15 5G ?</u></a></li>
 </ul></div>
+
 

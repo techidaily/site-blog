@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-30T01:47:05.640Z
+date: 2024-05-19T18:32:12.897Z
 tags: 
   - driver
   - device driver
@@ -207,4 +207,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-resize-flv-videos-efficientlywindows-mac-android-iphone-and-online/"><u>Updated 2024 Approved How to Resize FLV Videos EfficientlyWindows, Mac, Android, iPhone & Online</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-smart-8-plus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Smart 8 Plus Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

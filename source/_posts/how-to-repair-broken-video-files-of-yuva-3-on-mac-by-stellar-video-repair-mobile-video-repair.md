@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Yuva 3 on Mac?
-date: 2024-04-30T01:38:34.735Z
+date: 2024-05-19T18:32:08.685Z
 tags: 
   - repair
 categories: 
@@ -173,4 +173,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 Pro to iPad | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

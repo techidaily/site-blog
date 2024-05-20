@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 to an Older Version? | Dr.fone
-date: 2024-04-30T01:42:54.701Z
-updated: 2024-05-01T01:42:54.701Z
+date: 2024-05-19T18:32:10.740Z
+updated: 2024-05-20T18:32:10.740Z
 tags: 
   - ios system repair
   - iphone repair
@@ -318,4 +318,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G14? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi A2+ Phone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:18.884Z
+date: 2024-05-19T18:32:12.967Z
 tags: 
   - driver
   - device driver
@@ -310,4 +310,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-android-apps-for-creating-slow-motion-videos/"><u>2024 Approved Best Android Apps For Creating Slow Motion Videos</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-6s-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 6s Properly</u></a></li>
 </ul></div>
+
 

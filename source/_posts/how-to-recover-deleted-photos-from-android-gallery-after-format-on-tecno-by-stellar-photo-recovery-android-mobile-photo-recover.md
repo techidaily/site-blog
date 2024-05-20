@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Tecno
-date: 2024-04-30T01:35:31.405Z
-updated: 2024-05-01T01:35:31.405Z
+date: 2024-05-19T18:32:07.336Z
+updated: 2024-05-20T18:32:07.336Z
 tags: 
   - recover
 categories: 
@@ -303,4 +303,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-asus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Asus</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-realme-narzo-n53-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Realme Narzo N53</u></a></li>
 </ul></div>
+
 

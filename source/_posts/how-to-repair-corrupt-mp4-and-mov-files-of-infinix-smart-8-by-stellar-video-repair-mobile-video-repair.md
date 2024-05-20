@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Infinix Smart 8? 
-date: 2024-04-30T01:39:07.997Z
+date: 2024-05-19T18:32:08.934Z
 tags: 
   - repair
 categories: 
@@ -235,4 +235,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola G54 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-13-mini-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 13 mini Without a Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

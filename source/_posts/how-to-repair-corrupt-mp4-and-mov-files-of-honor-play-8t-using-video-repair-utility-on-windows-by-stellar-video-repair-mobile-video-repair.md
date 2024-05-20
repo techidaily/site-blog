@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Honor Play 8T using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:04.935Z
-updated: 2024-05-01T01:39:04.935Z
+date: 2024-05-19T18:32:08.914Z
+updated: 2024-05-20T18:32:08.914Z
 tags: 
   - repair
 categories: 
@@ -172,4 +172,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-s18e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo S18e Location Settings | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

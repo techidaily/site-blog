@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 11/10/7
-date: 2024-04-30T01:48:40.077Z
+date: 2024-05-19T18:32:13.605Z
 tags: 
   - driver
   - device driver
@@ -208,4 +208,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-spark-20-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Spark 20 Pro? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 </ul></div>
+
 

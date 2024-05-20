@@ -1,7 +1,7 @@
 ---
 title: How To Get Out of DFU Mode on iPhone 6? | Dr.fone
-date: 2024-04-30T01:46:19.980Z
-updated: 2024-05-01T01:46:19.980Z
+date: 2024-05-19T18:32:12.503Z
+updated: 2024-05-20T18:32:12.503Z
 tags: 
   - ios system repair
   - iphone repair
@@ -372,4 +372,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-t2x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo T2x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-14-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 14 Pro? How to Fix it?</u></a></li>
 </ul></div>
+
 

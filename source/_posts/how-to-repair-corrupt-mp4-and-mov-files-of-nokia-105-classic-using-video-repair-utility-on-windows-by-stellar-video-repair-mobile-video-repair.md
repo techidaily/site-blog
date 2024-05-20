@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Nokia 105 Classic using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:11.773Z
-updated: 2024-05-01T01:39:11.773Z
+date: 2024-05-19T18:32:08.958Z
+updated: 2024-05-20T18:32:08.958Z
 tags: 
   - repair
 categories: 
@@ -234,4 +234,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-13t-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi 13T without App | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-14-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi 14 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

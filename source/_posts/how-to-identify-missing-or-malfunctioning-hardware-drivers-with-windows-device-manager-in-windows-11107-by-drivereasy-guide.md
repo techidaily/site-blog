@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:47:11.651Z
+date: 2024-05-19T18:32:12.933Z
 tags: 
   - driver
   - device driver
@@ -227,4 +227,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-15-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 15 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 14 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

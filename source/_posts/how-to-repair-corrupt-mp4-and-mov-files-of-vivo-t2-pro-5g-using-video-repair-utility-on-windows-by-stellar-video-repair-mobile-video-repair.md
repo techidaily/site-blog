@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Vivo T2 Pro 5G using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:21.865Z
+date: 2024-05-19T18:32:09.032Z
 tags: 
   - repair
 categories: 
@@ -228,4 +228,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-a78-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo A78 5G Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g34-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G34 5G phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

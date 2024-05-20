@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Vivo S17
-date: 2024-04-30T01:41:23.097Z
+date: 2024-05-19T18:32:09.897Z
 tags: 
   - recover
 categories: 
@@ -259,4 +259,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y56-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y56 5G Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

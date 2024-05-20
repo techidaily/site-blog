@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Y100A
-date: 2024-04-30T01:41:29.288Z
+date: 2024-05-19T18:32:09.925Z
 tags: 
   - recover
 categories: 
@@ -276,4 +276,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-xs-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone XS Max to New iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-edge-40-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Edge 40</u></a></li>
 </ul></div>
+
 

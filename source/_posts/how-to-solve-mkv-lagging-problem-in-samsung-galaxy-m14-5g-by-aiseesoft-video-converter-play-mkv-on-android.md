@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Samsung Galaxy M14 5G?
-date: 2024-04-30T01:42:00.650Z
+date: 2024-05-19T18:32:10.165Z
 tags: 
   - mkv video
   - mkv android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-oppo-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Oppo has been deleted.</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-15-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 15 or iPad?</u></a></li>
 </ul></div>
+
 

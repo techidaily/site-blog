@@ -1,7 +1,7 @@
 ---
 title: How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 6s That Wont Turn on | Stellar
-date: 2024-04-30T01:44:06.335Z
-updated: 2024-05-01T01:44:06.335Z
+date: 2024-05-19T18:32:11.295Z
+updated: 2024-05-20T18:32:11.295Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -466,4 +466,5 @@ Moreover, there are iTunes backup, iCloud backup options available along with iP
 <li><a href="https://ai-vdieo-software.techidaily.com/unlock-pro-quality-videos-mastering-gopro-quik-editing-on-macbook/"><u>Unlock Pro-Quality Videos Mastering GoPro Quik Editing on MacBook</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max with a Mask On</u></a></li>
 </ul></div>
+
 

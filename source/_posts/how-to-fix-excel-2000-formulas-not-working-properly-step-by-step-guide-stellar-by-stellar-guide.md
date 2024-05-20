@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excel 2000 Formulas Not Working Properly | Step-by-Step Guide | Stellar
-date: 2024-04-30T01:44:22.776Z
-updated: 2024-05-01T01:44:22.776Z
+date: 2024-05-19T18:32:11.472Z
+updated: 2024-05-20T18:32:11.472Z
 tags: 
   - repair
   - repair excel
@@ -1056,4 +1056,5 @@ The workbook backup helps to open the corrupted or mistakenly deleted file. Some
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 Pro to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2013-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2013 File Error</u></a></li>
 </ul></div>
+
 

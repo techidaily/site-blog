@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Motorola Moto G14.
-date: 2024-04-30T01:45:37.091Z
+date: 2024-05-19T18:32:12.195Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 7? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

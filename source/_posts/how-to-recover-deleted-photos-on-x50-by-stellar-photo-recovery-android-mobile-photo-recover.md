@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on X50
-date: 2024-04-30T01:37:10.299Z
+date: 2024-05-19T18:32:08.057Z
 tags: 
   - recover
 categories: 
@@ -248,4 +248,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 8 Plus Lock Screen</u></a></li>
 </ul></div>
+
 

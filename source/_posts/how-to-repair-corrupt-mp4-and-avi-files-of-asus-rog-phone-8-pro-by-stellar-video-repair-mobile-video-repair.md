@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Asus ROG Phone 8 Pro?
-date: 2024-04-30T01:38:37.214Z
-updated: 2024-05-01T01:38:37.214Z
+date: 2024-05-19T18:32:08.704Z
+updated: 2024-05-20T18:32:08.704Z
 tags: 
   - repair
 categories: 
@@ -179,4 +179,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo T2 5G? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 7 Plus</u></a></li>
 </ul></div>
+
 

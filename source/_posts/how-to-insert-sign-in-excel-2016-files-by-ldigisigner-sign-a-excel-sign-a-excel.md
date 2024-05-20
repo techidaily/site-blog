@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in Excel 2016 files
-date: 2024-04-30T01:47:47.220Z
-updated: 2024-05-01T01:47:47.220Z
+date: 2024-05-19T18:32:13.157Z
+updated: 2024-05-20T18:32:13.157Z
 tags: 
   - signer
   - signer online
@@ -247,4 +247,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-vs-2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic Vs 2 to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

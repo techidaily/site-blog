@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 10
-date: 2024-04-30T01:48:39.126Z
+date: 2024-05-19T18:32:13.598Z
 tags: 
   - driver
   - device driver
@@ -228,4 +228,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-phantom-v-fold-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Phantom V Fold</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nokia-c12-plus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nokia C12 Plus Phone With/Without IMEI Number</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on A18
-date: 2024-04-30T01:40:56.441Z
+date: 2024-05-19T18:32:09.734Z
 tags: 
   - recover
 categories: 
@@ -255,4 +255,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://animation-videos.techidaily.com/updated-15-top-collage-makers-to-create-aesthetic-collages/"><u>Updated 15 Top Collage Makers to Create Aesthetic Collages</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor 90? | Dr.fone</u></a></li>
 </ul></div>
+
 

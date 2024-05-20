@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 10
-date: 2024-04-30T01:47:07.221Z
+date: 2024-05-19T18:32:12.907Z
 tags: 
   - driver
   - device driver
@@ -256,4 +256,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Meizu 21 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with a Mask On</u></a></li>
 </ul></div>
+
 

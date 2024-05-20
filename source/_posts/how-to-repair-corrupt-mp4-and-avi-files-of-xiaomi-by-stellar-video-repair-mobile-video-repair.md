@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Xiaomi ?
-date: 2024-04-30T01:38:58.578Z
-updated: 2024-05-01T01:38:58.578Z
+date: 2024-05-19T18:32:08.878Z
+updated: 2024-05-20T18:32:08.878Z
 tags: 
   - repair
 categories: 
@@ -216,4 +216,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-13-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone 13 Pro Max Stuck On Activation Lock?</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-itel-a60s-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel A60s Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

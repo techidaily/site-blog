@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on 100
-date: 2024-04-30T01:40:55.493Z
+date: 2024-05-19T18:32:09.727Z
 tags: 
   - recover
 categories: 
@@ -310,4 +310,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-x8b-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor X8b | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-create-sports-intro-and-outro-for-youtube-video/"><u>New 2024 Approved How to Create Sports Intro and Outro for YouTube Video?</u></a></li>
 </ul></div>
+
 

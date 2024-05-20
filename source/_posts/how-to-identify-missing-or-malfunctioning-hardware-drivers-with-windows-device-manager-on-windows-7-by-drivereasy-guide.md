@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 7
-date: 2024-04-30T01:47:13.371Z
+date: 2024-05-19T18:32:12.941Z
 tags: 
   - driver
   - device driver
@@ -181,4 +181,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-itel-a60s-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Itel A60s? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

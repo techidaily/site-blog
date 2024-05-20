@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually on Windows 11/10/7
-date: 2024-04-30T01:48:04.560Z
+date: 2024-05-19T18:32:13.335Z
 tags: 
   - driver
   - device driver
@@ -257,4 +257,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://techidaily.com/how-to-reset-honor-100-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 100 without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xr-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XR to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

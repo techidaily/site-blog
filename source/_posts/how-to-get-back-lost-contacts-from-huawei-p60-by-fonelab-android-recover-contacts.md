@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Huawei P60.
-date: 2024-04-30T01:45:32.102Z
+date: 2024-05-19T18:32:12.175Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-xiaomi-redmi-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Xiaomi Redmi 12 5G</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone X?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:47:08.182Z
+date: 2024-05-19T18:32:12.913Z
 tags: 
   - driver
   - device driver
@@ -254,4 +254,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-speed-up-and-slow-down-a-video-for-2024/"><u>New How to Speed Up and Slow Down a Video for 2024</u></a></li>
 </ul></div>
+
 

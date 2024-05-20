@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Edge 40?
-date: 2024-04-30T01:35:30.746Z
+date: 2024-05-19T18:32:06.786Z
 tags: 
   - repair
 categories: 
@@ -186,4 +186,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone XS Max | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lenovo-thinkphone-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lenovo ThinkPhone Phones with/without a PC</u></a></li>
 </ul></div>
+
 

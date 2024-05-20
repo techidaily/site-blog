@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Sony Xperia 5 V.
-date: 2024-04-30T01:46:09.108Z
+date: 2024-05-19T18:32:12.416Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -198,4 +198,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 Pro Max and iPad Securely</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-g22-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia G22 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

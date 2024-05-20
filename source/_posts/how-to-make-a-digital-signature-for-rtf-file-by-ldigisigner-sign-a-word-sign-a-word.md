@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .rtf file
-date: 2024-04-30T01:48:32.345Z
-updated: 2024-05-01T01:48:32.345Z
+date: 2024-05-19T18:32:13.526Z
+updated: 2024-05-20T18:32:13.526Z
 tags: 
   - signer
   - signer online
@@ -204,4 +204,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X to an Older iOS System Version? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

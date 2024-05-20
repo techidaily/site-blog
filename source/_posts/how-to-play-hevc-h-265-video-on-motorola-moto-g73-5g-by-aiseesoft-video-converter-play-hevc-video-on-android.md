@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Moto G73 5G?
-date: 2024-04-30T01:35:30.993Z
+date: 2024-05-19T18:32:07.004Z
 tags: 
   - hevc video
   - hevc android
@@ -224,4 +224,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-hot-30i-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Hot 30i to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

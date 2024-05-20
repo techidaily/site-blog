@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Infinix Note 30 Pro with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:40.970Z
+date: 2024-05-19T18:32:08.743Z
 tags: 
   - repair
 categories: 
@@ -190,4 +190,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-c67-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme C67 5G? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How To Easily Copy & Paste Your Forex and Gold Trades From MetaTrader 5 to MetaTrader 4
-date: 2024-04-30T01:43:12.804Z
+date: 2024-05-19T18:32:10.844Z
 tags: 
   - mt5
   - mt4
@@ -267,4 +267,5 @@ In this video, Rimantas explains how to make every MT4 & MT5 Client account use 
 <li><a href="https://ai-voice-clone.techidaily.com/new-introduction-of-virbo-windows-wondershare-virbo/"><u>New Introduction of Virbo Windows | Wondershare Virbo</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-itel-p55plus-by-drfone-android/"><u>Full Guide to Unlock Your Itel P55+</u></a></li>
 </ul></div>
+
 

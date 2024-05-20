@@ -1,7 +1,7 @@
 ---
 title: How to Repair Broken video files of OnePlus on Windows??
-date: 2024-04-30T01:38:18.284Z
-updated: 2024-05-01T01:38:18.284Z
+date: 2024-05-19T18:32:08.518Z
+updated: 2024-05-20T18:32:08.518Z
 tags: 
   - repair
 categories: 
@@ -231,4 +231,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-add-a-motion-blur-effect-to-your-photos-this-step-by-step-tutorial-will-show-you-how-to-use-gimp-software-to-get-the-effect-you-want.m/"><u>2024 Approved Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-zte-axon-40-lite-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From ZTE Axon 40 Lite to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on X8b
-date: 2024-04-30T01:41:26.974Z
+date: 2024-05-19T18:32:09.915Z
 tags: 
   - recover
 categories: 
@@ -256,4 +256,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-6s-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 6s Properly | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-oppo-a79-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A79 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

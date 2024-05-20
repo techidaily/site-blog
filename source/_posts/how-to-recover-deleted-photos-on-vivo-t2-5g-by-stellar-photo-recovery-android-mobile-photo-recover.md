@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Vivo T2 5G
-date: 2024-04-30T01:37:08.217Z
+date: 2024-05-19T18:32:08.047Z
 tags: 
   - recover
 categories: 
@@ -247,4 +247,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://review-topics.techidaily.com/recover-your-messages-after-vivo-v29-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Vivo V29 Pro has been deleted</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

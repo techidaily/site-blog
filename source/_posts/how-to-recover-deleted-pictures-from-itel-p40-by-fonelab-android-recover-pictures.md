@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted pictures from Itel P40.
-date: 2024-04-30T01:51:27.795Z
+date: 2024-05-19T18:32:14.995Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -226,4 +226,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Spark 10 4G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

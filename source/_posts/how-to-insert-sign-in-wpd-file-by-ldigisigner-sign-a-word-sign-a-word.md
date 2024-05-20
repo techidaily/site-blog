@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .wpd file
-date: 2024-04-30T01:47:50.673Z
-updated: 2024-05-01T01:47:50.673Z
+date: 2024-05-19T18:32:13.229Z
+updated: 2024-05-20T18:32:13.229Z
 tags: 
   - signer
   - signer online
@@ -190,4 +190,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme GT Neo 5 SE | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

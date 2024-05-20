@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on HTC U23
-date: 2024-04-30T01:41:03.134Z
-updated: 2024-05-01T01:41:03.134Z
+date: 2024-05-19T18:32:09.777Z
+updated: 2024-05-20T18:32:09.777Z
 tags: 
   - recover
 categories: 
@@ -280,4 +280,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-p55-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel P55 5G Devices | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y56-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y56 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

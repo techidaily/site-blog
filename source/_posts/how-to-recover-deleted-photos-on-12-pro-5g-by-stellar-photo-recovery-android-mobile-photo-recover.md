@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on 12 Pro 5G
-date: 2024-04-30T01:36:35.936Z
-updated: 2024-05-01T01:36:35.936Z
+date: 2024-05-19T18:32:07.849Z
+updated: 2024-05-20T18:32:07.849Z
 tags: 
   - recover
 categories: 
@@ -251,4 +251,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 15 Plus</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-13-ultra-by-drfone-android/"><u>How to Bypass FRP on Xiaomi 13 Ultra?</u></a></li>
 </ul></div>
+
 

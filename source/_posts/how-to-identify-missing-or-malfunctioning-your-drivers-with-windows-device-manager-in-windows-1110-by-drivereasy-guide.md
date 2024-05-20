@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:47:14.518Z
+date: 2024-05-19T18:32:12.946Z
 tags: 
   - driver
   - device driver
@@ -275,4 +275,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 6s Plus</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Vivo Y100i
-date: 2024-04-30T01:41:25.288Z
+date: 2024-05-19T18:32:09.908Z
 tags: 
   - recover
 categories: 
@@ -256,4 +256,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-vdieo-software.techidaily.com/new-best-5-reaction-video-makers-you-should-try/"><u>New Best 5 Reaction Video Makers You Should Try</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-pdf-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Create a Digital Signature Online for PDF document</u></a></li>
 </ul></div>
+
 

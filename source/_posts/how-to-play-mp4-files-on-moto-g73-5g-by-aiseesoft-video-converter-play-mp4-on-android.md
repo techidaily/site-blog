@@ -1,6 +1,6 @@
 ---
 title: How to play MP4 files on Moto G73 5G?
-date: 2024-04-30T01:35:31.123Z
+date: 2024-05-19T18:32:07.109Z
 tags: 
   - mp4 video
   - mp4 android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-m34-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy M34 5G for Free? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-poco-x5-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Poco X5 Pro Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Y78 5G
-date: 2024-04-30T01:37:12.388Z
-updated: 2024-05-01T01:37:12.388Z
+date: 2024-05-19T18:32:08.067Z
+updated: 2024-05-20T18:32:08.067Z
 tags: 
   - recover
 categories: 
@@ -266,4 +266,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo A58 4G | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-magic-6-lite-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor Magic 6 Lite without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

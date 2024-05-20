@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Infinix using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:08.377Z
+date: 2024-05-19T18:32:08.937Z
 tags: 
   - repair
 categories: 
@@ -164,4 +164,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/different-methods-for-resetting-honor-x9b-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor X9b Phones with Screen Locked and Not | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-blaze-2-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Blaze 2 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of HTC U23 with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:40.408Z
+date: 2024-05-19T18:32:08.740Z
 tags: 
   - repair
 categories: 
@@ -177,4 +177,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-perfectly-use-canva-color-match/"><u>New In 2024, How to Perfectly Use Canva Color Match?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a34-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A34 5G to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

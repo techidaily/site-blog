@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Motorola Moto G73 5G? 
-date: 2024-04-30T01:39:10.830Z
+date: 2024-05-19T18:32:08.952Z
 tags: 
   - repair
 categories: 
@@ -200,4 +200,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-magic-5-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor Magic 5 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-10-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 10 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

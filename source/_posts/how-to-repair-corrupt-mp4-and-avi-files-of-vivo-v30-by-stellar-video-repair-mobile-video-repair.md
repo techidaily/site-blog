@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Vivo V30?
-date: 2024-04-30T01:38:56.651Z
+date: 2024-05-19T18:32:08.867Z
 tags: 
   - repair
 categories: 
@@ -187,4 +187,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 15 Plus?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-asus-rog-phone-7-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Asus ROG Phone 7 without App | Dr.fone</u></a></li>
 </ul></div>
+
 

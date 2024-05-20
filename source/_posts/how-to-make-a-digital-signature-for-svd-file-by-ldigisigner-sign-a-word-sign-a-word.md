@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .svd file
-date: 2024-04-30T01:48:32.538Z
-updated: 2024-05-01T01:48:32.538Z
+date: 2024-05-19T18:32:13.527Z
+updated: 2024-05-20T18:32:13.527Z
 tags: 
   - signer
   - signer online
@@ -252,4 +252,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-t2-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo T2 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-spark-10-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Spark 10 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

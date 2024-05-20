@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of HTC ?
-date: 2024-04-30T01:38:40.220Z
+date: 2024-05-19T18:32:08.740Z
 tags: 
   - repair
 categories: 
@@ -190,4 +190,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-11-proplus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 11 Pro+ Location Settings | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi 13 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

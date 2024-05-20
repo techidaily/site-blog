@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Xiaomi Redmi Note 12R.
-date: 2024-04-30T01:46:14.225Z
+date: 2024-05-19T18:32:12.437Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo V27e | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
+
 

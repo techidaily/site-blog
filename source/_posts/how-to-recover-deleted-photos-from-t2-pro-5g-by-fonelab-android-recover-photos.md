@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from T2 Pro 5G.
-date: 2024-04-30T01:51:06.544Z
+date: 2024-05-19T18:32:14.820Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -163,4 +163,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-watermark-software-our-top-recommendations/"><u>In 2024, Free Video Watermark Software Our Top Recommendations</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-measuring-up-how-to-calculate-pixel-dimensions-accurately-for-2024/"><u>New Measuring Up How to Calculate Pixel Dimensions Accurately for 2024</u></a></li>
 </ul></div>
+
 

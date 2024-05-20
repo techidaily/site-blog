@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in Excel 2013 files
-date: 2024-04-30T01:47:47.026Z
-updated: 2024-05-01T01:47:47.026Z
+date: 2024-05-19T18:32:13.156Z
+updated: 2024-05-20T18:32:13.156Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-editing-video.techidaily.com/new-best-free-video-editing-software-to-boost-your-content-creation/"><u>New Best Free Video Editing Software to Boost Your Content Creation</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-note-12-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Xiaomi Redmi Note 12 5G via a USB Cable | Dr.fone</u></a></li>
 </ul></div>
+
 

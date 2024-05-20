@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Hardware Driver in Windows 11/10/7
-date: 2024-04-30T01:48:41.606Z
+date: 2024-05-19T18:32:13.614Z
 tags: 
   - driver
   - device driver
@@ -218,4 +218,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ai-editing-video.techidaily.com/updated-12-top-picks-of-video-enhancer-software/"><u>Updated 12 Top Picks of Video Enhancer Software</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-honor-play-8t-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Honor Play 8T</u></a></li>
 </ul></div>
+
 

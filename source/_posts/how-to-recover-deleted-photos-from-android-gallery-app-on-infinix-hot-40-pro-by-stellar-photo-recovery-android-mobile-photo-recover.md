@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Infinix Hot 40 Pro
-date: 2024-04-30T01:35:32.628Z
+date: 2024-05-19T18:32:07.446Z
 tags: 
   - recover
 categories: 
@@ -261,4 +261,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-spark-go-2023-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Spark Go (2023) Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Others devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

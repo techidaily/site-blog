@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 11
-date: 2024-04-30T01:48:39.693Z
+date: 2024-05-19T18:32:13.602Z
 tags: 
   - driver
   - device driver
@@ -261,4 +261,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-transparent-background-on-picsart-for-2024/"><u>How To Create Transparent Background On Picsart for 2024</u></a></li>
 </ul></div>
+
 

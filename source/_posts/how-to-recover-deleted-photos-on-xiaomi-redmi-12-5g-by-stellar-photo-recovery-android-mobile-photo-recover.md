@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Xiaomi Redmi 12 5G
-date: 2024-04-30T01:37:11.255Z
+date: 2024-05-19T18:32:08.061Z
 tags: 
   - recover
 categories: 
@@ -278,4 +278,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>In 2024, How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a1-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A1 5G to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

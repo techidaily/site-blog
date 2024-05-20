@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Xiaomi Redmi Note 13 5G? 
-date: 2024-04-30T01:38:59.641Z
+date: 2024-05-19T18:32:08.883Z
 tags: 
   - repair
 categories: 
@@ -197,4 +197,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo Find N3 Flip? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

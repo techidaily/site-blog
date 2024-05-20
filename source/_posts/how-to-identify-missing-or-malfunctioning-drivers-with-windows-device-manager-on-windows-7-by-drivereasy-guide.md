@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 7
-date: 2024-04-30T01:47:10.289Z
+date: 2024-05-19T18:32:12.927Z
 tags: 
   - driver
   - device driver
@@ -232,4 +232,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Google Pixel 8 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your ZTE Blade A73 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

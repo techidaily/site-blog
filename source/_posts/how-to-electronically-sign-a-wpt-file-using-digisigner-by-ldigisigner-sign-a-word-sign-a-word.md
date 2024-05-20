@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .wpt file Using DigiSigner
-date: 2024-04-30T01:43:20.173Z
-updated: 2024-05-01T01:43:20.173Z
+date: 2024-05-19T18:32:10.929Z
+updated: 2024-05-20T18:32:10.929Z
 tags: 
   - signer
   - signer online
@@ -226,4 +226,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78t-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78t Phone without PIN</u></a></li>
 </ul></div>
+
 

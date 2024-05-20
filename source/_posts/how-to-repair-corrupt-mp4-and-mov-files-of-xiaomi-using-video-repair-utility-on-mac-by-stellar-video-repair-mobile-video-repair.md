@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Xiaomi using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:25.987Z
+date: 2024-05-19T18:32:09.056Z
 tags: 
   - repair
 categories: 
@@ -165,4 +165,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 12 mini</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-p55-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel P55 5G FRP</u></a></li>
 </ul></div>
+
 

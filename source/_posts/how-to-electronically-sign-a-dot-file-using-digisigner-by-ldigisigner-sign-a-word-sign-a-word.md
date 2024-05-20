@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .dot file Using DigiSigner
-date: 2024-04-30T01:43:14.846Z
-updated: 2024-05-01T01:43:14.846Z
+date: 2024-05-19T18:32:10.886Z
+updated: 2024-05-20T18:32:10.886Z
 tags: 
   - signer
   - signer online
@@ -225,4 +225,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-note-50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Note 50 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-pop-8-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Pop 8 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

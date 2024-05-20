@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 12 Pro to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:42:06.912Z
-updated: 2024-05-01T01:42:06.912Z
+date: 2024-05-19T18:32:10.209Z
+updated: 2024-05-20T18:32:10.209Z
 tags: 
   - ios system repair
   - iphone repair
@@ -394,4 +394,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-14-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 14 to TV or PC? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo S18e | Dr.fone</u></a></li>
 </ul></div>
+
 

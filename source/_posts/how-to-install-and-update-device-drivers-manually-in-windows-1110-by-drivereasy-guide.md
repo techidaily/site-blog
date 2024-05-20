@@ -1,6 +1,6 @@
 ---
 title: How to install and update device drivers manually in Windows 11/10
-date: 2024-04-30T01:47:56.620Z
+date: 2024-05-19T18:32:13.273Z
 tags: 
   - driver
   - device driver
@@ -135,4 +135,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo G2 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

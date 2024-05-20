@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy A05s?
-date: 2024-04-30T01:35:31.030Z
+date: 2024-05-19T18:32:07.039Z
 tags: 
   - hevc video
   - hevc android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-8-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 8 Plus?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-6s-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 6s Plus Lock Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

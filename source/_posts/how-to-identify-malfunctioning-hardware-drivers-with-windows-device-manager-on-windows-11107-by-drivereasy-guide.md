@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-30T01:46:53.869Z
+date: 2024-05-19T18:32:12.768Z
 tags: 
   - driver
   - device driver
@@ -303,4 +303,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-z-fold-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy Z Fold 5 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-g22-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia G22? Try These Fixes</u></a></li>
 </ul></div>
+
 

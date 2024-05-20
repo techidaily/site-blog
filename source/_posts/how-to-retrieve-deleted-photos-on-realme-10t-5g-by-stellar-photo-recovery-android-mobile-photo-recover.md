@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Realme 10T 5G
-date: 2024-04-30T01:41:15.875Z
+date: 2024-05-19T18:32:09.851Z
 tags: 
   - recover
 categories: 
@@ -245,4 +245,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Honor Magic 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

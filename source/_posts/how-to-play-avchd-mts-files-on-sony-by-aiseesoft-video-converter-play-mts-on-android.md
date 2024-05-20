@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on Sony ?
-date: 2024-04-30T01:35:30.943Z
+date: 2024-05-19T18:32:06.944Z
 tags: 
   - mts video
   - mts android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-13-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 13 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-reno-11f-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo Reno 11F 5G online without jailbreak</u></a></li>
 </ul></div>
+
 

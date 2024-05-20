@@ -1,6 +1,6 @@
 ---
 title: How to install hardware device drivers manually in Windows 11 & 10
-date: 2024-04-30T01:48:05.887Z
+date: 2024-05-19T18:32:13.341Z
 tags: 
   - driver
   - device driver
@@ -264,4 +264,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-audience-vi/"><u>New Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-realme-11-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 11 5G Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

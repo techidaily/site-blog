@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6s to an Older Version? | Dr.fone
-date: 2024-04-30T01:42:45.376Z
-updated: 2024-05-01T01:42:45.376Z
+date: 2024-05-19T18:32:10.687Z
+updated: 2024-05-20T18:32:10.687Z
 tags: 
   - ios system repair
   - iphone repair
@@ -366,4 +366,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A15 5G Phone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 14 to other iPhone without iCloud | Dr.fone</u></a></li>
 </ul></div>
+
 

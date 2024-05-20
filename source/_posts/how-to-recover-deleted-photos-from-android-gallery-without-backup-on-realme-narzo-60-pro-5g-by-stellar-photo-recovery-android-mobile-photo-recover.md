@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Realme Narzo 60 Pro 5G
-date: 2024-04-30T01:36:22.068Z
+date: 2024-05-19T18:32:07.766Z
 tags: 
   - recover
 categories: 
@@ -307,4 +307,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Sony Xperia 1 V? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix Zero 5G 2023 Turbo</u></a></li>
 </ul></div>
+
 

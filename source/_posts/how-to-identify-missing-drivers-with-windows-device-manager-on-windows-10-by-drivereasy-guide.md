@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager on Windows 10
-date: 2024-04-30T01:47:02.281Z
+date: 2024-05-19T18:32:12.878Z
 tags: 
   - driver
   - device driver
@@ -311,4 +311,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-asus-rog-phone-8-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Asus ROG Phone 8 Pro</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-s17e-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from S17e</u></a></li>
 </ul></div>
+
 

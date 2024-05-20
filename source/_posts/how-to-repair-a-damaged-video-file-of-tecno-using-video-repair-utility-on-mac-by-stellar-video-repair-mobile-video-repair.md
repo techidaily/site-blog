@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Damaged video file of Tecno using Video Repair Utility on Mac?
-date: 2024-04-30T01:37:56.968Z
-updated: 2024-05-01T01:37:56.968Z
+date: 2024-05-19T18:32:08.382Z
+updated: 2024-05-20T18:32:08.382Z
 tags: 
   - repair
 categories: 
@@ -192,4 +192,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus, Apples New iPhone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xlsx-files-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xlsx files free</u></a></li>
 </ul></div>
+
 

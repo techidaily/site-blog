@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Xiaomi 14
-date: 2024-04-30T01:41:27.165Z
+date: 2024-05-19T18:32:09.916Z
 tags: 
   - recover
 categories: 
@@ -294,4 +294,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-itel-p55plus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Itel P55+ to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-most-effective-ways-to-set-whatsapp-status-for-2024/"><u>Updated Most Effective Ways to Set WhatsApp Status for 2024</u></a></li>
 </ul></div>
+
 

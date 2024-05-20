@@ -1,7 +1,7 @@
 ---
 title: How to play HEVC H.265 video on Samsung Galaxy XCover 6 Pro Tactical Edition?
-date: 2024-04-30T01:35:31.036Z
-updated: 2024-05-01T01:35:31.036Z
+date: 2024-05-19T18:32:07.047Z
+updated: 2024-05-20T18:32:07.047Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-t2x-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo T2x 5G Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme C55? | Dr.fone</u></a></li>
 </ul></div>
+
 

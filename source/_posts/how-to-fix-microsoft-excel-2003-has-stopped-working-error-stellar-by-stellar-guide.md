@@ -1,7 +1,7 @@
 ---
 title: How to fix Microsoft Excel 2003 has stopped working error? | Stellar
-date: 2024-04-30T01:44:49.737Z
-updated: 2024-05-01T01:44:49.737Z
+date: 2024-05-19T18:32:11.730Z
+updated: 2024-05-20T18:32:11.730Z
 tags: 
   - repair
   - repair excel
@@ -786,4 +786,5 @@ In this blog, we discussed some possible reasons behind Microsoft Excel 2013/201
 <li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-14-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 14 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-pova-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Pova 5 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

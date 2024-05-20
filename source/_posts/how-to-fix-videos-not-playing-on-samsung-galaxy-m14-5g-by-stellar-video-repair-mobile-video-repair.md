@@ -1,6 +1,6 @@
 ---
 title: How to Fix Videos Not Playing on Samsung Galaxy M14 5G?
-date: 2024-04-30T01:45:14.982Z
+date: 2024-05-19T18:32:12.055Z
 tags: 
   - repair
 categories: 
@@ -270,4 +270,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE with a Mask On | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-v30t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme V30T Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

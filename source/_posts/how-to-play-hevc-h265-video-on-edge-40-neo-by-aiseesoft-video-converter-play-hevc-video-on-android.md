@@ -1,7 +1,7 @@
 ---
 title: How to play HEVC H.265 video on Edge 40 Neo?
-date: 2024-04-30T01:35:31.029Z
-updated: 2024-05-01T01:35:31.029Z
+date: 2024-05-19T18:32:07.037Z
+updated: 2024-05-20T18:32:07.037Z
 tags: 
   - hevc video
   - hevc android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S23 FE</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 

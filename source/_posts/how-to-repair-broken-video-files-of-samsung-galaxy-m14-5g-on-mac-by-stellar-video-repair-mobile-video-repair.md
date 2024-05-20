@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Samsung Galaxy M14 5G on Mac?
-date: 2024-04-30T01:38:24.984Z
+date: 2024-05-19T18:32:08.580Z
 tags: 
   - repair
 categories: 
@@ -199,4 +199,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-13-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 13? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-blaze-2-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Blaze 2 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Honor Play 40C
-date: 2024-04-30T01:35:31.489Z
+date: 2024-05-19T18:32:07.435Z
 tags: 
   - recover
 categories: 
@@ -262,4 +262,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia C12 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus 11R | Dr.fone</u></a></li>
 </ul></div>
+
 

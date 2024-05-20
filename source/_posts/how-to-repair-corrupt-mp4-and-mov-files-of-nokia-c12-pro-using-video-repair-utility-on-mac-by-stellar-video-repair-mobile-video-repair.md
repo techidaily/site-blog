@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Nokia C12 Pro using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:13.066Z
-updated: 2024-05-01T01:39:13.066Z
+date: 2024-05-19T18:32:08.964Z
+updated: 2024-05-20T18:32:08.964Z
 tags: 
   - repair
 categories: 
@@ -218,4 +218,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-7-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 7 is off? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia XR21 | Dr.fone</u></a></li>
 </ul></div>
+
 

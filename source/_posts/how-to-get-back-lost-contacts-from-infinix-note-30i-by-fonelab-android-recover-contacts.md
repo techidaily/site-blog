@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Infinix Note 30i.
-date: 2024-04-30T01:45:33.807Z
+date: 2024-05-19T18:32:12.182Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -196,4 +196,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-youtube-video-meme-maker/"><u>Updated 2024 Approved Best Youtube Video Meme Maker</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 12</u></a></li>
 </ul></div>
+
 

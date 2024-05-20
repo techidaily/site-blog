@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Nubia Red Magic 8S Pro using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:14.016Z
+date: 2024-05-19T18:32:08.970Z
 tags: 
   - repair
 categories: 
@@ -232,4 +232,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-13-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 13 mini? Heres the Best Fixes</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for OnePlus Open | Dr.fone</u></a></li>
 </ul></div>
+
 

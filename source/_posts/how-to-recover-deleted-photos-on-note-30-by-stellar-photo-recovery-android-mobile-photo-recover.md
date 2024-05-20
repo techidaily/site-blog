@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Note 30
-date: 2024-04-30T01:36:51.471Z
+date: 2024-05-19T18:32:07.947Z
 tags: 
   - recover
 categories: 
@@ -249,4 +249,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a15-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A15 5G? 8 Solutions Inside | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

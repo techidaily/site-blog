@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:47:19.267Z
+date: 2024-05-19T18:32:12.969Z
 tags: 
   - driver
   - device driver
@@ -195,4 +195,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-c33-2023-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme C33 2023 Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

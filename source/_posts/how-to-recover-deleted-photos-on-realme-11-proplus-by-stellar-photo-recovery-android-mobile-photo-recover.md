@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Realme 11 Pro+
-date: 2024-04-30T01:36:59.369Z
+date: 2024-05-19T18:32:07.996Z
 tags: 
   - recover
 categories: 
@@ -247,4 +247,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V29 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 5G Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

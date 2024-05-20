@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Xiaomi Redmi 12?
-date: 2024-04-30T01:38:01.154Z
+date: 2024-05-19T18:32:08.408Z
 tags: 
   - repair
 categories: 
@@ -220,4 +220,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-voice-clone.techidaily.com/new-selected-best-5-youtube-script-writing-ai-customized-for-you/"><u>New Selected Best 5 YouTube Script Writing AI Customized for You</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

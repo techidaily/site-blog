@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Infinix Note 30
-date: 2024-04-30T01:35:33.006Z
+date: 2024-05-19T18:32:07.448Z
 tags: 
   - recover
 categories: 
@@ -263,4 +263,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel S23+? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

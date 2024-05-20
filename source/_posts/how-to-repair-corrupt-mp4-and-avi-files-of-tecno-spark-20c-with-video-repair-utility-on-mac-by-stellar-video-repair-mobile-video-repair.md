@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Tecno Spark 20C with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:55.332Z
+date: 2024-05-19T18:32:08.860Z
 tags: 
   - repair
 categories: 
@@ -242,4 +242,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://review-topics.techidaily.com/recover-lost-data-from-lava-blaze-2-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Lava Blaze 2 Pro</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco M6 5G Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

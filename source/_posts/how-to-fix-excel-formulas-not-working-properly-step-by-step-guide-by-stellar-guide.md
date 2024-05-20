@@ -1,6 +1,6 @@
 ---
 title: How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
-date: 2024-04-30T01:44:33.342Z
+date: 2024-05-19T18:32:11.605Z
 tags: 
   - repair
   - repair excel
@@ -173,4 +173,5 @@ This blog discussed some problems you might make causing an Excel formula to sto
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-k70e-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi K70E To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/find-out-how-to-create-your-own-custom-motion-graphics-in-filmora-add-unique-objects-manipulate-text-and-animate-anything-you-want/"><u>Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want</u></a></li>
 </ul></div>
+
 

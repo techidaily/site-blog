@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:47:32.325Z
+date: 2024-05-19T18:32:13.074Z
 tags: 
   - driver
   - device driver
@@ -156,4 +156,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

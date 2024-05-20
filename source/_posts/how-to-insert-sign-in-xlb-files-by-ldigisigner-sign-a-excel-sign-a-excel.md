@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .xlb files
-date: 2024-04-30T01:47:51.248Z
-updated: 2024-05-01T01:47:51.248Z
+date: 2024-05-19T18:32:13.232Z
+updated: 2024-05-20T18:32:13.232Z
 tags: 
   - signer
   - signer online
@@ -230,4 +230,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y77t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y77t and Browser | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y36i-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y36i to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

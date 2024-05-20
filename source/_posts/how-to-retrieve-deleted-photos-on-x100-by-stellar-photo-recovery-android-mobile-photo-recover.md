@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on X100
-date: 2024-04-30T01:41:26.782Z
-updated: 2024-05-01T01:41:26.782Z
+date: 2024-05-19T18:32:09.914Z
+updated: 2024-05-20T18:32:09.914Z
 tags: 
   - recover
 categories: 
@@ -272,4 +272,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-apps.techidaily.com/top-intro-creator-software-for-gamers-on-pc-and-mac-for-2024/"><u>Top Intro Creator Software for Gamers on PC and Mac for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-twitter-video-size-secrets-aspect-ratio-revealed/"><u>Updated In 2024, Unlock Twitter Video Size Secrets Aspect Ratio Revealed</u></a></li>
 </ul></div>
+
 

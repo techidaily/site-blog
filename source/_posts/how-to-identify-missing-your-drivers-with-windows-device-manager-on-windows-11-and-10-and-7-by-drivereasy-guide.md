@@ -1,6 +1,6 @@
 ---
 title: How to identify missing your drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-30T01:47:21.777Z
+date: 2024-05-19T18:32:12.981Z
 tags: 
   - driver
   - device driver
@@ -279,4 +279,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-on-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update drivers on Windows 11</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-live-video-making-it-possible-with-the-best-tool/"><u>New In 2024, Translate Live Video Making It Possible With The Best Tool</u></a></li>
 </ul></div>
+
 

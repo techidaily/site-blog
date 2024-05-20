@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Sony Xperia 5 V
-date: 2024-04-30T01:37:04.990Z
+date: 2024-05-19T18:32:08.032Z
 tags: 
   - recover
 categories: 
@@ -257,4 +257,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi 13T? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/google-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Google Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
+
 

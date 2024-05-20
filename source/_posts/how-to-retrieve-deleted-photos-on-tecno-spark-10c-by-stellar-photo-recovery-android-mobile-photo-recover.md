@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Tecno Spark 10C
-date: 2024-04-30T01:41:21.577Z
+date: 2024-05-19T18:32:09.889Z
 tags: 
   - recover
 categories: 
@@ -303,4 +303,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-editing.techidaily.com/10-best-innovative-ar-video-effects-to-check-out-for-2024/"><u>10 Best Innovative AR Video Effects to Check Out for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-honor-100-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor 100 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

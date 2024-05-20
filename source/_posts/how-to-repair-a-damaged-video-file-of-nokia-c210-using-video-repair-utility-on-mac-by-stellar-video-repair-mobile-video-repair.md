@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Damaged video file of Nokia C210 using Video Repair Utility on Mac?
-date: 2024-04-30T01:37:47.086Z
-updated: 2024-05-01T01:37:47.086Z
+date: 2024-05-19T18:32:08.313Z
+updated: 2024-05-20T18:32:08.313Z
 tags: 
   - repair
 categories: 
@@ -180,4 +180,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-add-subtitles-in-vlc-media-play/"><u>2024 Approved How to Add Subtitles in VLC Media Play</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-blade-a73-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Blade A73 5G</u></a></li>
 </ul></div>
+
 

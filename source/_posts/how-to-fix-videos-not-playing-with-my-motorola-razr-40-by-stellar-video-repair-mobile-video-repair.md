@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Motorola Razr 40?
-date: 2024-04-30T01:45:17.002Z
+date: 2024-05-19T18:32:12.063Z
 tags: 
   - repair
 categories: 
@@ -236,4 +236,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Max Without iTunes | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-learn-how-to-add-dynamic-shake-effects-to-your-videos-using-alight-motion-our-step-by-step-guide-makes-it-easy-to-create-cinematic-footage/"><u>Updated Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage</u></a></li>
 </ul></div>
+
 

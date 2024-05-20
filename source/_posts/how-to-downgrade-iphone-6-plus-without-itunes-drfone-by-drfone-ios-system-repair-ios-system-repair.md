@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6 Plus without iTunes? | Dr.fone
-date: 2024-04-30T01:42:39.343Z
-updated: 2024-05-01T01:42:39.343Z
+date: 2024-05-19T18:32:10.654Z
+updated: 2024-05-20T18:32:10.654Z
 tags: 
   - ios system repair
   - iphone repair
@@ -340,4 +340,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia C210 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-12-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Y36i
-date: 2024-04-30T01:36:34.193Z
+date: 2024-05-19T18:32:07.837Z
 tags: 
   - recover
 categories: 
@@ -241,4 +241,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-p55-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel P55 5G to New Phone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-vivo-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Vivo</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 11 & 10
-date: 2024-04-30T01:48:39.506Z
+date: 2024-05-19T18:32:13.601Z
 tags: 
   - driver
   - device driver
@@ -232,4 +232,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://location-social.techidaily.com/does-samsung-galaxy-s23-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy S23 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-put-a-filter-on-a-video-in-imovie/"><u>2024 Approved How to Put a Filter on a Video in iMovie</u></a></li>
 </ul></div>
+
 

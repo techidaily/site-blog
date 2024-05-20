@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:47:09.714Z
+date: 2024-05-19T18:32:12.925Z
 tags: 
   - driver
   - device driver
@@ -288,4 +288,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-the-secrets-of-youtube-mp3-converters-top-reviews/"><u>Updated 2024 Approved Unlock the Secrets of YouTube MP3 Converters Top Reviews</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-make-an-instant-slideshow-on-mac/"><u>Updated 2024 Approved How to Make an Instant Slideshow on Mac</u></a></li>
 </ul></div>
+
 

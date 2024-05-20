@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-30T01:46:57.849Z
+date: 2024-05-19T18:32:12.850Z
 tags: 
   - driver
   - device driver
@@ -241,4 +241,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fix-guide.techidaily.com/oneplus-12-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/nokia-g22-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G22 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

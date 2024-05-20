@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Y27 5G.
-date: 2024-04-30T01:51:11.538Z
+date: 2024-05-19T18:32:14.840Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -192,4 +192,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/learning-how-to-slow-down-a-video-on-iphone-properly-for-2024/"><u>Learning How to Slow Down a Video on iPhone Properly for 2024</u></a></li>
 </ul></div>
+
 

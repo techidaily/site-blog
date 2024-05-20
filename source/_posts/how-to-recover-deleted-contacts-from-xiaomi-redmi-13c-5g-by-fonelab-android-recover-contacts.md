@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted contacts from Xiaomi Redmi 13C 5G.
-date: 2024-04-30T01:50:09.883Z
-updated: 2024-05-01T01:50:09.883Z
+date: 2024-05-19T18:32:14.406Z
+updated: 2024-05-20T18:32:14.406Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-htc-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on HTC</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 12T Pro Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Honor 90 Pro
-date: 2024-04-30T01:35:31.486Z
-updated: 2024-05-01T01:35:31.486Z
+date: 2024-05-19T18:32:07.432Z
+updated: 2024-05-20T18:32:07.432Z
 tags: 
   - recover
 categories: 
@@ -245,4 +245,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo V30 Lite 5G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

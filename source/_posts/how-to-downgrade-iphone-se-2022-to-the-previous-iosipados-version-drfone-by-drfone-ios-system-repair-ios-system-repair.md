@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2022) to the Previous iOS/iPadOS Version? | Dr.fone
-date: 2024-04-30T01:42:59.878Z
-updated: 2024-05-01T01:42:59.878Z
+date: 2024-05-19T18:32:10.768Z
+updated: 2024-05-20T18:32:10.768Z
 tags: 
   - ios system repair
   - iphone repair
@@ -402,4 +402,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Devices</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-g310-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia G310 FRP Bypass</u></a></li>
 </ul></div>
+
 

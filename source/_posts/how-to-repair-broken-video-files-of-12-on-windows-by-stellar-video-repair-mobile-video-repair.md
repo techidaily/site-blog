@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of 12 on Windows??
-date: 2024-04-30T01:38:03.053Z
+date: 2024-05-19T18:32:08.419Z
 tags: 
   - repair
 categories: 
@@ -189,4 +189,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C32 Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

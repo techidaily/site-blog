@@ -1,6 +1,6 @@
 ---
 title: How to Fix the Unable to Record Macro Error in Excel 2013?
-date: 2024-04-30T01:45:07.252Z
+date: 2024-05-19T18:32:11.960Z
 tags: 
   - repair
   - repair excel
@@ -156,4 +156,5 @@ You may receive the “unable to record” error in Excel while creating or stor
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 30i? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-storm-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Storm 5G FRP</u></a></li>
 </ul></div>
+
 

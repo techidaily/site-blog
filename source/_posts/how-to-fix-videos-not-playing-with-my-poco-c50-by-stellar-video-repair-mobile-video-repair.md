@@ -1,7 +1,7 @@
 ---
 title: How to fix videos not playing with my Poco C50?
-date: 2024-04-30T01:35:30.772Z
-updated: 2024-05-01T01:35:30.772Z
+date: 2024-05-19T18:32:06.805Z
+updated: 2024-05-20T18:32:06.805Z
 tags: 
   - repair
 categories: 
@@ -184,4 +184,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/sign-xlsm-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xlsm files Online for Free</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Tecno with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:55.520Z
-updated: 2024-05-01T01:38:55.520Z
+date: 2024-05-19T18:32:08.861Z
+updated: 2024-05-20T18:32:08.861Z
 tags: 
   - repair
 categories: 
@@ -199,4 +199,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-apps.techidaily.com/updated-my-top-criteria-for-selecting-the-best-video-to-audio-converter/"><u>Updated My Top Criteria for Selecting the Best Video to Audio Converter</u></a></li>
 <li><a href="https://techidaily.com/different-methods-for-resetting-realme-gt-neo-5-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme GT Neo 5 Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
+
 

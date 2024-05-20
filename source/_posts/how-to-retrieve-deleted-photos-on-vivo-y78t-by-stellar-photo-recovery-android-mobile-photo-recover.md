@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Vivo Y78t
-date: 2024-04-30T01:41:26.590Z
+date: 2024-05-19T18:32:09.913Z
 tags: 
   - recover
 categories: 
@@ -253,4 +253,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2013 files
-date: 2024-04-30T01:48:29.928Z
-updated: 2024-05-01T01:48:29.928Z
+date: 2024-05-19T18:32:13.513Z
+updated: 2024-05-20T18:32:13.513Z
 tags: 
   - signer
   - signer online
@@ -245,4 +245,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

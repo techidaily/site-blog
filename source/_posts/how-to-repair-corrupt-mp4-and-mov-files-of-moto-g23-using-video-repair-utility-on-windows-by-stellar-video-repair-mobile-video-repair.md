@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Moto G23 using Video Repair Utility on Windows?
-date: 2024-04-30T01:39:10.266Z
-updated: 2024-05-01T01:39:10.266Z
+date: 2024-05-19T18:32:08.949Z
+updated: 2024-05-20T18:32:08.949Z
 tags: 
   - repair
 categories: 
@@ -181,4 +181,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-8-plus-5-ways-to-get-into-a-locked-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 8 Plus? 5 Ways to get into a Locked iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-note-30-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Note 30 FRP?</u></a></li>
 </ul></div>
+
 

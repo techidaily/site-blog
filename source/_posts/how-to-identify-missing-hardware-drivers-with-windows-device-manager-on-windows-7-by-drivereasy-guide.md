@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager on Windows 7
-date: 2024-04-30T01:47:06.642Z
+date: 2024-05-19T18:32:12.903Z
 tags: 
   - driver
   - device driver
@@ -182,4 +182,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo Find X6 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-11x-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme 11X 5G</u></a></li>
 </ul></div>
+
 

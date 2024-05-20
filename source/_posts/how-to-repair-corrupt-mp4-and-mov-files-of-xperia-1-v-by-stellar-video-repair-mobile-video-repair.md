@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Xperia 1 V?
-date: 2024-04-30T01:39:26.368Z
-updated: 2024-05-01T01:39:26.368Z
+date: 2024-05-19T18:32:09.058Z
+updated: 2024-05-20T18:32:09.058Z
 tags: 
   - repair
 categories: 
@@ -178,4 +178,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-x6-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco X6 Pro Device</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29</u></a></li>
 </ul></div>
+
 

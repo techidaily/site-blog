@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Redmi Note 12R
-date: 2024-04-30T01:41:17.948Z
+date: 2024-05-19T18:32:09.871Z
 tags: 
   - recover
 categories: 
@@ -252,4 +252,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-long-does-it-take-to-edit-videos/"><u>Updated How Long Does It Take To Edit Videos</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12?</u></a></li>
 </ul></div>
+
 

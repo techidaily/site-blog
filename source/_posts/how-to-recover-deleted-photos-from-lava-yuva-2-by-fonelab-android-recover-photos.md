@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Lava Yuva 2.
-date: 2024-04-30T01:50:55.834Z
+date: 2024-05-19T18:32:14.769Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -193,4 +193,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Find N3 | Dr.fone</u></a></li>
 </ul></div>
+
 

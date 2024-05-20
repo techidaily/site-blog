@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6s without iTunes? | Dr.fone
-date: 2024-04-30T01:42:46.359Z
-updated: 2024-05-01T01:42:46.359Z
+date: 2024-05-19T18:32:10.692Z
+updated: 2024-05-20T18:32:10.692Z
 tags: 
   - ios system repair
   - iphone repair
@@ -456,4 +456,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-v30t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme V30T Device</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-gt-neo-5-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme GT Neo 5 Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xltm files
-date: 2024-04-30T01:48:36.750Z
-updated: 2024-05-01T01:48:36.750Z
+date: 2024-05-19T18:32:13.573Z
+updated: 2024-05-20T18:32:13.573Z
 tags: 
   - signer
   - signer online
@@ -208,4 +208,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-2024-essentials-synchronizing-audio-and-video-for-professional-results/"><u>New FCPX 2024 Essentials Synchronizing Audio and Video for Professional Results</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-c12-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia C12 Pro</u></a></li>
 </ul></div>
+
 

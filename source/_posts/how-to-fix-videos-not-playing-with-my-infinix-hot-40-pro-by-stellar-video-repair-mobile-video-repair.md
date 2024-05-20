@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Infinix Hot 40 Pro?
-date: 2024-04-30T01:35:30.760Z
+date: 2024-05-19T18:32:06.793Z
 tags: 
   - repair
 categories: 
@@ -267,4 +267,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/top-iphone-se-2020-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone SE (2020) Message Recovery Software | Stellar</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-12-pro-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 12 Pro Max - 4 Easy Ways</u></a></li>
 </ul></div>
+
 

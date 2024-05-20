@@ -1,6 +1,6 @@
 ---
 title: How to solve MKV lagging problem in Xiaomi Redmi 12?
-date: 2024-04-30T01:42:01.605Z
+date: 2024-05-19T18:32:10.170Z
 tags: 
   - mkv video
   - mkv android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/secrets-to-make-2d-game-animation-for-2024/"><u>Secrets to Make 2D Game Animation for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

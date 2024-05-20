@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on P40+
-date: 2024-04-30T01:36:56.940Z
+date: 2024-05-19T18:32:07.981Z
 tags: 
   - recover
 categories: 
@@ -277,4 +277,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-best-zero-cost-vob-video-editors-a-comprehensive-review/"><u>Updated Best Zero-Cost VOB Video Editors A Comprehensive Review</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lenovo-thinkphone-frp-by-drfone-android/"><u>The Updated Method to Bypass Lenovo ThinkPhone FRP</u></a></li>
 </ul></div>
+
 

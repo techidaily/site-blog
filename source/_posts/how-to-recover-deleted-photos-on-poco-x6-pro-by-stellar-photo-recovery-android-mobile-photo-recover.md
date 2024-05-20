@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Poco X6 Pro
-date: 2024-04-30T01:36:58.621Z
+date: 2024-05-19T18:32:07.991Z
 tags: 
   - recover
 categories: 
@@ -257,4 +257,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-video-apps.techidaily.com/updated-expert-picks-best-text-animation-and-tracking-software-2023-for-2024/"><u>Updated Expert Picks Best Text Animation and Tracking Software 2023 for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-s17e-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo S17e Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

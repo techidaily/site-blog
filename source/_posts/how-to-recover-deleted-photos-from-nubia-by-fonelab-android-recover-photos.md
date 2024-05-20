@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Nubia .
-date: 2024-04-30T01:50:58.714Z
-updated: 2024-05-01T01:50:58.714Z
+date: 2024-05-19T18:32:14.789Z
+updated: 2024-05-20T18:32:14.789Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -190,4 +190,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-huawei-p60-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Huawei P60 to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-motorola-edge-2023s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Motorola Edge 2023’s lock screen pattern, PIN or password</u></a></li>
 </ul></div>
+
 

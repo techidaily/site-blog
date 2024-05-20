@@ -1,6 +1,6 @@
 ---
 title: How to Fix Videos Not Playing on Vivo Y02T?
-date: 2024-04-30T01:35:30.688Z
+date: 2024-05-19T18:32:06.777Z
 tags: 
   - repair
 categories: 
@@ -229,4 +229,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Google Pixel Fold | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

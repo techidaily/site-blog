@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Realme
-date: 2024-04-30T01:41:16.631Z
+date: 2024-05-19T18:32:09.856Z
 tags: 
   - recover
 categories: 
@@ -276,4 +276,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-90-gt-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor 90 GT to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-xr-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone XR</u></a></li>
 </ul></div>
+
 

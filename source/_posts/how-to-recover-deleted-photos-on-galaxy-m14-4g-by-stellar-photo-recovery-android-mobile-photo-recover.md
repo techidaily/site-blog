@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Galaxy M14 4G
-date: 2024-04-30T01:36:39.766Z
+date: 2024-05-19T18:32:07.873Z
 tags: 
   - recover
 categories: 
@@ -255,4 +255,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-a1x-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo A1x 5G</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
+
 

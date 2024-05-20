@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Xiaomi Redmi A2.
-date: 2024-04-30T01:50:10.077Z
+date: 2024-05-19T18:32:14.407Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -171,4 +171,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-10-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark 10 4G phone? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S18e? | Dr.fone</u></a></li>
 </ul></div>
+
 

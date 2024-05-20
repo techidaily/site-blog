@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Redmi Note 13 Pro+ 5G
-date: 2024-04-30T01:37:01.583Z
-updated: 2024-05-01T01:37:01.583Z
+date: 2024-05-19T18:32:08.015Z
+updated: 2024-05-20T18:32:08.015Z
 tags: 
   - recover
 categories: 
@@ -248,4 +248,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-m54-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy M54 5G Pattern Lock Screen</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

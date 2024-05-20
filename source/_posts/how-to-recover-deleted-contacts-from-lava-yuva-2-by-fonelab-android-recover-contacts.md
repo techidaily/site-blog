@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Lava Yuva 2.
-date: 2024-04-30T01:49:54.378Z
+date: 2024-05-19T18:32:14.291Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -174,4 +174,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-galaxy-m34-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung Galaxy M34</u></a></li>
 </ul></div>
+
 

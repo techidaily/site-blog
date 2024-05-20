@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on 11R
-date: 2024-04-30T01:36:35.553Z
+date: 2024-05-19T18:32:07.847Z
 tags: 
   - recover
 categories: 
@@ -276,4 +276,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus Passcode without Computer?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15 Plus</u></a></li>
 </ul></div>
+
 

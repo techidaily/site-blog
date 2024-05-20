@@ -1,7 +1,7 @@
 ---
 title: How To Get Out of Recovery or DFU Mode on iPhone 13 mini? | Dr.fone
-date: 2024-04-30T01:46:31.102Z
-updated: 2024-05-01T01:46:31.102Z
+date: 2024-05-19T18:32:12.570Z
+updated: 2024-05-20T18:32:12.570Z
 tags: 
   - ios system repair
   - iphone repair
@@ -305,4 +305,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-poco-x6-pro-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Poco X6 Pro has been deleted.</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-smart-7-hd-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Smart 7 HD Phone Screen?</u></a></li>
 </ul></div>
+
 

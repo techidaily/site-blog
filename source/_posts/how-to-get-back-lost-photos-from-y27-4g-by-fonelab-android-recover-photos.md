@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Y27 4G.
-date: 2024-04-30T01:46:15.008Z
+date: 2024-05-19T18:32:12.441Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -159,4 +159,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-c22-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia C22 Devices</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-magic-vs-2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor Magic Vs 2 Quickly? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 12 mini to the Previous iOS/iPadOS Version? | Dr.fone
-date: 2024-04-30T01:42:02.760Z
-updated: 2024-05-01T01:42:02.760Z
+date: 2024-05-19T18:32:10.187Z
+updated: 2024-05-20T18:32:10.187Z
 tags: 
   - ios system repair
   - iphone repair
@@ -411,4 +411,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

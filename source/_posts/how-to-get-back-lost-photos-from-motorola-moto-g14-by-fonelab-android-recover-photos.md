@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Motorola Moto G14.
-date: 2024-04-30T01:46:01.598Z
+date: 2024-05-19T18:32:12.378Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-apps-for-whatsapp-video-status/"><u>Updated In 2024, Best Apps for WhatsApp Video Status</u></a></li>
 </ul></div>
+
 

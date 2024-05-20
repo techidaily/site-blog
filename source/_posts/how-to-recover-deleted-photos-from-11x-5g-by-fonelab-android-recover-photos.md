@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from 11X 5G.
-date: 2024-04-30T01:50:43.042Z
-updated: 2024-05-01T01:50:43.042Z
+date: 2024-05-19T18:32:14.698Z
+updated: 2024-05-20T18:32:14.698Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-top-5-huawei-nova-y71-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Huawei Nova Y71 Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-s17-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo S17 Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Play 40C.
-date: 2024-04-30T01:51:02.007Z
+date: 2024-05-19T18:32:14.802Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -186,4 +186,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50iplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50i+ Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-ai-advertising/"><u>New In 2024, What Is AI Advertising?</u></a></li>
 </ul></div>
+
 

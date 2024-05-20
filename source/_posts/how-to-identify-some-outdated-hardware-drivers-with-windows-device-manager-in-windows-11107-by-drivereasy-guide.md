@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:47:30.959Z
+date: 2024-05-19T18:32:13.066Z
 tags: 
   - driver
   - device driver
@@ -155,4 +155,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-linux-loves-video-editing-10-alternatives-to-adobe-premiere-pro/"><u>Updated In 2024, Linux Loves Video Editing 10 Alternatives to Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

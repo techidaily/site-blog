@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Motorola Moto G Stylus 5G (2023)?
-date: 2024-04-30T01:35:30.982Z
+date: 2024-05-19T18:32:07.001Z
 tags: 
   - hevc video
   - hevc android
@@ -217,4 +217,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-t2-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo T2 5G? Try These Fixes</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

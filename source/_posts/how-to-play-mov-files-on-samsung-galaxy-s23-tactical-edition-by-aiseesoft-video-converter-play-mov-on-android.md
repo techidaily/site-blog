@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Samsung Galaxy S23 Tactical Edition ?
-date: 2024-04-30T01:35:31.101Z
+date: 2024-05-19T18:32:07.081Z
 tags: 
   - mov video
   - mov android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

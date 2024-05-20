@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Nubia
-date: 2024-04-30T01:36:13.808Z
+date: 2024-05-19T18:32:07.682Z
 tags: 
   - recover
 categories: 
@@ -272,4 +272,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-13c-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi 13C Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

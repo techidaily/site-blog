@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Itel A60.
-date: 2024-04-30T01:45:34.405Z
+date: 2024-05-19T18:32:12.184Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-defy-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

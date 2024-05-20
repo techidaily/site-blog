@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Vivo T2 Pro 5G
-date: 2024-04-30T01:37:08.404Z
+date: 2024-05-19T18:32:08.048Z
 tags: 
   - recover
 categories: 
@@ -294,4 +294,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-s24-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy S24 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-rotate-videos-with-media-player-classic/"><u>New In 2024, How to Rotate Videos With Media Player Classic</u></a></li>
 </ul></div>
+
 

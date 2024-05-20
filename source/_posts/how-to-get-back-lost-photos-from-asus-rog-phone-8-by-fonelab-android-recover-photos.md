@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Asus ROG Phone 8.
-date: 2024-04-30T01:45:52.604Z
+date: 2024-05-19T18:32:12.321Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -179,4 +179,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/sign-wpt-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wpt file Online for Free</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-poco-x6-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Poco X6? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

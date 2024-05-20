@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Damaged video file of 13T Pro using Video Repair Utility on Mac?
-date: 2024-04-30T01:37:35.872Z
-updated: 2024-05-01T01:37:35.872Z
+date: 2024-05-19T18:32:08.250Z
+updated: 2024-05-20T18:32:08.250Z
 tags: 
   - repair
 categories: 
@@ -192,4 +192,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location-track.techidaily.com/top-9-vivo-t2-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo T2 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-infinix-hot-30i-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Infinix Hot 30i</u></a></li>
 </ul></div>
+
 

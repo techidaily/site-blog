@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:12.609Z
+date: 2024-05-19T18:32:12.937Z
 tags: 
   - driver
   - device driver
@@ -229,4 +229,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-v30-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme V30 Phone without Google Account?</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-photos-from-itel-a60s-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Itel A60s.</u></a></li>
 </ul></div>
+
 

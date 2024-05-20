@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Y78+ (T1) Edition.
-date: 2024-04-30T01:46:15.387Z
+date: 2024-05-19T18:32:12.442Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-11-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 11 5G Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-10-free-online-sticker-makers-to-make-your-own-stickers/"><u>New 10 Free Online Sticker Makers to Make Your Own Stickers</u></a></li>
 </ul></div>
+
 

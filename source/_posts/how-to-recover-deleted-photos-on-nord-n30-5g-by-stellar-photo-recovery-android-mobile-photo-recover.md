@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Nord N30 5G
-date: 2024-04-30T01:36:50.907Z
+date: 2024-05-19T18:32:07.939Z
 tags: 
   - recover
 categories: 
@@ -250,4 +250,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-magic-5-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor Magic 5 Lite Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

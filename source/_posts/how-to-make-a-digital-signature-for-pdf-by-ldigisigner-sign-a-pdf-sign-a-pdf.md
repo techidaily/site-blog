@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for PDF
-date: 2024-04-30T01:48:32.155Z
-updated: 2024-05-01T01:48:32.155Z
+date: 2024-05-19T18:32:13.525Z
+updated: 2024-05-20T18:32:13.525Z
 tags: 
   - signer
   - signer online
@@ -199,4 +199,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-100-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor 100 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A14 5G</u></a></li>
 </ul></div>
+
 

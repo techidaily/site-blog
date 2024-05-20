@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Infinix Note 30i? 
-date: 2024-04-30T01:39:07.801Z
+date: 2024-05-19T18:32:08.931Z
 tags: 
   - repair
 categories: 
@@ -203,4 +203,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo A56s 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-face-generator-tools-online/"><u>The Ultimate List of Free Face Generator Tools Online</u></a></li>
 </ul></div>
+
 

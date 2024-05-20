@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted contacts from OnePlus Nord N30 5G.
-date: 2024-04-30T01:49:57.807Z
-updated: 2024-05-01T01:49:57.807Z
+date: 2024-05-19T18:32:14.305Z
+updated: 2024-05-20T18:32:14.305Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -201,4 +201,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-play-7t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Play 7T to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-s18e-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo S18e FRP Bypass</u></a></li>
 </ul></div>
+
 

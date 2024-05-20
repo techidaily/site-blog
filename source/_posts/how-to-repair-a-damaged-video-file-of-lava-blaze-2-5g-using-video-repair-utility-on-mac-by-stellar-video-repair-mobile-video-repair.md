@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Damaged video file of Lava Blaze 2 5G using Video Repair Utility on Mac?
-date: 2024-04-30T01:37:44.393Z
-updated: 2024-05-01T01:37:44.393Z
+date: 2024-05-19T18:32:08.297Z
+updated: 2024-05-20T18:32:08.297Z
 tags: 
   - repair
 categories: 
@@ -186,4 +186,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-make-professional-looking-videos-keep-reading-to-give-your-videos-a-cinematic-feel-with-the-audio-mixer-of-filmora/"><u>2024 Approved Want to Make Professional-Looking Videos? Keep Reading to Give Your Videos a Cinematic Feel with the Audio Mixer of Filmora</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y100t-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y100t</u></a></li>
 </ul></div>
+
 

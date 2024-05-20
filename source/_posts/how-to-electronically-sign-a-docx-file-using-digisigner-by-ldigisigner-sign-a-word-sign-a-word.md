@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .docx file Using DigiSigner
-date: 2024-04-30T01:43:14.466Z
-updated: 2024-05-01T01:43:14.466Z
+date: 2024-05-19T18:32:10.880Z
+updated: 2024-05-20T18:32:10.880Z
 tags: 
   - signer
   - signer online
@@ -198,4 +198,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-editing-video.techidaily.com/new-how-does-the-youtube-ai-algorithm-work-for-2024/"><u>New How Does the YouTube AI Algorithm Work for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y200? | Dr.fone</u></a></li>
 </ul></div>
+
 

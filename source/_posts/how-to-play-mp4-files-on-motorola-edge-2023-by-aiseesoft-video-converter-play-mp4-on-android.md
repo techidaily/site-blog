@@ -1,6 +1,6 @@
 ---
 title: How to play MP4 files on Motorola Edge 2023?
-date: 2024-04-30T01:35:31.126Z
+date: 2024-05-19T18:32:07.111Z
 tags: 
   - mp4 video
   - mp4 android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-spark-20-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Spark 20 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-zero-30-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Zero 30 5G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

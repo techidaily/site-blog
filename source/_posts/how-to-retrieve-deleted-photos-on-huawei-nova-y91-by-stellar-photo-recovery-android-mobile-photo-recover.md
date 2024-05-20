@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Huawei Nova Y91
-date: 2024-04-30T01:41:03.513Z
+date: 2024-05-19T18:32:09.779Z
 tags: 
   - recover
 categories: 
@@ -271,4 +271,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 11 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/best-cheap-video-editing-software-for-2024/"><u>Best Cheap Video Editing Software for 2024</u></a></li>
 </ul></div>
+
 

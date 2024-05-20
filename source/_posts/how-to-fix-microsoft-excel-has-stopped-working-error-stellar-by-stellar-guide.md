@@ -1,7 +1,7 @@
 ---
 title: How to fix Microsoft Excel has stopped working error? | Stellar
-date: 2024-04-30T01:44:55.984Z
-updated: 2024-05-01T01:44:55.984Z
+date: 2024-05-19T18:32:11.830Z
+updated: 2024-05-20T18:32:11.830Z
 tags: 
   - repair
   - repair excel
@@ -720,4 +720,5 @@ Additionally, ensure that the Excel ‘AutoRecover’ feature is set to save a v
 <li><a href="https://techidaily.com/the-way-to-convert-mts-for-redmi-a2-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Redmi A2</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

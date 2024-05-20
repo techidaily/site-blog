@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Xiaomi Redmi 13C 5G with Video Repair Utility on Windows? 
-date: 2024-04-30T01:38:59.146Z
+date: 2024-05-19T18:32:08.881Z
 tags: 
   - repair
 categories: 
@@ -246,4 +246,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-meizu-21-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Meizu 21 Screen | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2v-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2V Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

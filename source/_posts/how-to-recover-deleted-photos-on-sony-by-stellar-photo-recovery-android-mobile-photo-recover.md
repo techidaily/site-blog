@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Sony
-date: 2024-04-30T01:37:04.612Z
+date: 2024-05-19T18:32:08.030Z
 tags: 
   - recover
 categories: 
@@ -266,4 +266,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-htc-u23-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your HTC U23 Pro FRP Locks</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

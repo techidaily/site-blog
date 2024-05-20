@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Oppo K11x.
-date: 2024-04-30T01:45:40.916Z
+date: 2024-05-19T18:32:12.255Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -160,4 +160,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo T2 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11</u></a></li>
 </ul></div>
+
 

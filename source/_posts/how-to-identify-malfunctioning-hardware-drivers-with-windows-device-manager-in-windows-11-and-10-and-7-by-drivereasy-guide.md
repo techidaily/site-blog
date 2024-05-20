@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-30T01:46:51.561Z
+date: 2024-05-19T18:32:12.743Z
 tags: 
   - driver
   - device driver
@@ -194,4 +194,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-ultimate-guide-to-animated-characters-drawings/"><u>Updated In 2024, Ultimate Guide to Animated Characters Drawings</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oneplus-nord-n30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on OnePlus Nord N30 5G</u></a></li>
 </ul></div>
+
 

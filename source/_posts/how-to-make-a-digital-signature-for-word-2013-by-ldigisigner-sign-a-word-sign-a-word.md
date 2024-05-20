@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word 2013
-date: 2024-04-30T01:48:34.067Z
-updated: 2024-05-01T01:48:34.067Z
+date: 2024-05-19T18:32:13.535Z
+updated: 2024-05-20T18:32:13.535Z
 tags: 
   - signer
   - signer online
@@ -240,4 +240,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-editing-video.techidaily.com/how-to-get-vhs-filter-and-glitch-filter-to-your-images-or-videos-for-2024/"><u>How to Get VHS Filter and Glitch Filter to Your Images or Videos for 2024</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-wont-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi won’t play MP4 files</u></a></li>
 </ul></div>
+
 

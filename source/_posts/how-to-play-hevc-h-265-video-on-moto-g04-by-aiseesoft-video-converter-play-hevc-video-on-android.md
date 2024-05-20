@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Moto G04?
-date: 2024-04-30T01:35:30.973Z
+date: 2024-05-19T18:32:06.992Z
 tags: 
   - hevc video
   - hevc android
@@ -219,4 +219,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-redmi-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Redmi 12 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c12-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia C12 Pro Phones</u></a></li>
 </ul></div>
+
 

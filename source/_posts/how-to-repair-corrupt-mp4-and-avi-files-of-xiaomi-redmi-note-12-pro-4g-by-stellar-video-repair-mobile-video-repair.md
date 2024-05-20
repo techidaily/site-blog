@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Xiaomi Redmi Note 12 Pro 4G? 
-date: 2024-04-30T01:38:59.448Z
+date: 2024-05-19T18:32:08.882Z
 tags: 
   - repair
 categories: 
@@ -234,4 +234,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-a-video-slideshow-in-imovie/"><u>New 2024 Approved How to Make a Video Slideshow in iMovie</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-15-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 15 Plus and iPad Securely | Dr.fone</u></a></li>
 </ul></div>
+
 

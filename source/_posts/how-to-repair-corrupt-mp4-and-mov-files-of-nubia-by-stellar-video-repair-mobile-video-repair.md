@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Nubia ?
-date: 2024-04-30T01:39:13.827Z
+date: 2024-05-19T18:32:08.969Z
 tags: 
   - repair
 categories: 
@@ -170,4 +170,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-narzo-60-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Narzo 60 5G Phone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-a18-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo A18 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

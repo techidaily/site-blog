@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of A60s with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:36.251Z
-updated: 2024-05-01T01:38:36.251Z
+date: 2024-05-19T18:32:08.698Z
+updated: 2024-05-20T18:32:08.698Z
 tags: 
   - repair
 categories: 
@@ -210,4 +210,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-headshot-generator/"><u>New 2024 Approved What Is an AI Headshot Generator?</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-asus-rog-phone-8-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Asus ROG Phone 8 by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

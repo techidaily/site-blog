@@ -1,6 +1,6 @@
 ---
 title: How to identify missing your drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:21.968Z
+date: 2024-05-19T18:32:12.983Z
 tags: 
   - driver
   - device driver
@@ -260,4 +260,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-vdieo-software.techidaily.com/best-mac-video-editors-for-beginners-and-pros-alike/"><u>Best Mac Video Editors for Beginners and Pros Alike</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia XR21? | Dr.fone</u></a></li>
 </ul></div>
+
 

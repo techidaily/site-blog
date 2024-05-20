@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Samsung ?
-date: 2024-04-30T01:35:31.003Z
+date: 2024-05-19T18:32:07.012Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-lenovo-thinkphone-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Lenovo ThinkPhone Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone X without Password?</u></a></li>
 </ul></div>
+
 

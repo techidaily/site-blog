@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Nokia C12? 
-date: 2024-04-30T01:38:44.783Z
+date: 2024-05-19T18:32:08.759Z
 tags: 
   - repair
 categories: 
@@ -251,4 +251,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 12 Pro</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a34-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A34 5G</u></a></li>
 </ul></div>
+
 

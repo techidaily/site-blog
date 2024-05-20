@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Vivo Y36
-date: 2024-04-30T01:41:26.200Z
+date: 2024-05-19T18:32:09.911Z
 tags: 
   - recover
 categories: 
@@ -264,4 +264,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-x-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone X?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Lock Screen Password?</u></a></li>
 </ul></div>
+
 

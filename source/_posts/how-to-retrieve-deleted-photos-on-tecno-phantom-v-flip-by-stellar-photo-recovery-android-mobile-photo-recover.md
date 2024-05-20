@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Tecno Phantom V Flip
-date: 2024-04-30T01:41:21.199Z
+date: 2024-05-19T18:32:09.887Z
 tags: 
   - recover
 categories: 
@@ -255,4 +255,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-c33-2023-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme C33 2023 Phone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-hot-40-pro-by-drfone-android/"><u>How to Bypass FRP from Infinix Hot 40 Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Lava Yuva 3 Pro
-date: 2024-04-30T01:36:46.900Z
+date: 2024-05-19T18:32:07.916Z
 tags: 
   - recover
 categories: 
@@ -255,4 +255,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-xlsx-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign .xlsx online free - (Tutorial)</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-6s-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 6s?</u></a></li>
 </ul></div>
+
 

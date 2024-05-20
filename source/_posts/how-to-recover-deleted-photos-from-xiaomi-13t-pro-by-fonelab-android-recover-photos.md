@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Xiaomi 13T Pro.
-date: 2024-04-30T01:51:10.383Z
+date: 2024-05-19T18:32:14.836Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -179,4 +179,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nubia-red-magic-9-proplus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nubia Red Magic 9 Pro+ Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-sony-xperia-5-v-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Sony Xperia 5 V Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

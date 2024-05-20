@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XR to the Previous iOS Version? | Dr.fone
-date: 2024-04-30T01:43:06.650Z
-updated: 2024-05-01T01:43:06.650Z
+date: 2024-05-19T18:32:10.811Z
+updated: 2024-05-20T18:32:10.811Z
 tags: 
   - ios system repair
   - iphone repair
@@ -355,4 +355,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-z-fold-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy Z Fold 5 to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-gt-3-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme GT 3</u></a></li>
 </ul></div>
+
 

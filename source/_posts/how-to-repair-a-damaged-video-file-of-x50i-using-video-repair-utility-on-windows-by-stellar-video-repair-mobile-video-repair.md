@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of X50i using Video Repair Utility on Windows?
-date: 2024-04-30T01:38:00.555Z
+date: 2024-05-19T18:32:08.404Z
 tags: 
   - repair
 categories: 
@@ -205,4 +205,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Plus and iPad Securely</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-enhance-your-video-with-pro-audio-editing-in-fcp/"><u>New 2024 Approved Enhance Your Video with Pro Audio Editing in FCP</u></a></li>
 </ul></div>
+
 

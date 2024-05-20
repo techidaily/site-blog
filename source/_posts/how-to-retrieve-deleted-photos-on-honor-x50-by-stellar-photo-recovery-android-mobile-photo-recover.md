@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Honor X50
-date: 2024-04-30T01:41:02.569Z
+date: 2024-05-19T18:32:09.773Z
 tags: 
   - recover
 categories: 
@@ -253,4 +253,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 4G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Magic Vs 2
-date: 2024-04-30T01:35:31.273Z
-updated: 2024-05-01T01:35:31.273Z
+date: 2024-05-19T18:32:07.236Z
+updated: 2024-05-20T18:32:07.236Z
 tags: 
   - recover
 categories: 
@@ -278,4 +278,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-poco-f5-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Poco F5 5G? Here is How | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-honor-magic-6-lite-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic 6 Lite working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

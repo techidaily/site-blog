@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Yuva 3 Pro.
-date: 2024-04-30T01:46:15.577Z
+date: 2024-05-19T18:32:12.444Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-x-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone X</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Tecno Spark 10 Pro.
-date: 2024-04-30T01:45:46.895Z
+date: 2024-05-19T18:32:12.288Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -196,4 +196,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel P40? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Pro Without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Lava using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:09.699Z
+date: 2024-05-19T18:32:08.946Z
 tags: 
   - repair
 categories: 
@@ -206,4 +206,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y36i-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y36i 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-meizu-21-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Meizu 21 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

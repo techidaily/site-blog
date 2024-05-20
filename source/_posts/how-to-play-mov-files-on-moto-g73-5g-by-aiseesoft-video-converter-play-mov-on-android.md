@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Moto G73 5G ?
-date: 2024-04-30T01:35:31.093Z
+date: 2024-05-19T18:32:07.067Z
 tags: 
   - mov video
   - mov android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100i Power 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-motorola-moto-g34-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Motorola Moto G34 5G Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

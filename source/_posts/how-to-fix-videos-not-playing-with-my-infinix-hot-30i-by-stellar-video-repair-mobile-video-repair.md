@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Infinix Hot 30i?
-date: 2024-04-30T01:35:30.759Z
+date: 2024-05-19T18:32:06.792Z
 tags: 
   - repair
 categories: 
@@ -223,4 +223,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y17s-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y17s Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Samsung Galaxy A34 5G.</u></a></li>
 </ul></div>
+
 

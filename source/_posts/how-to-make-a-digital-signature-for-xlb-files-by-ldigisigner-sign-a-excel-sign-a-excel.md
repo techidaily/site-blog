@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xlb files
-date: 2024-04-30T01:48:35.778Z
-updated: 2024-05-01T01:48:35.778Z
+date: 2024-05-19T18:32:13.569Z
+updated: 2024-05-20T18:32:13.570Z
 tags: 
   - signer
   - signer online
@@ -192,4 +192,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a56s-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A56s 5G FRP</u></a></li>
 </ul></div>
+
 

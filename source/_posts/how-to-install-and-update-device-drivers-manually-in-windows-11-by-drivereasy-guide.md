@@ -1,6 +1,6 @@
 ---
 title: How to install and update device drivers manually in Windows 11
-date: 2024-04-30T01:47:56.420Z
+date: 2024-05-19T18:32:13.268Z
 tags: 
   - driver
   - device driver
@@ -164,4 +164,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-v29-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo V29 with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-8-tips-to-apply-cinematic-color-grading-to-your-videos/"><u>New 2024 Approved 8 Tips to Apply Cinematic Color Grading to Your Videos</u></a></li>
 </ul></div>
+
 

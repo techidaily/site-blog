@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Honor 90
-date: 2024-04-30T01:36:41.277Z
+date: 2024-05-19T18:32:07.883Z
 tags: 
   - recover
 categories: 
@@ -286,4 +286,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y200e 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

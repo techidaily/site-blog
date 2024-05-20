@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Nokia C300
-date: 2024-04-30T01:35:31.325Z
+date: 2024-05-19T18:32:07.257Z
 tags: 
   - recover
 categories: 
@@ -251,4 +251,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-narzo-60x-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme Narzo 60x 5G Lock Screen Password</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-camon-20-premier-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Camon 20 Premier 5G Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .wbk file Using DigiSigner
-date: 2024-04-30T01:43:19.414Z
-updated: 2024-05-01T01:43:19.414Z
+date: 2024-05-19T18:32:10.926Z
+updated: 2024-05-20T18:32:10.926Z
 tags: 
   - signer
   - signer online
@@ -203,4 +203,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-aspect-ratio-conversion-software/"><u>In 2024, Top 10 Aspect Ratio Conversion Software</u></a></li>
 </ul></div>
+
 

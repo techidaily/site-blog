@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually on Windows 11 & 10 & 7
-date: 2024-04-30T01:48:03.800Z
+date: 2024-05-19T18:32:13.331Z
 tags: 
   - driver
   - device driver
@@ -176,4 +176,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10C in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-12-proplus-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 12 Pro+ 5G PC | Dr.fone</u></a></li>
 </ul></div>
+
 

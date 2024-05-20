@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xls files
-date: 2024-04-30T01:48:35.967Z
-updated: 2024-05-01T01:48:35.967Z
+date: 2024-05-19T18:32:13.570Z
+updated: 2024-05-20T18:32:13.570Z
 tags: 
   - signer
   - signer online
@@ -221,4 +221,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Meizu 21 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-sony-xperia-10-v-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Sony Xperia 10 V Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Hardware Driver on Windows 11/10
-date: 2024-04-30T01:48:42.948Z
+date: 2024-05-19T18:32:13.622Z
 tags: 
   - driver
   - device driver
@@ -139,4 +139,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Samsung Galaxy F34 5G</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nubia-red-magic-8s-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nubia Red Magic 8S Pro via a USB Cable | Dr.fone</u></a></li>
 </ul></div>
+
 

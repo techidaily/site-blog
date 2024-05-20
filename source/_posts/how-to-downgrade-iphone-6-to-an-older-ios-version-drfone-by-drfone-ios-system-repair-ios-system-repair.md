@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6 to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:42:40.484Z
-updated: 2024-05-01T01:42:40.484Z
+date: 2024-05-19T18:32:10.662Z
+updated: 2024-05-20T18:32:10.662Z
 tags: 
   - ios system repair
   - iphone repair
@@ -433,4 +433,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-8-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 8 without Security Questions?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y17s-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y17s Phone?</u></a></li>
 </ul></div>
+
 

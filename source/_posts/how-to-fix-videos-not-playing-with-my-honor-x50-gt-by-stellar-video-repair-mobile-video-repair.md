@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Honor X50 GT?
-date: 2024-04-30T01:45:16.425Z
+date: 2024-05-19T18:32:12.061Z
 tags: 
   - repair
 categories: 
@@ -210,4 +210,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

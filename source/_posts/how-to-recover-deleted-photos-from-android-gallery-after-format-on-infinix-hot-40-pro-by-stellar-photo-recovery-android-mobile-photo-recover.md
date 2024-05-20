@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Infinix Hot 40 Pro
-date: 2024-04-30T01:35:31.250Z
+date: 2024-05-19T18:32:07.213Z
 tags: 
   - recover
 categories: 
@@ -276,4 +276,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel A05s? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-itel-s23plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Itel S23+ Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

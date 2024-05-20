@@ -1,6 +1,6 @@
 ---
 title: How to Infinix Smart 8 HD Get Deleted photos Back with Ease and Safety?
-date: 2024-04-30T01:47:43.831Z
+date: 2024-05-19T18:32:13.139Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-windows-movie-maker-alternatives-6-best-video-editing-software/"><u>In 2024, Windows Movie Maker Alternatives 6 Best Video Editing Software</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-x-fold-2-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Fold 2 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

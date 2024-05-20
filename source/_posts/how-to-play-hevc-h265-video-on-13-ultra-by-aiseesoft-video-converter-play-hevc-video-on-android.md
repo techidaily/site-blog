@@ -1,7 +1,7 @@
 ---
 title: How to play HEVC H.265 video on 13 Ultra?
-date: 2024-04-30T01:35:31.028Z
-updated: 2024-05-01T01:35:31.028Z
+date: 2024-05-19T18:32:07.036Z
+updated: 2024-05-20T18:32:07.036Z
 tags: 
   - hevc video
   - hevc android
@@ -227,4 +227,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Hot 30 5G.</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-y27-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo Y27 4G Phones</u></a></li>
 </ul></div>
+
 

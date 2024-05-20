@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Vivo X90S? 
-date: 2024-04-30T01:39:23.028Z
+date: 2024-05-19T18:32:09.039Z
 tags: 
   - repair
 categories: 
@@ -210,4 +210,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Google Pixel 7a | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto G14 | Dr.fone</u></a></li>
 </ul></div>
+
 

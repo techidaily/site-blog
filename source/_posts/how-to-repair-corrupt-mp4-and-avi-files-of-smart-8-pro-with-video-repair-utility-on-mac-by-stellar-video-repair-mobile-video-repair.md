@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Smart 8 Pro with Video Repair Utility on Mac?
-date: 2024-04-30T01:38:53.444Z
-updated: 2024-05-01T01:38:53.444Z
+date: 2024-05-19T18:32:08.847Z
+updated: 2024-05-20T18:32:08.847Z
 tags: 
   - repair
 categories: 
@@ -204,4 +204,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-slideshow-in-powerpoint-for-2024/"><u>How to Add Slideshow in PowerPoint for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on C02
-date: 2024-04-30T01:36:37.485Z
+date: 2024-05-19T18:32:07.860Z
 tags: 
   - recover
 categories: 
@@ -274,4 +274,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y78t | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-8-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 8 Plus Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

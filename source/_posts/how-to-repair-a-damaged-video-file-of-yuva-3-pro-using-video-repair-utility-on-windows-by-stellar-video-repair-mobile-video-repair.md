@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Yuva 3 Pro using Video Repair Utility on Windows?
-date: 2024-04-30T01:38:02.676Z
+date: 2024-05-19T18:32:08.417Z
 tags: 
   - repair
 categories: 
@@ -177,4 +177,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo T2 5G? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-nubia-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Nubia</u></a></li>
 </ul></div>
+
 

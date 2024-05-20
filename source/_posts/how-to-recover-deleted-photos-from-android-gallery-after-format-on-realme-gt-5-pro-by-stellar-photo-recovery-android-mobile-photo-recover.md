@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Realme GT 5 Pro
-date: 2024-04-30T01:35:31.381Z
+date: 2024-05-19T18:32:07.311Z
 tags: 
   - recover
 categories: 
@@ -244,4 +244,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-razr-40-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Razr 40 Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p55-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel P55 | Dr.fone</u></a></li>
 </ul></div>
+
 

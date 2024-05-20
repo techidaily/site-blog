@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Motorola Edge+ (2023)?
-date: 2024-04-30T01:35:30.857Z
+date: 2024-05-19T18:32:06.867Z
 tags: 
   - mp4 video
   - mp4 android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-c65-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco C65 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 12 Pro to iPhone Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

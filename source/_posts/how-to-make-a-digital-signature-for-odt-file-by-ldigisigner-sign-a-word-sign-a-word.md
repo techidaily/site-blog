@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .odt file
-date: 2024-04-30T01:48:31.769Z
-updated: 2024-05-01T01:48:31.769Z
+date: 2024-05-19T18:32:13.523Z
+updated: 2024-05-20T18:32:13.523Z
 tags: 
   - signer
   - signer online
@@ -204,4 +204,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-infinix-gt-10-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix GT 10 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-f14-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy F14 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

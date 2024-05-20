@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Samsung Galaxy S23 Ultra?
-date: 2024-04-30T01:35:31.010Z
+date: 2024-05-19T18:32:07.019Z
 tags: 
   - hevc video
   - hevc android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-contacts-from-android-by-fonelab-android-recover-contacts/"><u>Easy steps to recover deleted contacts from Android.</u></a></li>
 </ul></div>
+
 

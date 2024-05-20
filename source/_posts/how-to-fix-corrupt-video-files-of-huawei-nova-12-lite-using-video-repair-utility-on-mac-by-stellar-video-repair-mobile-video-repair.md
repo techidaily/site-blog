@@ -1,6 +1,6 @@
 ---
 title: How to Fix corrupt video files of Huawei Nova 12 Lite using Video Repair Utility on Mac?
-date: 2024-04-30T01:44:10.282Z
+date: 2024-05-19T18:32:11.360Z
 tags: 
   - repair
 categories: 
@@ -206,4 +206,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c51-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C51 Device</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-samsung-galaxy-a05-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Samsung Galaxy A05</u></a></li>
 </ul></div>
+
 

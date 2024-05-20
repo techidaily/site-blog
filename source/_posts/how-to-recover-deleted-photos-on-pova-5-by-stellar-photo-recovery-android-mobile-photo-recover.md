@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Pova 5
-date: 2024-04-30T01:36:58.807Z
-updated: 2024-05-01T01:36:58.807Z
+date: 2024-05-19T18:32:07.993Z
+updated: 2024-05-20T18:32:07.993Z
 tags: 
   - recover
 categories: 
@@ -290,4 +290,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor 90 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-note-30-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Note 30 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

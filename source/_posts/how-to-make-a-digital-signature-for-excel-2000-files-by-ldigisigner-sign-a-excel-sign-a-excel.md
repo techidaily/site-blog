@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2000 files
-date: 2024-04-30T01:48:29.161Z
-updated: 2024-05-01T01:48:29.161Z
+date: 2024-05-19T18:32:13.509Z
+updated: 2024-05-20T18:32:13.509Z
 tags: 
   - signer
   - signer online
@@ -199,4 +199,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y36i | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-f23-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo F23 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

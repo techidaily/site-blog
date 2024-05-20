@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-30T01:47:14.712Z
+date: 2024-05-19T18:32:12.947Z
 tags: 
   - driver
   - device driver
@@ -263,4 +263,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://techidaily.com/how-to-reset-a-realme-v30-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme V30 Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone SE (2020) without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

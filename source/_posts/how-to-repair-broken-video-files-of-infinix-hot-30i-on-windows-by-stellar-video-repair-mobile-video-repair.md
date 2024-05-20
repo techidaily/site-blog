@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Infinix Hot 30i on Windows??
-date: 2024-04-30T01:38:10.273Z
+date: 2024-05-19T18:32:08.471Z
 tags: 
   - repair
 categories: 
@@ -228,4 +228,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-12-miniipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 12 mini/iPad Without Computer | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2007-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2007 Files for Free | Stellar</u></a></li>
 </ul></div>
+
 

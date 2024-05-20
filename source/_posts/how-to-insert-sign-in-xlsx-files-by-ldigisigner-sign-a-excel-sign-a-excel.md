@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .xlsx files
-date: 2024-04-30T01:47:51.840Z
-updated: 2024-05-01T01:47:51.840Z
+date: 2024-05-19T18:32:13.234Z
+updated: 2024-05-20T18:32:13.234Z
 tags: 
   - signer
   - signer online
@@ -237,4 +237,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-little-known-ways-of-adding-emojis-to-photos-on-iphone-and-android-2023/"><u>In 2024, Little Known Ways of Adding Emojis to Photos on iPhone & Android 2023</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-10-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 10 5G Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
+
 

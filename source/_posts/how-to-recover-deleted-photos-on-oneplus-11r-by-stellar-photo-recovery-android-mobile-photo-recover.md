@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on OnePlus 11R
-date: 2024-04-30T01:36:52.973Z
-updated: 2024-05-01T01:36:52.973Z
+date: 2024-05-19T18:32:07.957Z
+updated: 2024-05-20T18:32:07.957Z
 tags: 
   - recover
 categories: 
@@ -290,4 +290,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-pova-5-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Pova 5 to New Phone | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi Redmi A2+</u></a></li>
 </ul></div>
+
 

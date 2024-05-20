@@ -1,7 +1,7 @@
 ---
 title: How to play AVCHD MTS files on Samsung ?
-date: 2024-04-30T01:35:30.933Z
-updated: 2024-05-01T01:35:30.933Z
+date: 2024-05-19T18:32:06.934Z
+updated: 2024-05-20T18:32:06.934Z
 tags: 
   - mts video
   - mts android
@@ -155,4 +155,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 Pro Phone Screen?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-ace-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus Ace 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

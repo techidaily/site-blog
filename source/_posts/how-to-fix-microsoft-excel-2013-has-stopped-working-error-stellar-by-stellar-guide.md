@@ -1,7 +1,7 @@
 ---
 title: How to fix Microsoft Excel 2013 has stopped working error? | Stellar
-date: 2024-04-30T01:44:52.116Z
-updated: 2024-05-01T01:44:52.116Z
+date: 2024-05-19T18:32:11.774Z
+updated: 2024-05-20T18:32:11.774Z
 tags: 
   - repair
   - repair excel
@@ -712,4 +712,5 @@ It is always a good idea to create a backup of important files since no one can 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-amazon-prime-video-troubleshooting-common-aspect-ratio-problems/"><u>2024 Approved Amazon Prime Video Troubleshooting Common Aspect Ratio Problems</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-and-fabulous-top-10-mp4-video-editors/"><u>2024 Approved Free and Fabulous Top 10 MP4 Video Editors</u></a></li>
 </ul></div>
+
 

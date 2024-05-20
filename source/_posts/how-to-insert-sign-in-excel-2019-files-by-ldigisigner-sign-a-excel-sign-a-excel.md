@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in Excel 2019 files
-date: 2024-04-30T01:47:47.413Z
-updated: 2024-05-01T01:47:47.413Z
+date: 2024-05-19T18:32:13.158Z
+updated: 2024-05-20T18:32:13.158Z
 tags: 
   - signer
   - signer online
@@ -196,4 +196,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-splitting-the-clips-in-adobe-after-effects-step-by-step/"><u>2024 Approved Splitting the Clips in Adobe After Effects Step by Step</u></a></li>
 </ul></div>
+
 

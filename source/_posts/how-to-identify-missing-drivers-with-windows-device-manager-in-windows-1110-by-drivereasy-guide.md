@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:47:01.516Z
+date: 2024-05-19T18:32:12.873Z
 tags: 
   - driver
   - device driver
@@ -180,4 +180,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-x-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone X with a Broken Screen?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

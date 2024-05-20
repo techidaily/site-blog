@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:47:11.266Z
+date: 2024-05-19T18:32:12.931Z
 tags: 
   - driver
   - device driver
@@ -215,4 +215,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-note-30-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Note 30 Pro</u></a></li>
 </ul></div>
+
 

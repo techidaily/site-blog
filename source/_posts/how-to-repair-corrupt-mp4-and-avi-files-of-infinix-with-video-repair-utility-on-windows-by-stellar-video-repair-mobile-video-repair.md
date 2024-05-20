@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Infinix with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:41.556Z
-updated: 2024-05-01T01:38:41.556Z
+date: 2024-05-19T18:32:08.746Z
+updated: 2024-05-20T18:32:08.746Z
 tags: 
   - repair
 categories: 
@@ -217,4 +217,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nubia Z50S Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-quality-matters-expert-tips-for-converting-video-to-mp3-without-compromise/"><u>2024 Approved Quality Matters Expert Tips for Converting Video to MP3 without Compromise</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Nubia Red Magic 9 Pro+.
-date: 2024-04-30T01:50:58.905Z
+date: 2024-05-19T18:32:14.790Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -174,4 +174,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X Fold 2 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 40 Pro</u></a></li>
 </ul></div>
+
 

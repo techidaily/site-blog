@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Itel A60s.
-date: 2024-04-30T01:49:53.418Z
+date: 2024-05-19T18:32:14.287Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -190,4 +190,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-loop-video-in-canva-for-2024/"><u>Updated How to Loop Video in Canva for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

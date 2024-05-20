@@ -1,6 +1,6 @@
 ---
 title: How to Fix Videos Not Playing on Xiaomi 14?
-date: 2024-04-30T01:35:30.690Z
+date: 2024-05-19T18:32:06.780Z
 tags: 
   - repair
 categories: 
@@ -234,4 +234,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 with/without SIM Card</u></a></li>
 </ul></div>
+
 

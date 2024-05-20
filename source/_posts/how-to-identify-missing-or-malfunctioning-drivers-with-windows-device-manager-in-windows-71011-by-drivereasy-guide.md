@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 7,10,11
-date: 2024-04-30T01:47:08.755Z
+date: 2024-05-19T18:32:12.920Z
 tags: 
   - driver
   - device driver
@@ -271,4 +271,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-google-pixel-fold-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Google Pixel Fold Location Settings | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-gt-5-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme GT 5 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

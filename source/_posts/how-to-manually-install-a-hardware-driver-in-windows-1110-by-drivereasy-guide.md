@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Hardware Driver in Windows 11/10
-date: 2024-04-30T01:48:41.415Z
+date: 2024-05-19T18:32:13.613Z
 tags: 
   - driver
   - device driver
@@ -256,4 +256,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-editing-video.techidaily.com/new-are-you-looking-for-software-to-convert-word-to-srt-format-here-is-a-complete-guide-about-it/"><u>New Are You Looking for Software to Convert Word to SRT Format? Here Is a Complete Guide About It</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-play-40c-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor Play 40C?</u></a></li>
 </ul></div>
+
 

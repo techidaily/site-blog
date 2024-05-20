@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-30T01:46:49.870Z
+date: 2024-05-19T18:32:12.733Z
 tags: 
   - driver
   - device driver
@@ -204,4 +204,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo G2? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-edge-2023-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Edge 2023 to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

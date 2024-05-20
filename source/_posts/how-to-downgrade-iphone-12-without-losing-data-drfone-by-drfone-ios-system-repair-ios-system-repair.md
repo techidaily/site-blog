@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 12 without Losing Data? | Dr.fone
-date: 2024-04-30T01:42:11.211Z
-updated: 2024-05-01T01:42:11.211Z
+date: 2024-05-19T18:32:10.275Z
+updated: 2024-05-20T18:32:10.275Z
 tags: 
   - ios system repair
   - iphone repair
@@ -377,4 +377,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-nubia-red-magic-8s-proplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nubia Red Magic 8S Pro+ Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

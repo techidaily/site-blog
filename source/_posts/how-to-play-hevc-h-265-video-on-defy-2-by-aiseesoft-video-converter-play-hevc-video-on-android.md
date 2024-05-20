@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Defy 2?
-date: 2024-04-30T01:35:30.954Z
+date: 2024-05-19T18:32:06.955Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-11-pro-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 11 Pro</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from T2 5G.
-date: 2024-04-30T01:51:06.354Z
-updated: 2024-05-01T01:51:06.354Z
+date: 2024-05-19T18:32:14.820Z
+updated: 2024-05-20T18:32:14.820Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-s18-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo S18 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-accurate-timing-made-simple-8-best-timecode-conversion-apps-and-websites/"><u>In 2024, Accurate Timing Made Simple 8 Best Timecode Conversion Apps and Websites</u></a></li>
 </ul></div>
+
 

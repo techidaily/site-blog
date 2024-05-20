@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Vivo Y100 5G
-date: 2024-04-30T01:41:24.889Z
+date: 2024-05-19T18:32:09.906Z
 tags: 
   - recover
 categories: 
@@ -282,4 +282,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-5-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 5 Pro</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6s-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 6s Plus without Apple ID?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xls Using DigiSigner
-date: 2024-04-30T01:43:20.554Z
-updated: 2024-05-01T01:43:20.554Z
+date: 2024-05-19T18:32:10.931Z
+updated: 2024-05-20T18:32:10.931Z
 tags: 
   - signer
   - signer online
@@ -209,4 +209,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-12-proplus-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 12 Pro+ 5G to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c51-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme C51?</u></a></li>
 </ul></div>
+
 

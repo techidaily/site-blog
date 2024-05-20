@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Xiaomi Redmi A2.
-date: 2024-04-30T01:51:11.154Z
+date: 2024-05-19T18:32:14.839Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -179,4 +179,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/bricked-your-itel-a60-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel A60? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Others devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

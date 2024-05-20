@@ -1,7 +1,7 @@
 ---
 title: How To Erase Private Data From iPhone XS | Dr.fone
-date: 2024-04-30T01:43:34.231Z
-updated: 2024-05-01T01:43:34.231Z
+date: 2024-05-19T18:32:11.045Z
+updated: 2024-05-20T18:32:11.045Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -268,4 +268,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-vip-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 VIP Face Lock?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-c12-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia C12</u></a></li>
 </ul></div>
+
 

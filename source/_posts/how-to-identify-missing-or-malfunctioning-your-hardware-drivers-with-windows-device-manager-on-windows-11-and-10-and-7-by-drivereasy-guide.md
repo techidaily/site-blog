@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-30T01:47:18.693Z
+date: 2024-05-19T18:32:12.967Z
 tags: 
   - driver
   - device driver
@@ -251,4 +251,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-effective-10-ways-to-convert-youtube-to-mov-at-ease-pc-and-online/"><u>In 2024, Effective 10 Ways to Convert YouTube to MOV at Ease PC & Online</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

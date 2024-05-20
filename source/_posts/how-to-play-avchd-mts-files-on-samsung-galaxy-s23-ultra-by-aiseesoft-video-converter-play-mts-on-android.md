@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on Samsung Galaxy S23 Ultra?
-date: 2024-04-30T01:35:30.940Z
+date: 2024-05-19T18:32:06.941Z
 tags: 
   - mts video
   - mts android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy A23 5G Phone</u></a></li>
 </ul></div>
+
 

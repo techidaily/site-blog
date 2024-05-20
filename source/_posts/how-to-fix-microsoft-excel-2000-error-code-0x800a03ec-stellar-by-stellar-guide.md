@@ -1,7 +1,7 @@
 ---
 title: How to Fix Microsoft Excel 2000 Error Code 0x800A03EC? | Stellar
-date: 2024-04-30T01:44:48.540Z
-updated: 2024-05-01T01:44:48.540Z
+date: 2024-05-19T18:32:11.722Z
+updated: 2024-05-20T18:32:11.722Z
 tags: 
   - repair
   - repair excel
@@ -941,4 +941,5 @@ This article described the possible causes behind the ‘Excel open but can’t 
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Asus ROG Phone 8? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-a18-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo A18 FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

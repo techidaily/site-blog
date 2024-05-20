@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:47:11.459Z
+date: 2024-05-19T18:32:12.932Z
 tags: 
   - driver
   - device driver
@@ -232,4 +232,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
 </ul></div>
+
 

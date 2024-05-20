@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:46:59.761Z
+date: 2024-05-19T18:32:12.862Z
 tags: 
   - driver
   - device driver
@@ -209,4 +209,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-creating-professional-movie-intros-online/"><u>Updated 2024 Approved The Ultimate Guide to Creating Professional Movie Intros Online</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-x-fold-2-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo X Fold 2 for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

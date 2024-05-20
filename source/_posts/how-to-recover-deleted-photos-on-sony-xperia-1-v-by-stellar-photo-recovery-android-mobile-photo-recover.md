@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Sony Xperia 1 V
-date: 2024-04-30T01:37:04.801Z
+date: 2024-05-19T18:32:08.031Z
 tags: 
   - recover
 categories: 
@@ -274,4 +274,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On HTC U23 Pro? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
+
 

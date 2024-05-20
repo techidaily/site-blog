@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:28.723Z
+date: 2024-05-19T18:32:13.053Z
 tags: 
   - driver
   - device driver
@@ -195,4 +195,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-c12-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia C12 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-c02-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia C02 to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

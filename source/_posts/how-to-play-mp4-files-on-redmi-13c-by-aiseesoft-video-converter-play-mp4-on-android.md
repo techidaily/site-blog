@@ -1,6 +1,6 @@
 ---
 title: How to play MP4 files on Redmi 13C?
-date: 2024-04-30T01:35:31.132Z
+date: 2024-05-19T18:32:07.116Z
 tags: 
   - mp4 video
   - mp4 android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-m54-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy M54 5G Device</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-6-plus-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 6 Plus is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in Excel 2013 files
-date: 2024-04-30T01:47:53.369Z
-updated: 2024-05-01T01:47:53.369Z
+date: 2024-05-19T18:32:13.240Z
+updated: 2024-05-20T18:32:13.240Z
 tags: 
   - signer
   - signer online
@@ -217,4 +217,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 10C | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-nokia-105-classic-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia 105 Classic Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

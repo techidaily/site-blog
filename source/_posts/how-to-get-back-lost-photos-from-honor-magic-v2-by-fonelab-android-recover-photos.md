@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Honor Magic V2.
-date: 2024-04-30T01:45:54.735Z
+date: 2024-05-19T18:32:12.339Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -204,4 +204,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo S18 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-sony-xperia-5-v-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Sony Xperia 5 V?</u></a></li>
 </ul></div>
+
 

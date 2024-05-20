@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Vivo X90S.
-date: 2024-04-30T01:51:08.827Z
+date: 2024-05-19T18:32:14.829Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -173,4 +173,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-reno-8t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Reno 8T to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

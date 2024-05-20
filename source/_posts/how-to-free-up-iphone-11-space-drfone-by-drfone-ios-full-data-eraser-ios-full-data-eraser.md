@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 11 Space | Dr.fone
-date: 2024-04-30T01:45:18.354Z
-updated: 2024-05-01T01:45:18.354Z
+date: 2024-05-19T18:32:12.082Z
+updated: 2024-05-20T18:32:12.082Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -301,4 +301,5 @@ The report will display the details of the connected iDevice, followed by the da
 <li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-10-best-slow-motion-cameras-to-try/"><u>2024 Approved 10 Best Slow-Motion Cameras to Try</u></a></li>
 </ul></div>
+
 

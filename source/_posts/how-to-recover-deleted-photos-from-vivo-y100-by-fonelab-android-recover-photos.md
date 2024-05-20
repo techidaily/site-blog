@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Vivo Y100.
-date: 2024-04-30T01:51:09.209Z
-updated: 2024-05-01T01:51:09.209Z
+date: 2024-05-19T18:32:14.831Z
+updated: 2024-05-20T18:32:14.831Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -214,4 +214,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-google-pixel-8-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Google Pixel 8 Pro</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-lava-storm-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Lava Storm 5G Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

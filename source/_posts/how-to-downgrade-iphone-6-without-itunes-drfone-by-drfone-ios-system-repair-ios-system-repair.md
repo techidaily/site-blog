@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6 without iTunes? | Dr.fone
-date: 2024-04-30T01:42:41.759Z
-updated: 2024-05-01T01:42:41.759Z
+date: 2024-05-19T18:32:10.668Z
+updated: 2024-05-20T18:32:10.668Z
 tags: 
   - ios system repair
   - iphone repair
@@ -488,4 +488,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Plus Without iTunes</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Lava Yuva 3 Pro on Windows??
-date: 2024-04-30T01:38:12.785Z
+date: 2024-05-19T18:32:08.486Z
 tags: 
   - repair
 categories: 
@@ -208,4 +208,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-editing-video.techidaily.com/new-guide-to-slowing-down-videos-in-snapchat-discussing-the-details/"><u>New Guide To Slowing Down Videos in Snapchat Discussing the Details</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco C65 | Dr.fone</u></a></li>
 </ul></div>
+
 

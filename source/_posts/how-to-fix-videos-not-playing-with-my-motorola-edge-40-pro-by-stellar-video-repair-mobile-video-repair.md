@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Motorola Edge 40 Pro?
-date: 2024-04-30T01:45:16.811Z
+date: 2024-05-19T18:32:12.062Z
 tags: 
   - repair
 categories: 
@@ -249,4 +249,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-se-2022-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone SE (2022) with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-6-popular-animated-emoji-video-effects/"><u>Updated 2024 Approved 6 Popular Animated Emoji Video Effects</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted contacts from Xiaomi Redmi Note 12 Pro 5G.
-date: 2024-04-30T01:50:10.460Z
-updated: 2024-05-01T01:50:10.460Z
+date: 2024-05-19T18:32:14.409Z
+updated: 2024-05-20T18:32:14.409Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -196,4 +196,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-x-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone X with a Broken Screen?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 13 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

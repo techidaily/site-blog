@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Huawei
-date: 2024-04-30T01:41:03.323Z
+date: 2024-05-19T18:32:09.778Z
 tags: 
   - recover
 categories: 
@@ -243,4 +243,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-zoom-in-and-out-on-discord/"><u>2024 Approved Zoom In and Out on Discord</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

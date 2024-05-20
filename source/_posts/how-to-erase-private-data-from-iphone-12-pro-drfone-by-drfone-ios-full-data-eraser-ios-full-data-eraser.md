@@ -1,7 +1,7 @@
 ---
 title: How To Erase Private Data From iPhone 12 Pro | Dr.fone
-date: 2024-04-30T01:43:29.119Z
-updated: 2024-05-01T01:43:29.119Z
+date: 2024-05-19T18:32:10.965Z
+updated: 2024-05-20T18:32:10.965Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -295,4 +295,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-f04-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy F04 to iPad | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
+
 

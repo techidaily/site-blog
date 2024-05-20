@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:47:31.939Z
+date: 2024-05-19T18:32:13.072Z
 tags: 
   - driver
   - device driver
@@ -302,4 +302,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G13 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Sony ?
-date: 2024-04-30T01:35:31.011Z
+date: 2024-05-19T18:32:07.020Z
 tags: 
   - hevc video
   - hevc android
@@ -211,4 +211,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-11-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 11 Pro Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-11-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 11 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to play HEVC H.265 video on Samsung ?
-date: 2024-04-30T01:35:31.035Z
-updated: 2024-05-01T01:35:31.035Z
+date: 2024-05-19T18:32:07.045Z
+updated: 2024-05-20T18:32:07.045Z
 tags: 
   - hevc video
   - hevc android
@@ -204,4 +204,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/oppo-find-n3-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Find X6 Pro FRP</u></a></li>
 </ul></div>
+
 

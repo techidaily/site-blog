@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:47:09.905Z
+date: 2024-05-19T18:32:12.925Z
 tags: 
   - driver
   - device driver
@@ -216,4 +216,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-oppo-a38-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo A38 Phone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Without iTunes</u></a></li>
 </ul></div>
+
 

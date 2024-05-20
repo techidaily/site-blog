@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 without iTunes? | Dr.fone
-date: 2024-04-30T01:42:55.653Z
-updated: 2024-05-01T01:42:55.653Z
+date: 2024-05-19T18:32:10.745Z
+updated: 2024-05-20T18:32:10.745Z
 tags: 
   - ios system repair
   - iphone repair
@@ -461,4 +461,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y27s? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-12-proplus-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme 12 Pro+ 5G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

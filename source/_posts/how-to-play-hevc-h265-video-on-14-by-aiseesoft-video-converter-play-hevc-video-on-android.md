@@ -1,7 +1,7 @@
 ---
 title: How to play HEVC H.265 video on 14?
-date: 2024-04-30T01:35:31.028Z
-updated: 2024-05-01T01:35:31.028Z
+date: 2024-05-19T18:32:07.037Z
+updated: 2024-05-20T18:32:07.037Z
 tags: 
   - hevc video
   - hevc android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-13c-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi 13C 5G Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-se-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone SE with 3 Methods</u></a></li>
 </ul></div>
+
 

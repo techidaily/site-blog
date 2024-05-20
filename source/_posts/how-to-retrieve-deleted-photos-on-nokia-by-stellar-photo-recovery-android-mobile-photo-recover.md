@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Nokia
-date: 2024-04-30T01:41:09.106Z
-updated: 2024-05-01T01:41:09.106Z
+date: 2024-05-19T18:32:09.812Z
+updated: 2024-05-20T18:32:09.812Z
 tags: 
   - recover
 categories: 
@@ -283,4 +283,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-n3-flip-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo Find N3 Flip</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a79-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A79 5G</u></a></li>
 </ul></div>
+
 

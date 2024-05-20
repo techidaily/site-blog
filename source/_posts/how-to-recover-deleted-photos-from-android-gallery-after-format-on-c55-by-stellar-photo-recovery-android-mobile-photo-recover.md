@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on C55
-date: 2024-04-30T01:35:31.217Z
+date: 2024-05-19T18:32:07.180Z
 tags: 
   - recover
 categories: 
@@ -252,4 +252,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/fix-the-too-many-different-cell-formats-error-in-excel-2010-stellar-by-stellar-guide/"><u>Fix the Too many different cell formats Error in Excel 2010? | Stellar</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a2-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A2 Phone</u></a></li>
 </ul></div>
+
 

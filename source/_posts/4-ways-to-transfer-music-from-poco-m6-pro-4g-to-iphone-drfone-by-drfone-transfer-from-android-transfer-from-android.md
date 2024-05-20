@@ -468,3 +468,4 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-k11x-drfone-by-drfone-virtual-android/" ><u>Pokémon Go Cooldown Chart On Oppo K11x | Dr.fone</u></a></li>
 </ul></div>
 
+

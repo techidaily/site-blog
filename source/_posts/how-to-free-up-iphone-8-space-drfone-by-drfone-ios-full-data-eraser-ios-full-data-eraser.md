@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 8 Space | Dr.fone
-date: 2024-04-30T01:45:23.058Z
-updated: 2024-05-01T01:45:23.058Z
+date: 2024-05-19T18:32:12.119Z
+updated: 2024-05-20T18:32:12.119Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -319,4 +319,5 @@ The final window will display the completion of the process. You will successful
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-zte-nubia-z60-ultra-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after ZTE Nubia Z60 Ultra has been deleted.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-15-plus-how-to-unlock-a-disabled-iphone-15-plus-drfone-by-drfone-ios/"><u>Disabled iPhone 15 Plus How to Unlock a Disabled iPhone 15 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

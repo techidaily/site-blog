@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11
-date: 2024-04-30T01:46:50.253Z
+date: 2024-05-19T18:32:12.736Z
 tags: 
   - driver
   - device driver
@@ -236,4 +236,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-8-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 8 Location | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-a05-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy A05 Is Unlocked</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on ZTE Axon 40 Lite
-date: 2024-04-30T01:37:12.577Z
-updated: 2024-05-01T01:37:12.577Z
+date: 2024-05-19T18:32:08.068Z
+updated: 2024-05-20T18:32:08.068Z
 tags: 
   - recover
 categories: 
@@ -271,4 +271,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/5-solutions-for-huawei-p60-unlock-without-password-by-drfone-android/"><u>5 Solutions For Huawei P60 Unlock Without Password</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo V29 Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

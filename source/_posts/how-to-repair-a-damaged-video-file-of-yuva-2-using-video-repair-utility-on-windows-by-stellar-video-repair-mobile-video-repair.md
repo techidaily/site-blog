@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Yuva 2 using Video Repair Utility on Windows?
-date: 2024-04-30T01:38:02.487Z
+date: 2024-05-19T18:32:08.415Z
 tags: 
   - repair
 categories: 
@@ -177,4 +177,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-spark-20-proplus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Spark 20 Pro+ Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy F15 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6s to an Older iOS Version? | Dr.fone
-date: 2024-04-30T01:42:45.187Z
-updated: 2024-05-01T01:42:45.187Z
+date: 2024-05-19T18:32:10.686Z
+updated: 2024-05-20T18:32:10.686Z
 tags: 
   - ios system repair
   - iphone repair
@@ -447,4 +447,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco C55 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .fodt file Using DigiSigner
-date: 2024-04-30T01:43:17.519Z
-updated: 2024-05-01T01:43:17.519Z
+date: 2024-05-19T18:32:10.901Z
+updated: 2024-05-20T18:32:10.901Z
 tags: 
   - signer
   - signer online
@@ -229,4 +229,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-6-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 6 without Security Questions?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-motorola-edge-2023-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola Edge 2023</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Lava on Mac?
-date: 2024-04-30T01:38:12.014Z
+date: 2024-05-19T18:32:08.481Z
 tags: 
   - repair
 categories: 
@@ -205,4 +205,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c12-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C12 Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-10-chinese-video-to-english-translators/"><u>Updated In 2024, Best 10 Chinese Video to English Translators</u></a></li>
 </ul></div>
+
 

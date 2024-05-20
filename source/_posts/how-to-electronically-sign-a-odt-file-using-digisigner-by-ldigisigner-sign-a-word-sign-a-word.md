@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .odt file Using DigiSigner
-date: 2024-04-30T01:43:18.088Z
-updated: 2024-05-01T01:43:18.088Z
+date: 2024-05-19T18:32:10.911Z
+updated: 2024-05-20T18:32:10.911Z
 tags: 
   - signer
   - signer online
@@ -206,4 +206,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-play-7t-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor Play 7T</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

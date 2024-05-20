@@ -1,7 +1,7 @@
 ---
 title: How to get back lost contacts from Yuva 2 Pro.
-date: 2024-04-30T01:45:51.460Z
-updated: 2024-05-01T01:45:51.460Z
+date: 2024-05-19T18:32:12.315Z
+updated: 2024-05-20T18:32:12.315Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -171,4 +171,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-blaze-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Blaze 2 Devices</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo Find N3 | Dr.fone</u></a></li>
 </ul></div>
+
 

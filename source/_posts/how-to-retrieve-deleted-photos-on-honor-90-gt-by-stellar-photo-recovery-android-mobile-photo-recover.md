@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Honor 90 GT
-date: 2024-04-30T01:41:01.257Z
-updated: 2024-05-01T01:41:01.257Z
+date: 2024-05-19T18:32:09.763Z
+updated: 2024-05-20T18:32:09.763Z
 tags: 
   - recover
 categories: 
@@ -263,4 +263,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ai-vdieo-software.techidaily.com/best-whatsapp-status-video-editing-apps-free-and-paid-options-for-2024/"><u>Best WhatsApp Status Video Editing Apps Free and Paid Options for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to fix Microsoft Excel 2023 has stopped working error?
-date: 2024-04-30T01:44:55.030Z
+date: 2024-05-19T18:32:11.822Z
 tags: 
   - repair
   - repair excel
@@ -141,4 +141,5 @@ _**Note:** Several users have reported about encountering the ‘_**_Excel has 
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-poco-m6-pro-4g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Poco M6 Pro 4G FRP Bypass Instantly</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi 13 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Y100i
-date: 2024-04-30T01:41:29.479Z
+date: 2024-05-19T18:32:09.926Z
 tags: 
   - recover
 categories: 
@@ -269,4 +269,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo V30 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For HTC U23 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Tecno Spark 20C.
-date: 2024-04-30T01:51:07.304Z
+date: 2024-05-19T18:32:14.823Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -158,4 +158,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Sony Xperia 10 V? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-mini-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 mini Lock Screen with Notifications?</u></a></li>
 </ul></div>
+
 

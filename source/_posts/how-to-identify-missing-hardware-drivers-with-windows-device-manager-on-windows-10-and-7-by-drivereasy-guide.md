@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-30T01:47:05.259Z
+date: 2024-05-19T18:32:12.895Z
 tags: 
   - driver
   - device driver
@@ -221,4 +221,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-10-top-free-gif-background-remover-for-pc-and-online-for-2024/"><u>New 10 Top Free GIF Background Remover for PC and Online for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Vivo with Video Repair Utility on Windows?
-date: 2024-04-30T01:38:57.053Z
-updated: 2024-05-01T01:38:57.053Z
+date: 2024-05-19T18:32:08.869Z
+updated: 2024-05-20T18:32:08.869Z
 tags: 
   - repair
 categories: 
@@ -209,4 +209,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-gt-neo-5-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme GT Neo 5 Phone Screen?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

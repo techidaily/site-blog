@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Motorola Moto G84 5G?
-date: 2024-04-30T01:37:46.324Z
+date: 2024-05-19T18:32:08.308Z
 tags: 
   - repair
 categories: 
@@ -245,4 +245,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-a-light-sweep-shine-effect-with-filmora/"><u>Updated How to Create a Light Sweep (Shine) Effect with Filmora</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus?</u></a></li>
 </ul></div>
+
 

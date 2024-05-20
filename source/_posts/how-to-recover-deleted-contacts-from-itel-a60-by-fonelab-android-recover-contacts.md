@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Itel A60.
-date: 2024-04-30T01:49:53.227Z
+date: 2024-05-19T18:32:14.287Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -166,4 +166,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 6s With Forgotten Passcode Different Methods You Can Try</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-zte-unlock-without-password-by-drfone-android/"><u>5 Solutions For ZTE Unlock Without Password</u></a></li>
 </ul></div>
+
 

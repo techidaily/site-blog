@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on 11 Pro+
-date: 2024-04-30T01:36:35.366Z
+date: 2024-05-19T18:32:07.846Z
 tags: 
   - recover
 categories: 
@@ -277,4 +277,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Huawei Nova Y91 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-complete-guide-to-change-video-resolution-in-filmora-for-2024/"><u>Updated Complete Guide to Change Video Resolution in Filmora for 2024</u></a></li>
 </ul></div>
+
 

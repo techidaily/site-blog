@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Redmi 12
-date: 2024-04-30T01:41:17.759Z
+date: 2024-05-19T18:32:09.870Z
 tags: 
   - recover
 categories: 
@@ -298,4 +298,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/why-is-my-infinix-gt-10-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix GT 10 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

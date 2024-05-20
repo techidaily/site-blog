@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated your hardware drivers with Windows Device Manager on Windows 10
-date: 2024-04-30T01:47:37.701Z
+date: 2024-05-19T18:32:13.106Z
 tags: 
   - driver
   - device driver
@@ -140,4 +140,5 @@ There are two reasons why…
 <li><a href="https://howto.techidaily.com/why-does-my-asus-rog-phone-8-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Asus ROG Phone 8 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-hot-30i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Hot 30i?</u></a></li>
 </ul></div>
+
 

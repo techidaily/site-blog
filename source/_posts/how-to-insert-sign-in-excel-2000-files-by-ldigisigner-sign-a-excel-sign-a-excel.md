@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in Excel 2000 files
-date: 2024-04-30T01:47:46.224Z
-updated: 2024-05-01T01:47:46.224Z
+date: 2024-05-19T18:32:13.151Z
+updated: 2024-05-20T18:32:13.151Z
 tags: 
   - signer
   - signer online
@@ -238,4 +238,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-11r-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus 11R</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-htc-u23-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror HTC U23 to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

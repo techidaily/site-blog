@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Nubia Red Magic 8S Pro+.
-date: 2024-04-30T01:49:57.240Z
+date: 2024-05-19T18:32:14.303Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -173,4 +173,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-f15-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy F15 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-change-video-thumbnail-in-google-drive/"><u>How to Change Video Thumbnail in Google Drive</u></a></li>
 </ul></div>
+
 

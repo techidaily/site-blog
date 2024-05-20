@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:47:16.072Z
+date: 2024-05-19T18:32:12.954Z
 tags: 
   - driver
   - device driver
@@ -228,4 +228,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://bypass-frp.techidaily.com/google-pixel-8-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Google Pixel 8 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

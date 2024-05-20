@@ -1,6 +1,6 @@
 ---
 title: How to play AVCHD MTS files on Moto G14?
-date: 2024-04-30T01:35:30.920Z
+date: 2024-05-19T18:32:06.922Z
 tags: 
   - mts video
   - mts android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-nord-ce-3-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Nord CE 3 5G for Free? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

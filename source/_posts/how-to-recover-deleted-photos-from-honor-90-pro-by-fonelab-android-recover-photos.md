@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Honor 90 Pro.
-date: 2024-04-30T01:50:47.673Z
+date: 2024-05-19T18:32:14.727Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/updated-gif-speed-modifiers-top-picks-for-web-iphone-and-android-for-2024/"><u>Updated GIF Speed Modifiers Top Picks for Web, iPhone, and Android for 2024</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-magic-6-lite-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Magic 6 Lite</u></a></li>
 </ul></div>
+
 

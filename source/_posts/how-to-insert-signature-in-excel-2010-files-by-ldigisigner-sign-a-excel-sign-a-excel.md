@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in Excel 2010 files
-date: 2024-04-30T01:47:53.179Z
-updated: 2024-05-01T01:47:53.179Z
+date: 2024-05-19T18:32:13.240Z
+updated: 2024-05-20T18:32:13.240Z
 tags: 
   - signer
   - signer online
@@ -205,4 +205,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-sony-xperia-1-v-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Sony Xperia 1 V? Fixed | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

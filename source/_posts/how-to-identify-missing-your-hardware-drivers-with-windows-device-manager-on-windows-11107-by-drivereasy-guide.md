@@ -1,6 +1,6 @@
 ---
 title: How to identify missing your hardware drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-30T01:47:25.612Z
+date: 2024-05-19T18:32:13.036Z
 tags: 
   - driver
   - device driver
@@ -285,4 +285,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-galaxy-m54-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Galaxy M54 5G, is it possible?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-find-n3-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo Find N3 to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

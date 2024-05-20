@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:47:17.347Z
+date: 2024-05-19T18:32:12.959Z
 tags: 
   - driver
   - device driver
@@ -259,4 +259,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor 90 GT | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-htc-u23-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from HTC U23 To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

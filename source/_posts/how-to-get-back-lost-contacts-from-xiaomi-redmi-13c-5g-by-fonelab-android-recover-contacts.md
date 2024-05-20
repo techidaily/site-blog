@@ -1,6 +1,6 @@
 ---
 title: How to get back lost contacts from Xiaomi Redmi 13C 5G.
-date: 2024-04-30T01:45:50.121Z
+date: 2024-05-19T18:32:12.307Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-6-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 6 to your Windows PC | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-oppo-reno-9a-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Oppo Reno 9A</u></a></li>
 </ul></div>
+
 

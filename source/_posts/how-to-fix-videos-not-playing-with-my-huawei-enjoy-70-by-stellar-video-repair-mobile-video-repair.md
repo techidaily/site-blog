@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Huawei Enjoy 70?
-date: 2024-04-30T01:45:16.619Z
+date: 2024-05-19T18:32:12.062Z
 tags: 
   - repair
 categories: 
@@ -231,4 +231,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://howto.techidaily.com/what-to-do-when-infinix-hot-30i-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Hot 30i Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-gt-neo-5-se-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme GT Neo 5 SE</u></a></li>
 </ul></div>
+
 

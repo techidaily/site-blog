@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2022) to the Previous iOS Version? | Dr.fone
-date: 2024-04-30T01:42:59.688Z
-updated: 2024-05-01T01:42:59.688Z
+date: 2024-05-19T18:32:10.767Z
+updated: 2024-05-20T18:32:10.767Z
 tags: 
   - ios system repair
   - iphone repair
@@ -471,4 +471,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-top-15-male-anime-characters-by-voting/"><u>In 2024, Top 15 Male Anime Characters By Voting</u></a></li>
 </ul></div>
+
 

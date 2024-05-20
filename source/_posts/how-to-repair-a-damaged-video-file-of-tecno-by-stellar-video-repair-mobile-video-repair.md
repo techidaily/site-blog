@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Damaged video file of Tecno ?
-date: 2024-04-30T01:37:56.588Z
-updated: 2024-05-01T01:37:56.588Z
+date: 2024-05-19T18:32:08.380Z
+updated: 2024-05-20T18:32:08.380Z
 tags: 
   - repair
 categories: 
@@ -195,4 +195,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-se-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone SE without Security Questions?</u></a></li>
 </ul></div>
+
 

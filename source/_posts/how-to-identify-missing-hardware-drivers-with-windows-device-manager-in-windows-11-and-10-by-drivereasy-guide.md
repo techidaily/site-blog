@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:47:04.312Z
+date: 2024-05-19T18:32:12.889Z
 tags: 
   - driver
   - device driver
@@ -212,4 +212,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme 10T 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/online-video-editing-made-easy-a-practical-guide-for-beginners-and-pros/"><u>Online Video Editing Made Easy A Practical Guide for Beginners and Pros</u></a></li>
 </ul></div>
+
 

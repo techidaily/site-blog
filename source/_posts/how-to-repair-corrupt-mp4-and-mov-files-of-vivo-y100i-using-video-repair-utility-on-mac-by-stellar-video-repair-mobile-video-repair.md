@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Vivo Y100i using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:23.787Z
+date: 2024-05-19T18:32:09.043Z
 tags: 
   - repair
 categories: 
@@ -213,4 +213,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-xs-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone XS Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-auto-translate-youtube-videos-into-different-languages/"><u>New In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XS without Data Loss? | Dr.fone
-date: 2024-04-30T01:43:11.624Z
-updated: 2024-05-01T01:43:11.624Z
+date: 2024-05-19T18:32:10.837Z
+updated: 2024-05-20T18:32:10.837Z
 tags: 
   - ios system repair
   - iphone repair
@@ -400,4 +400,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-m14-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11,10
-date: 2024-04-30T01:47:07.989Z
+date: 2024-05-19T18:32:12.912Z
 tags: 
   - driver
   - device driver
@@ -249,4 +249,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-list-of-web-based-audio-visualization-software/"><u>2024 Approved The Ultimate List of Web-Based Audio Visualization Software</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-60x-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo 60x 5G in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

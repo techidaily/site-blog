@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .doc file Using DigiSigner
-date: 2024-04-30T01:43:14.087Z
-updated: 2024-05-01T01:43:14.087Z
+date: 2024-05-19T18:32:10.867Z
+updated: 2024-05-20T18:32:10.867Z
 tags: 
   - signer
   - signer online
@@ -233,4 +233,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-editing.techidaily.com/updated-before-and-after-editing-trick-wondershare-filmora-tutorial/"><u>Updated Before & After Editing Trick | Wondershare Filmora Tutorial</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-gt-neo-5-se-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme GT Neo 5 SE? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

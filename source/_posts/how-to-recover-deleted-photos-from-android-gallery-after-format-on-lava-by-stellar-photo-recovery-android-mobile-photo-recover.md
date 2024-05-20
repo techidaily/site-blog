@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Lava
-date: 2024-04-30T01:35:31.269Z
-updated: 2024-05-01T01:35:31.269Z
+date: 2024-05-19T18:32:07.232Z
+updated: 2024-05-20T18:32:07.232Z
 tags: 
   - recover
 categories: 
@@ -304,4 +304,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-a70-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel A70? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+
 

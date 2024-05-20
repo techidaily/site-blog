@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Xiaomi 13T
-date: 2024-04-30T01:36:30.803Z
+date: 2024-05-19T18:32:07.817Z
 tags: 
   - recover
 categories: 
@@ -269,4 +269,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-11-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 11 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-g310-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia G310 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

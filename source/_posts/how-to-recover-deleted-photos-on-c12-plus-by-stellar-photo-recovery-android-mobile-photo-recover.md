@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on C12 Plus
-date: 2024-04-30T01:36:37.861Z
+date: 2024-05-19T18:32:07.862Z
 tags: 
   - recover
 categories: 
@@ -242,4 +242,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-moto-g-stylus-5g-2023-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Moto G Stylus 5G (2023) Phones</u></a></li>
 </ul></div>
+
 

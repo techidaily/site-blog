@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Nokia C12 Plus
-date: 2024-04-30T01:41:09.502Z
+date: 2024-05-19T18:32:09.814Z
 tags: 
   - recover
 categories: 
@@ -269,4 +269,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-11f-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 11F 5G FRP Without Computer</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nubia-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nubia</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .csv files
-date: 2024-04-30T01:47:52.414Z
-updated: 2024-05-01T01:47:52.414Z
+date: 2024-05-19T18:32:13.236Z
+updated: 2024-05-20T18:32:13.237Z
 tags: 
   - signer
   - signer online
@@ -223,4 +223,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Sony Xperia 10 V | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-lenovo-thinkphone-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Lenovo ThinkPhone online without jailbreak</u></a></li>
 </ul></div>
+
 

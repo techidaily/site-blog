@@ -1,6 +1,6 @@
 ---
 title: How to Lava Yuva 2 Get Deleted photos Back with Ease and Safety?
-date: 2024-04-30T01:48:25.875Z
+date: 2024-05-19T18:32:13.492Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -208,4 +208,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-reno-8t-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo Reno 8T Is Unlocked</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-13-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 13 mini When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

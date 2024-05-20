@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Lava Blaze Pro 5G.
-date: 2024-04-30T01:45:59.031Z
+date: 2024-05-19T18:32:12.363Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -196,4 +196,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-13c-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi 13C to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-resize-video-in-davinci-resolve-for-2024/"><u>New Step by Step to Resize Video in Davinci Resolve for 2024</u></a></li>
 </ul></div>
+
 

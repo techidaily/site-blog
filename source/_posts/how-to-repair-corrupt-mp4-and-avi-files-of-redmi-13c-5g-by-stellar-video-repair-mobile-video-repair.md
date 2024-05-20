@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Redmi 13C 5G?
-date: 2024-04-30T01:38:51.336Z
+date: 2024-05-19T18:32:08.826Z
 tags: 
   - repair
 categories: 
@@ -194,4 +194,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-pro-max-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Pro Max to iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Honor ?
-date: 2024-04-30T01:38:39.283Z
-updated: 2024-05-01T01:38:39.283Z
+date: 2024-05-19T18:32:08.716Z
+updated: 2024-05-20T18:32:08.716Z
 tags: 
   - repair
 categories: 
@@ -207,4 +207,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-editing.techidaily.com/updated-heres-all-about-gif-keyboard-youll-ever-want-to-know/"><u>Updated Heres All About GIF Keyboard Youll Ever Want to Know</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

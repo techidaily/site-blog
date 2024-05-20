@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 6 Space | Dr.fone
-date: 2024-04-30T01:45:21.921Z
-updated: 2024-05-01T01:45:21.921Z
+date: 2024-05-19T18:32:12.115Z
+updated: 2024-05-20T18:32:12.115Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -311,4 +311,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15 Plus?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-blaze-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Blaze Pro 5G Devices</u></a></li>
 </ul></div>
+
 

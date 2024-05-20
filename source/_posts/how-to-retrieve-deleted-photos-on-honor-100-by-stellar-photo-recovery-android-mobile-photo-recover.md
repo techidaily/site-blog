@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Honor 100
-date: 2024-04-30T01:41:01.069Z
-updated: 2024-05-01T01:41:01.069Z
+date: 2024-05-19T18:32:09.762Z
+updated: 2024-05-20T18:32:09.762Z
 tags: 
   - recover
 categories: 
@@ -283,4 +283,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-11-pro-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 11 Pro activation lock</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-y56-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Y56 5G</u></a></li>
 </ul></div>
+
 

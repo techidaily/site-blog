@@ -397,3 +397,4 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-magic-vs-2-by-stellar-photo-recovery-android-mobile-photo-recover/" ><u>How to Retrieve deleted photos on Magic Vs 2</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xltx files
-date: 2024-04-30T01:48:36.944Z
-updated: 2024-05-01T01:48:36.944Z
+date: 2024-05-19T18:32:13.574Z
+updated: 2024-05-20T18:32:13.574Z
 tags: 
   - signer
   - signer online
@@ -191,4 +191,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus Without Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-transforming-a-slow-motion-video-to-normal-mastering-the-skill/"><u>Updated Transforming a Slow-Motion Video to Normal Mastering the Skill</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Axon 40 Lite?
-date: 2024-04-30T01:39:02.867Z
-updated: 2024-05-01T01:39:02.867Z
+date: 2024-05-19T18:32:08.902Z
+updated: 2024-05-20T18:32:08.902Z
 tags: 
   - repair
 categories: 
@@ -189,4 +189,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-voice-clone.techidaily.com/updated-top-8-ai-titles-generators-for-creating-catchy-titles-for-all-platforms/"><u>Updated Top 8 AI Titles Generators for Creating Catchy Titles For All Platforms</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-have-you-been-looking-for-online-youtube-video-trimmer-you-will-be-introduced-to-different-ways-to-trim-youtube-videos-as-introduced-by-yout/"><u>Updated In 2024, Have You Been Looking for Online YouTube Video Trimmer? You Will Be Introduced to Different Ways to Trim YouTube Videos as Introduced by YouTube Itself and some Online and Desktop Software to Help You Learn Video Trimming in This Article</u></a></li>
 </ul></div>
+
 

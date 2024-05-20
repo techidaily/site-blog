@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Sony using Video Repair Utility on Mac?
-date: 2024-04-30T01:39:20.175Z
+date: 2024-05-19T18:32:09.006Z
 tags: 
   - repair
 categories: 
@@ -186,4 +186,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 15 Pro Max</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-huawei-p60-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Huawei P60 Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-30T01:46:56.890Z
+date: 2024-05-19T18:32:12.844Z
 tags: 
   - driver
   - device driver
@@ -267,4 +267,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-x100-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo X100 Pro Screen | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-s-top-rated-free-wmv-video-concatenation-software/"><u>New S Top-Rated Free WMV Video Concatenation Software</u></a></li>
 </ul></div>
+
 

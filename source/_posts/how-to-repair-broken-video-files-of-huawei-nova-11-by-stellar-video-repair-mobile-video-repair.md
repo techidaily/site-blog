@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Huawei Nova 11?
-date: 2024-04-30T01:38:09.045Z
+date: 2024-05-19T18:32:08.464Z
 tags: 
   - repair
 categories: 
@@ -210,4 +210,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-s18-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo S18 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y100-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y100 5G? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

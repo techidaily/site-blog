@@ -1,7 +1,7 @@
 ---
 title: How to Repair Broken video files of Hot 30i on Mac?
-date: 2024-04-30T01:38:08.478Z
-updated: 2024-05-01T01:38:08.478Z
+date: 2024-05-19T18:32:08.461Z
+updated: 2024-05-20T18:32:08.461Z
 tags: 
   - repair
 categories: 
@@ -170,4 +170,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 

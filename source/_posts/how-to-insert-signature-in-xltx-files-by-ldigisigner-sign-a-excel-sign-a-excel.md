@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xltx files
-date: 2024-04-30T01:47:55.465Z
-updated: 2024-05-01T01:47:55.465Z
+date: 2024-05-19T18:32:13.262Z
+updated: 2024-05-20T18:32:13.262Z
 tags: 
   - signer
   - signer online
@@ -193,4 +193,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-vdieo-software.techidaily.com/join-avi-files-for-free-top-10-reliable-avi-joiner-software/"><u>Join AVI Files for Free Top 10 Reliable AVI Joiner Software</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-nokia-g310-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nokia G310? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

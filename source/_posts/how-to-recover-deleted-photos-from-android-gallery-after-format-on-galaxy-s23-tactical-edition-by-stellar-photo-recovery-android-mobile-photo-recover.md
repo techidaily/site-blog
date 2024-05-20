@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Galaxy S23 Tactical Edition
-date: 2024-04-30T01:35:31.228Z
+date: 2024-05-19T18:32:07.190Z
 tags: 
   - recover
 categories: 
@@ -278,4 +278,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-x50iplus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor X50i+ to iPod | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

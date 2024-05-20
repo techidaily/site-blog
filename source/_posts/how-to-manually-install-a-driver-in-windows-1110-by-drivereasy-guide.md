@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver in Windows 11/10
-date: 2024-04-30T01:48:38.362Z
+date: 2024-05-19T18:32:13.581Z
 tags: 
   - driver
   - device driver
@@ -246,4 +246,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-gt-neo-5-se-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme GT Neo 5 SE? Here is How | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

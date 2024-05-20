@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Honor Play 8T.
-date: 2024-04-30T01:49:49.987Z
+date: 2024-05-19T18:32:14.274Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -140,4 +140,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Others ios devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

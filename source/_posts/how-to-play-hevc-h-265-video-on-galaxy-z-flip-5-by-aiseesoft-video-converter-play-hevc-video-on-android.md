@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Galaxy Z Flip 5?
-date: 2024-04-30T01:35:30.966Z
+date: 2024-05-19T18:32:06.984Z
 tags: 
   - hevc video
   - hevc android
@@ -211,4 +211,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

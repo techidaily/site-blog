@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 12 mini without iTunes? | Dr.fone
-date: 2024-04-30T01:42:03.187Z
-updated: 2024-05-01T01:42:03.187Z
+date: 2024-05-19T18:32:10.190Z
+updated: 2024-05-20T18:32:10.190Z
 tags: 
   - ios system repair
   - iphone repair
@@ -518,4 +518,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-13t-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi 13T 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
 </ul></div>
+
 

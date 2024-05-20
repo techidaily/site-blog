@@ -1,6 +1,6 @@
 ---
 title: How to play MOV files on Redmi A2+ ?
-date: 2024-04-30T01:35:31.098Z
+date: 2024-05-19T18:32:07.072Z
 tags: 
   - mov video
   - mov android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-find-n3-flip-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Find N3 Flip to iPad | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-11-proplus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme 11 Pro+ Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

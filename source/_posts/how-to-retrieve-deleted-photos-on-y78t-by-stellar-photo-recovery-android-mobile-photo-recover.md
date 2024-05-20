@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Y78t
-date: 2024-04-30T01:41:29.873Z
+date: 2024-05-19T18:32:09.928Z
 tags: 
   - recover
 categories: 
@@ -303,4 +303,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 15 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-30T01:46:49.486Z
+date: 2024-05-19T18:32:12.731Z
 tags: 
   - driver
   - device driver
@@ -290,4 +290,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi 13C Phone</u></a></li>
 <li><a href="https://techidaily.com/best-fixes-for-honor-x9b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor X9b Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

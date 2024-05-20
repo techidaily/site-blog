@@ -1,7 +1,7 @@
 ---
 title: How to get back lost contacts from Lava Yuva 3.
-date: 2024-04-30T01:45:35.948Z
-updated: 2024-05-01T01:45:35.948Z
+date: 2024-05-19T18:32:12.191Z
+updated: 2024-05-20T18:32:12.191Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -204,4 +204,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oneplus-12r-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from OnePlus 12R to New Phone | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

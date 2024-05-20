@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-30T01:46:55.216Z
+date: 2024-05-19T18:32:12.792Z
 tags: 
   - driver
   - device driver
@@ -277,4 +277,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://animation-videos.techidaily.com/new-easy-cartoon-characters-drawing-tutorials-for-you-beginners/"><u>New Easy Cartoon Characters Drawing Tutorials for You Beginners</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-everything-about-adding-effects-in-kinemaster/"><u>Updated In 2024, Everything About Adding Effects In Kinemaster</u></a></li>
 </ul></div>
+
 

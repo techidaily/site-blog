@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Xiaomi 13T
-date: 2024-04-30T01:35:31.433Z
+date: 2024-05-19T18:32:07.381Z
 tags: 
   - recover
 categories: 
@@ -259,4 +259,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

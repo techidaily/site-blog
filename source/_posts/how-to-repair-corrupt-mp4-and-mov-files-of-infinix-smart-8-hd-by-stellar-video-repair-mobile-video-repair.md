@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and MOV files of Infinix Smart 8 HD? 
-date: 2024-04-30T01:39:08.187Z
+date: 2024-05-19T18:32:08.936Z
 tags: 
   - repair
 categories: 
@@ -219,4 +219,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-reno-11-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Reno 11 5G Phone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-gt-3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme GT 3 Device</u></a></li>
 </ul></div>
+
 

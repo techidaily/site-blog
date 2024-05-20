@@ -1,7 +1,7 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Redmi Note 12R
-date: 2024-04-30T01:35:46.399Z
-updated: 2024-05-01T01:35:46.399Z
+date: 2024-05-19T18:32:07.527Z
+updated: 2024-05-20T18:32:07.527Z
 tags: 
   - recover
 categories: 
@@ -244,4 +244,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel P40+ Phone with Broken Screen</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-find-n3-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Find N3</u></a></li>
 </ul></div>
+
 

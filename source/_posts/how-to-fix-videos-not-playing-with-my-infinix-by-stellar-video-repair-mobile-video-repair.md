@@ -1,7 +1,7 @@
 ---
 title: How to fix videos not playing with my Infinix ?
-date: 2024-04-30T01:35:30.758Z
-updated: 2024-05-01T01:35:30.758Z
+date: 2024-05-19T18:32:06.791Z
+updated: 2024-05-20T18:32:06.791Z
 tags: 
   - repair
 categories: 
@@ -196,4 +196,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-edge-40-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola Edge 40 Pro</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo Reno 11F 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

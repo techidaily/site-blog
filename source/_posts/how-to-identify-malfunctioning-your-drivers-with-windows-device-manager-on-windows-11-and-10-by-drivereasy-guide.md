@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-30T01:46:56.503Z
+date: 2024-05-19T18:32:12.841Z
 tags: 
   - driver
   - device driver
@@ -242,4 +242,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-11-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on 11 Pro</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-techniques-on-making-after-effects-2d-animation/"><u>Updated 2024 Approved Techniques on Making After Effects 2D Animation</u></a></li>
 </ul></div>
+
 

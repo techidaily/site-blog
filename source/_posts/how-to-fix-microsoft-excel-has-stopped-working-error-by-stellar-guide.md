@@ -1,6 +1,6 @@
 ---
 title: How to fix Microsoft Excel has stopped working error?
-date: 2024-04-30T01:44:55.793Z
+date: 2024-05-19T18:32:11.829Z
 tags: 
   - repair
   - repair excel
@@ -83,4 +83,5 @@ _**Note:** Several users have reported about encountering the ‘_**_Excel has 
 <li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-se-2022-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone SE (2022) Screen on PC Easily? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Online? Here are 6 Easy Ways</u></a></li>
 </ul></div>
+
 

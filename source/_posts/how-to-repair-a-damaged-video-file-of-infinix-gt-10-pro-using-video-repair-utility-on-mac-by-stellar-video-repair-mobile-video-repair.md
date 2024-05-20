@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Infinix GT 10 Pro using Video Repair Utility on Mac?
-date: 2024-04-30T01:37:42.396Z
+date: 2024-05-19T18:32:08.286Z
 tags: 
   - repair
 categories: 
@@ -174,4 +174,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-template-wondershare-virbo-online-for-2024/"><u>Updated Create AI Avatar Video with Template | Wondershare Virbo Online for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Motorola Edge 40 Neo
-date: 2024-04-30T01:35:31.299Z
+date: 2024-05-19T18:32:07.242Z
 tags: 
   - recover
 categories: 
@@ -252,4 +252,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

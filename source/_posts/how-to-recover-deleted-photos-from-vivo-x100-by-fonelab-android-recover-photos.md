@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Vivo X100.
-date: 2024-04-30T01:51:08.638Z
+date: 2024-05-19T18:32:14.828Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -199,4 +199,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-xr21-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia XR21 Quickly? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/device-unlock-14-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock  14 Pro</u></a></li>
 </ul></div>
+
 

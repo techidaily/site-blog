@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Tecno Spark 10C.
-date: 2024-04-30T01:51:07.114Z
+date: 2024-05-19T18:32:14.822Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -158,4 +158,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-canva-color-match/"><u>New In 2024, How to Use Canva Color Match</u></a></li>
 <li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo V29 | Dr.fone</u></a></li>
 </ul></div>
+
 

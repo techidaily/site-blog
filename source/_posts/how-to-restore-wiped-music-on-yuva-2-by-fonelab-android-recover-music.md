@@ -1,6 +1,6 @@
 ---
 title: How to restore wiped music on Yuva 2
-date: 2024-04-30T01:40:55.298Z
+date: 2024-05-19T18:32:09.704Z
 tags: 
   - android data recovery
   - android devices music recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor 90 GT | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-zero-30-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

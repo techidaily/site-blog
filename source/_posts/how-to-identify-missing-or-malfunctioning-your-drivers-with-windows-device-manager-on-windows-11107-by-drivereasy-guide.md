@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-30T01:47:16.270Z
+date: 2024-05-19T18:32:12.955Z
 tags: 
   - driver
   - device driver
@@ -274,4 +274,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-translation.techidaily.com/new-translate-live-video-making-it-possible-with-the-best-tool-for-2024/"><u>New Translate Live Video Making It Possible With The Best Tool for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 12 Pro without Password?</u></a></li>
 </ul></div>
+
 

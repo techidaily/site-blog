@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Xiaomi
-date: 2024-04-30T01:41:27.357Z
-updated: 2024-05-01T01:41:27.357Z
+date: 2024-05-19T18:32:09.917Z
+updated: 2024-05-20T18:32:09.917Z
 tags: 
   - recover
 categories: 
@@ -254,4 +254,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-11-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 11 Pro Properly</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE</u></a></li>
 </ul></div>
+
 

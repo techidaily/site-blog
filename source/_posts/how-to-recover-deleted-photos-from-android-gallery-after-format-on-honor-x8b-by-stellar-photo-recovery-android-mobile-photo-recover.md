@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Honor X8b
-date: 2024-04-30T01:35:31.245Z
+date: 2024-05-19T18:32:07.207Z
 tags: 
   - recover
 categories: 
@@ -254,4 +254,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-gt-5-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme GT 5 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-by-drfone-android/"><u>How to Bypass FRP from Oppo?</u></a></li>
 </ul></div>
+
 

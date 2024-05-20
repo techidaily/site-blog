@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 13 mini to an Older iOS System Version? | Dr.fone
-date: 2024-04-30T01:42:11.403Z
-updated: 2024-05-01T01:42:11.403Z
+date: 2024-05-19T18:32:10.276Z
+updated: 2024-05-20T18:32:10.276Z
 tags: 
   - ios system repair
   - iphone repair
@@ -408,4 +408,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://ai-video-editing.techidaily.com/updated-15-best-luts-to-buy-for-2024/"><u>Updated 15 Best LUTS to Buy for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v27e-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V27e</u></a></li>
 </ul></div>
+
 

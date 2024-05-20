@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Vivo Y02T
-date: 2024-04-30T01:41:24.613Z
+date: 2024-05-19T18:32:09.905Z
 tags: 
   - recover
 categories: 
@@ -240,4 +240,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme V30T | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
 </ul></div>
+
 

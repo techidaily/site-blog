@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Honor Play 8T.
-date: 2024-04-30T01:50:49.214Z
+date: 2024-05-19T18:32:14.736Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -209,4 +209,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

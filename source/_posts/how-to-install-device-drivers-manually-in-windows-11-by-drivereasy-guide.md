@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually in Windows 11
-date: 2024-04-30T01:48:02.651Z
+date: 2024-05-19T18:32:13.316Z
 tags: 
   - driver
   - device driver
@@ -147,4 +147,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y02t-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y02T? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-demystifying-aspect-ratios-a-5-point-calculator-primer/"><u>New Demystifying Aspect Ratios A 5-Point Calculator Primer</u></a></li>
 </ul></div>
+
 

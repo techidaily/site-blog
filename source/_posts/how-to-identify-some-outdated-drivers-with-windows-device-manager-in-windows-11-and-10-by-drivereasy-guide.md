@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-30T01:47:26.795Z
+date: 2024-05-19T18:32:13.043Z
 tags: 
   - driver
   - device driver
@@ -173,4 +173,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-a2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi A2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-6-top-online-mp4-croppers/"><u>Updated 6 Top Online MP4 Croppers</u></a></li>
 </ul></div>
+
 

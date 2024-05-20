@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Xiaomi Redmi Note 12T Pro
-date: 2024-04-30T01:41:28.904Z
+date: 2024-05-19T18:32:09.924Z
 tags: 
   - recover
 categories: 
@@ -280,4 +280,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix GT 10 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia 105 Classic | Dr.fone</u></a></li>
 </ul></div>
+
 

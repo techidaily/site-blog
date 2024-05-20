@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2010 files
-date: 2024-04-30T01:48:29.737Z
-updated: 2024-05-01T01:48:29.737Z
+date: 2024-05-19T18:32:13.512Z
+updated: 2024-05-20T18:32:13.512Z
 tags: 
   - signer
   - signer online
@@ -215,4 +215,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-x100-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo X100 Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y100t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y100t and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

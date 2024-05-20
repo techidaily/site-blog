@@ -1,6 +1,6 @@
 ---
 title: How to Repair a Damaged video file of Infinix using Video Repair Utility on Windows?
-date: 2024-04-30T01:37:43.420Z
+date: 2024-05-19T18:32:08.292Z
 tags: 
   - repair
 categories: 
@@ -227,4 +227,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My HTC U23 | Dr.fone</u></a></li>
 </ul></div>
+
 

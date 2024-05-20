@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of A38?
-date: 2024-04-30T01:38:35.875Z
+date: 2024-05-19T18:32:08.696Z
 tags: 
   - repair
 categories: 
@@ -190,4 +190,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-beginners-guide-to-free-video-editing-tools-desktop-online-and-mobile/"><u>New In 2024, Beginners Guide to Free Video Editing Tools Desktop, Online, and Mobile</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-have-you-forgotten-to-change-the-cameras-brightness-before-capturing-the-video-or-is-your-video-shaky-because-of-poor-lighting-dont-worry-/"><u>New 2024 Approved Have You Forgotten to Change the Cameras Brightness Before Capturing the Video? Or Is Your Video Shaky because of Poor Lighting? Dont Worry. The Best Video Brightness Editor Can Solve This Issue in a Jiffy</u></a></li>
 </ul></div>
+
 

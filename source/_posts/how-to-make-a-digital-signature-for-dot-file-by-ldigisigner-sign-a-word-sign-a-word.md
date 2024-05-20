@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .dot file
-date: 2024-04-30T01:48:28.587Z
-updated: 2024-05-01T01:48:28.587Z
+date: 2024-05-19T18:32:13.506Z
+updated: 2024-05-20T18:32:13.506Z
 tags: 
   - signer
   - signer online
@@ -237,4 +237,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/sign-rtf-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .rtf file Documents Online for Free</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-make-an-impact-add-slow-motion-to-your-videos-without-spending-a-dime-filmora/"><u>New Make an Impact Add Slow Motion to Your Videos without Spending a Dime - Filmora</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Xperia 10 V
-date: 2024-04-30T01:36:33.112Z
-updated: 2024-05-01T01:36:33.112Z
+date: 2024-05-19T18:32:07.831Z
+updated: 2024-05-20T18:32:07.831Z
 tags: 
   - recover
 categories: 
@@ -283,4 +283,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-13-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 13 to Computer? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

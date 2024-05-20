@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Yuva 3 Pro
-date: 2024-04-30T01:36:34.383Z
+date: 2024-05-19T18:32:07.838Z
 tags: 
   - recover
 categories: 
@@ -267,4 +267,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-12-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 12?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-t2-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo T2 Pro 5G FRP</u></a></li>
 </ul></div>
+
 

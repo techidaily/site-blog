@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated your drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:47:33.666Z
+date: 2024-05-19T18:32:13.082Z
 tags: 
   - driver
   - device driver
@@ -161,4 +161,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-edge-40-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Edge 40 Pro Phone Hassle-Free</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/1714306542521-updated-in-2024-the-ultimate-list-10-vegas-pro-alternatives-for-mac-users-free-and-paid/"><u>Updated In 2024, The Ultimate List 10 Vegas Pro Alternatives for Mac Users (Free & Paid)</u></a></li>
 </ul></div>
+
 

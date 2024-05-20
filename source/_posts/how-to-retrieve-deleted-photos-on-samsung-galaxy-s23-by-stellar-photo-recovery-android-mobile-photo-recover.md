@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Samsung Galaxy S23
-date: 2024-04-30T01:41:19.671Z
+date: 2024-05-19T18:32:09.880Z
 tags: 
   - recover
 categories: 
@@ -280,4 +280,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy M34 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-apple-iphone-15-pro-location-on-viber-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Fake Your Apple iPhone 15 Pro Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to fix videos not playing with my Infinix Note 30 VIP?
-date: 2024-04-30T01:35:30.761Z
-updated: 2024-05-01T01:35:30.761Z
+date: 2024-05-19T18:32:06.795Z
+updated: 2024-05-20T18:32:06.795Z
 tags: 
   - repair
 categories: 
@@ -208,4 +208,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Lava Agni 2 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor 90 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

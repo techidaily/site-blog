@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Y78+ (T1) Edition
-date: 2024-04-30T01:35:57.958Z
+date: 2024-05-19T18:32:07.595Z
 tags: 
   - recover
 categories: 
@@ -297,4 +297,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco C51 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-honor-magic-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor Magic 5 Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

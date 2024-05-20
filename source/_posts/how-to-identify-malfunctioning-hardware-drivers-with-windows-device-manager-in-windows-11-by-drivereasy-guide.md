@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:46:51.946Z
+date: 2024-05-19T18:32:12.746Z
 tags: 
   - driver
   - device driver
@@ -253,4 +253,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Pova 5 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-100-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor 100 Pro? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11
-date: 2024-04-30T01:47:07.798Z
+date: 2024-05-19T18:32:12.910Z
 tags: 
   - driver
   - device driver
@@ -250,4 +250,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s17-by-drfone-android/"><u>How to Bypass FRP from Vivo S17?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-x-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone X? Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

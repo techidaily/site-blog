@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of Y36?
-date: 2024-04-30T01:38:34.547Z
+date: 2024-05-19T18:32:08.684Z
 tags: 
   - repair
 categories: 
@@ -194,4 +194,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-animated-text-video-on-computeriphoneandroidonline/"><u>New How to Make Animated Text Video on Computer/iPhone/Android/Online</u></a></li>
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

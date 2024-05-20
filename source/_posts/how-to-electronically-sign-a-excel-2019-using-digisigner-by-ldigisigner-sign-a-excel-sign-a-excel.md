@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2019 Using DigiSigner
-date: 2024-04-30T01:43:16.548Z
-updated: 2024-05-01T01:43:16.548Z
+date: 2024-05-19T18:32:10.896Z
+updated: 2024-05-20T18:32:10.896Z
 tags: 
   - signer
   - signer online
@@ -240,4 +240,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-editing.techidaily.com/guide-to-using-free-luts-for-obs/"><u>Guide To Using Free Luts for OBS</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a54-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A54 5G Easily?</u></a></li>
 </ul></div>
+
 

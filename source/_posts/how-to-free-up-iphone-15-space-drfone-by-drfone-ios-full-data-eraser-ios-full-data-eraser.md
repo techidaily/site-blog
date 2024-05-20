@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone 15 Space | Dr.fone
-date: 2024-04-30T01:45:21.539Z
-updated: 2024-05-01T01:45:21.539Z
+date: 2024-05-19T18:32:12.113Z
+updated: 2024-05-20T18:32:12.113Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -341,4 +341,5 @@ Set the path to save all the exported pictures and click **Export** to execute t
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-6s-plus-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 6s Plus Apple ID on MacBook</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-mts-video-editing-software-5-top-rated-options/"><u>New MTS Video Editing Software 5 Top-Rated Options</u></a></li>
 </ul></div>
+
 

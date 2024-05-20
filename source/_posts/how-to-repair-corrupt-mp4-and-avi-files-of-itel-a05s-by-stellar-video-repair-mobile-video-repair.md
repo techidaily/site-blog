@@ -1,6 +1,6 @@
 ---
 title: How to Repair corrupt MP4 and AVI files of Itel A05s? 
-date: 2024-04-30T01:38:41.747Z
+date: 2024-05-19T18:32:08.746Z
 tags: 
   - repair
 categories: 
@@ -252,4 +252,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-video-apps.techidaily.com/updated-avoid-common-mistakes-a-step-by-step-guide-to-converting-mp3-to-mp4-for-2024/"><u>Updated Avoid Common Mistakes A Step-by-Step Guide to Converting MP3 to MP4 for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-10-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 10 Pro to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

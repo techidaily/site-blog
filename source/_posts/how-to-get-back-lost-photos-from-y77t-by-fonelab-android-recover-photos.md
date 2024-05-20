@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Y77t.
-date: 2024-04-30T01:46:15.197Z
+date: 2024-05-19T18:32:12.441Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -191,4 +191,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-6s-plus-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 6s Plus for Free? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-mix-fold-3-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Mix Fold 3 Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

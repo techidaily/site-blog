@@ -1,7 +1,7 @@
 ---
 title: How to Repair Broken video files of Poco X6 on Windows??
-date: 2024-04-30T01:38:21.603Z
-updated: 2024-05-01T01:38:21.603Z
+date: 2024-05-19T18:32:08.564Z
+updated: 2024-05-20T18:32:08.564Z
 tags: 
   - repair
 categories: 
@@ -227,4 +227,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://ai-editing-video.techidaily.com/updated-3-different-methods-to-correct-color-distortion-in-videos-for-2024/"><u>Updated 3 Different Methods to Correct Color Distortion in Videos for 2024</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-14-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 14 to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

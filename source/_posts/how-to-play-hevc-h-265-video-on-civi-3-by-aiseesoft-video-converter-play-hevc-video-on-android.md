@@ -1,6 +1,6 @@
 ---
 title: How to play HEVC H.265 video on Civi 3?
-date: 2024-04-30T01:35:30.952Z
+date: 2024-05-19T18:32:06.952Z
 tags: 
   - hevc video
   - hevc android
@@ -204,4 +204,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco X5 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-12-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi 12 5GMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

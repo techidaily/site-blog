@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone XS to the Previous iOS/iPadOS Version? | Dr.fone
-date: 2024-04-30T01:43:11.435Z
-updated: 2024-05-01T01:43:11.435Z
+date: 2024-05-19T18:32:10.836Z
+updated: 2024-05-20T18:32:10.836Z
 tags: 
   - ios system repair
   - iphone repair
@@ -417,4 +417,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy M34 5G Phone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-s18e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

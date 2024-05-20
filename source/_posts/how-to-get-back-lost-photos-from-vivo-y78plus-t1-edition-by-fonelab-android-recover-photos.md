@@ -1,6 +1,6 @@
 ---
 title: How to get back lost photos from Vivo Y78+ (T1) Edition.
-date: 2024-04-30T01:46:12.321Z
+date: 2024-05-19T18:32:12.428Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y27-4g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y27 4G for Streaming | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

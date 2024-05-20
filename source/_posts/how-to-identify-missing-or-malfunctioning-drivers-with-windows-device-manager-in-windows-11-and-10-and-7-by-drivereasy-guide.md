@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-30T01:47:07.414Z
+date: 2024-05-19T18:32:12.908Z
 tags: 
   - driver
   - device driver
@@ -221,4 +221,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-a60s-by-fonelab-android-recover-video/"><u>The way to get back lost videos from A60s</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Play 40C? | Dr.fone</u></a></li>
 </ul></div>
+
 

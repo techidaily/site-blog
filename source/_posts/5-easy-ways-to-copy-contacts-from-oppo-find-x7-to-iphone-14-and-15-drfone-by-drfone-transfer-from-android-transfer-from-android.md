@@ -450,3 +450,4 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-smart-8-hd-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Smart 8 HD Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

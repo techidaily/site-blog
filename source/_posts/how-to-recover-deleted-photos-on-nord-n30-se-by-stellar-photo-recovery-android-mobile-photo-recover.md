@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Nord N30 SE
-date: 2024-04-30T01:36:51.095Z
+date: 2024-05-19T18:32:07.940Z
 tags: 
   - recover
 categories: 
@@ -258,4 +258,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oneplus-nord-3-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your OnePlus Nord 3 5G Phone Network-Ready</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/below-is-a-get-starting-guide-for-wevideo-follow-it-to-easily-create-videos-online-for-2024/"><u>Below Is a Get-Starting Guide for WeVideo. Follow It to Easily Create Videos Online for 2024</u></a></li>
 </ul></div>
+
 

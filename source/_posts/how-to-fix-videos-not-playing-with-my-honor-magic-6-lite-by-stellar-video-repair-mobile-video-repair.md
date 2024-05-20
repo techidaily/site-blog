@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Honor Magic 6 Lite?
-date: 2024-04-30T01:45:16.234Z
+date: 2024-05-19T18:32:12.060Z
 tags: 
   - repair
 categories: 
@@ -215,4 +215,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-6s-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 6s Plus has bad ESN or blacklisted IMEI?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

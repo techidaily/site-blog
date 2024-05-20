@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted pictures from Infinix Smart 8 HD.
-date: 2024-04-30T01:51:27.394Z
+date: 2024-05-19T18:32:14.992Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -164,4 +164,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/honor-magic-vs-2-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor Magic Vs 2 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2v-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2V without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

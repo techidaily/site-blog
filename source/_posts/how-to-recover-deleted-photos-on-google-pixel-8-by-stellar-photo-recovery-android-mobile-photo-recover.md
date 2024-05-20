@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Google Pixel 8
-date: 2024-04-30T01:36:40.717Z
+date: 2024-05-19T18:32:07.879Z
 tags: 
   - recover
 categories: 
@@ -281,4 +281,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-m14-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy M14 5G to Roku | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-tips-and-tricks-to-perfectly-use-the-audio-mixer-in-filmora/"><u>2024 Approved Tips & Tricks To Perfectly Use the Audio Mixer in Filmora</u></a></li>
 </ul></div>
+
 

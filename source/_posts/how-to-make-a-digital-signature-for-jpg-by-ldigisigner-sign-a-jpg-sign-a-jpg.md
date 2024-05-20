@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for JPG
-date: 2024-04-30T01:48:31.576Z
-updated: 2024-05-01T01:48:31.576Z
+date: 2024-05-19T18:32:13.522Z
+updated: 2024-05-20T18:32:13.522Z
 tags: 
   - signer
   - signer online
@@ -176,4 +176,5 @@ You only need a device - a laptop, tablet or smartphone, as well as access to th
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

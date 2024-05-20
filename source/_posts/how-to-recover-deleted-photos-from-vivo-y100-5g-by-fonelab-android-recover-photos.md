@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Vivo Y100 5G.
-date: 2024-04-30T01:51:09.019Z
+date: 2024-05-19T18:32:14.830Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-in-powerpoint/"><u>2024 Approved How to Loop a Video in PowerPoint</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-v27-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo V27 Lock Screen Password</u></a></li>
 </ul></div>
+
 

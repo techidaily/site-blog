@@ -1,6 +1,6 @@
 ---
 title: How to Repair Broken video files of OnePlus 12 on Windows??
-date: 2024-04-30T01:38:17.720Z
+date: 2024-05-19T18:32:08.515Z
 tags: 
   - repair
 categories: 
@@ -189,4 +189,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6s-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y56-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y56 5G Phone Without Password?</u></a></li>
 </ul></div>
+
 

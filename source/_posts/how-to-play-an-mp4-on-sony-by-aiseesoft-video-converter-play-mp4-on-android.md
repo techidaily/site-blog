@@ -1,6 +1,6 @@
 ---
 title: How to play an MP4 on Sony ?
-date: 2024-04-30T01:35:30.891Z
+date: 2024-05-19T18:32:06.896Z
 tags: 
   - mp4 video
   - mp4 android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g14-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G14 Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
 </ul></div>
+
 

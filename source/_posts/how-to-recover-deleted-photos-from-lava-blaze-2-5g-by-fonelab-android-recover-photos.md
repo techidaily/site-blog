@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Lava Blaze 2 5G.
-date: 2024-04-30T01:50:55.447Z
+date: 2024-05-19T18:32:14.767Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-compress-webm-videos-for-free-top-online-tools/"><u>2024 Approved Compress WebM Videos for Free Top Online Tools</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus 11R? | Dr.fone</u></a></li>
 </ul></div>
+
 

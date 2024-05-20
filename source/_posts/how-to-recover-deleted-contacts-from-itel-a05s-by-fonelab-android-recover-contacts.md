@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted contacts from Itel A05s.
-date: 2024-04-30T01:49:53.036Z
+date: 2024-05-19T18:32:14.286Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -171,4 +171,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-hot-40-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Hot 40 Devices</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On HTC U23? | Dr.fone</u></a></li>
 </ul></div>
+
 
