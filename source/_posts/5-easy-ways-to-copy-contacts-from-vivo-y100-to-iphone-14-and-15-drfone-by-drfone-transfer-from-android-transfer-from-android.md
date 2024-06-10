@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Copy Contacts from Vivo Y100 to iPhone 14 and 15 | Dr.fone
-date: 2024-04-12T01:55:31.425Z
-updated: 2024-04-13T01:55:31.425Z
+date: 2024-06-09T01:55:25.430Z
+updated: 2024-06-10T01:55:25.430Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Vivo Y100 to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Vivo Y100 to iPhone 14 and 15
 keywords: transfer from android to mac,transfer from Vivo Y100 to mac,transfer from Vivo Y100 to android,transfer from android to iphone,transfer from android to pc,transfer from Vivo Y100 to ipad,transfer from android to ipad,transfer from Vivo Y100 to iphone
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## 5 Easy Ways to Copy Contacts from Vivo Y100 to iPhone 14 and 15

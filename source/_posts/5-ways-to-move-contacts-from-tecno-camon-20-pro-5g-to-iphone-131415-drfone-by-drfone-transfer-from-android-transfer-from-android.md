@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Move Contacts From Tecno Camon 20 Pro 5G to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:32:52.728Z
-updated: 2024-05-20T18:32:52.728Z
+date: 2024-06-09T01:55:18.885Z
+updated: 2024-06-10T01:55:18.885Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Tecno Camon 20 Pro 5G to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Tecno Camon 20 Pro 5G to iPhone (13/14/15)
 keywords: transfer from android to mac,transfer from android to iphone,transfer from android to ipad,transfer from Tecno Camon 20 Pro 5G to ipad,transfer from Tecno Camon 20 Pro 5G to pc,transfer from Tecno Camon 20 Pro 5G to android
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## 5 Ways to Move Contacts From Tecno Camon 20 Pro 5G to iPhone (13/14/15)

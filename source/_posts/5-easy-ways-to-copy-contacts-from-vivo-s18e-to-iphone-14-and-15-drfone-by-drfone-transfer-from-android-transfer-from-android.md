@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15 | Dr.fone
-date: 2024-04-12T01:55:28.566Z
-updated: 2024-04-13T01:55:28.566Z
+date: 2024-06-09T01:56:37.671Z
+updated: 2024-06-10T01:56:37.671Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15
 keywords: transfer from android to pc,transfer from android to android,transfer from Vivo S18e to iphone,transfer from Vivo S18e to mac,transfer from android to mac,transfer from Vivo S18e to ipad,transfer from Vivo S18e to android,transfer from android to iphone,transfer from Vivo S18e to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## 5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15

@@ -1,7 +1,7 @@
 ---
 title: 5 Techniques to Transfer Data from Motorola Defy 2 to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T01:52:42.996Z
-updated: 2024-05-01T01:52:42.996Z
+date: 2024-06-09T01:55:11.083Z
+updated: 2024-06-10T01:55:11.083Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Techniques to Transfer Data from Motorola Defy 2 to iPhone 15/14/13/12
 excerpt: This article describes 5 Techniques to Transfer Data from Motorola Defy 2 to iPhone 15/14/13/12
 keywords: transfer from Motorola Defy 2 to mac,transfer from Motorola Defy 2 to iphone,transfer from Motorola Defy 2 to ipad,transfer from android to iphone,transfer from android to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## 5 Techniques to Transfer Data from Motorola Defy 2 to iPhone 15/14/13/12

@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Copy Contacts from Nokia C12 to iPhone 14 and 15 | Dr.fone
-date: 2024-04-12T01:55:04.867Z
-updated: 2024-04-13T01:55:04.867Z
+date: 2024-06-09T01:56:08.360Z
+updated: 2024-06-10T01:56:08.360Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Nokia C12 to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Nokia C12 to iPhone 14 and 15
 keywords: transfer from Nokia C12 to mac,transfer from android to mac,transfer from Nokia C12 to pc,transfer from Nokia C12 to iphone,transfer from android to ipad,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## 5 Easy Ways to Copy Contacts from Nokia C12 to iPhone 14 and 15

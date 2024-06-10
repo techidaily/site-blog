@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Move Contacts From Realme Note 50 to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:32:42.095Z
-updated: 2024-05-20T18:32:42.095Z
+date: 2024-06-09T01:55:54.016Z
+updated: 2024-06-10T01:55:54.016Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Realme Note 50 to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Realme Note 50 to iPhone (13/14/15)
 keywords: transfer from android to ipad,transfer from android to pc,transfer from android to android,transfer from Realme Note 50 to iphone,transfer from android to mac,transfer from Realme Note 50 to pc,transfer from Realme Note 50 to mac,transfer from Realme Note 50 to ipad,transfer from Realme Note 50 to android
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## 5 Ways to Move Contacts From Realme Note 50 to iPhone (13/14/15)

@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xls files
-date: 2024-05-19T18:32:13.258Z
-updated: 2024-05-20T18:32:13.258Z
+date: 2024-06-09T01:56:29.310Z
+updated: 2024-06-10T01:56:29.310Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert signature in .xls files
 excerpt: This article describes How to insert signature in .xls files
 keywords: excel signature,excel signature software,excel signature app
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## 1. How to insert signature in .xls files

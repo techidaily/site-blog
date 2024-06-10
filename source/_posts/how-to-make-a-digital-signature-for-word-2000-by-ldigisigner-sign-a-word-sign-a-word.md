@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word 2000
-date: 2024-05-19T18:32:13.531Z
-updated: 2024-05-20T18:32:13.531Z
+date: 2024-06-09T01:56:43.599Z
+updated: 2024-06-10T01:56:43.599Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for Word 2000
 excerpt: This article describes How to make a digital signature for Word 2000
 keywords: .dotm file signature best,word signature service,.txt file signature best,free sign word,sign .odt file,.fodt file signature software
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## 1. How to make a digital signature for Word 2000

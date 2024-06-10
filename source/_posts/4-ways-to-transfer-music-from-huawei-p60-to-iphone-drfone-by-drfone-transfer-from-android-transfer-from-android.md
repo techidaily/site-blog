@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Music from Huawei P60 to iPhone | Dr.fone
-date: 2024-04-07T02:11:28.158Z
-updated: 2024-04-08T02:11:28.158Z
+date: 2024-06-09T01:56:48.565Z
+updated: 2024-06-10T01:56:48.565Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Ways to Transfer Music from Huawei P60 to iPhone
 excerpt: This article describes 4 Ways to Transfer Music from Huawei P60 to iPhone
 keywords: transfer from android to ipad,transfer from Huawei P60 to pc,transfer from android to android,transfer from android to pc,transfer from android to iphone,transfer from Huawei P60 to mac,transfer from Huawei P60 to iphone,transfer from android to mac,transfer from Huawei P60 to android,transfer from Huawei P60 to ipad
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## 4 Ways to Transfer Music from Huawei P60 to iPhone

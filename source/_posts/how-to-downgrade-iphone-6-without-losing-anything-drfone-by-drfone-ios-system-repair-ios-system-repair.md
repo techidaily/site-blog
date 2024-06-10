@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 6 without Losing Anything? | Dr.fone
-date: 2024-05-19T18:32:10.671Z
-updated: 2024-05-20T18:32:10.671Z
+date: 2024-06-09T01:56:29.250Z
+updated: 2024-06-10T01:56:29.250Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Downgrade iPhone 6 without Losing Anything?
 excerpt: This article describes How to Downgrade iPhone 6 without Losing Anything?
 keywords: DFU mode on iPhone 6,DFU mode on iPhone,reset iPhone,recovery mode on iPhone,repair iPhone 6 system issues,repair iPhone system issues,recovery mode on iPhone 6,upgrade or downgrade iPhone without iTunes,upgrade or downgrade iPhone 6 without iTunes
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone 6 Without iTunes?

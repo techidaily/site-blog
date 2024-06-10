@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Move Contacts From Honor 100 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T01:53:35.478Z
-updated: 2024-05-01T01:53:35.478Z
+date: 2024-06-09T01:55:21.676Z
+updated: 2024-06-10T01:55:21.676Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Honor 100 to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Honor 100 to iPhone (13/14/15)
 keywords: transfer from Honor 100 to mac,transfer from Honor 100 to android,transfer from android to mac,transfer from Honor 100 to iphone,transfer from Honor 100 to ipad,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## 5 Ways to Move Contacts From Honor 100 to iPhone (13/14/15)

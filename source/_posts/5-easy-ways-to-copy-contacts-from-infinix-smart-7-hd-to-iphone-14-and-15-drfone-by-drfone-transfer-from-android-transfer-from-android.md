@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15 | Dr.fone
-date: 2024-04-12T01:54:56.111Z
-updated: 2024-04-13T01:54:56.111Z
+date: 2024-06-09T01:55:35.003Z
+updated: 2024-06-10T01:55:35.003Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15
 keywords: transfer from android to ipad,transfer from Infinix Smart 7 HD to pc,transfer from android to pc,transfer from android to android,transfer from Infinix Smart 7 HD to iphone,transfer from Infinix Smart 7 HD to android,transfer from Infinix Smart 7 HD to ipad,transfer from android to iphone,transfer from Infinix Smart 7 HD to mac,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## 5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15

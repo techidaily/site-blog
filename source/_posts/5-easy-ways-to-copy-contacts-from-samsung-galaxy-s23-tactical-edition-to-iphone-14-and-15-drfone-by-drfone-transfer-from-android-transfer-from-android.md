@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 Tactical Edition to iPhone 14 and 15 | Dr.fone
-date: 2024-04-12T01:55:22.569Z
-updated: 2024-04-13T01:55:22.569Z
+date: 2024-06-09T01:55:49.385Z
+updated: 2024-06-10T01:55:49.385Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 Tactical Edition to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 Tactical Edition to iPhone 14 and 15
 keywords: transfer from Samsung Galaxy S23 Tactical Edition to iphone,transfer from Samsung Galaxy S23 Tactical Edition to android,transfer from android to mac,transfer from android to iphone,transfer from Samsung Galaxy S23 Tactical Edition to mac,transfer from android to android,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 Tactical Edition to iPhone 14 and 15

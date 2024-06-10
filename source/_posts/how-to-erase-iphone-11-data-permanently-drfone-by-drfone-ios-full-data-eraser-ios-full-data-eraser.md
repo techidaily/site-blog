@@ -1,7 +1,7 @@
 ---
 title: How To Erase iPhone 11 Data Permanently | Dr.fone
-date: 2024-05-19T18:32:10.935Z
-updated: 2024-05-20T18:32:10.935Z
+date: 2024-06-09T01:56:29.333Z
+updated: 2024-06-10T01:56:29.333Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Erase iPhone 11 Data Permanently
 excerpt: This article describes How To Erase iPhone 11 Data Permanently
 keywords: erase iPhone 11,erase iPhone 11 data without passcode,erase iPhone data without recovery,erase iPhone,erase iPhone data without backup,erase iPhone 11 data without iTunes,erase iPhone data without passcode
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## How To Free Up iPhone 11 Space With Dr.Fone?

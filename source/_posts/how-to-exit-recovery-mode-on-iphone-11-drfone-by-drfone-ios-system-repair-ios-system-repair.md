@@ -1,7 +1,7 @@
 ---
 title: How To Exit Recovery Mode on iPhone 11? | Dr.fone
-date: 2024-05-19T18:32:11.082Z
-updated: 2024-05-20T18:32:11.082Z
+date: 2024-06-09T01:56:44.528Z
+updated: 2024-06-10T01:56:44.528Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Exit Recovery Mode on iPhone 11?
 excerpt: This article describes How To Exit Recovery Mode on iPhone 11?
 keywords: reset iPhone,upgrade or downgrade iPhone without iTunes,repair iPhone system issues,DFU mode on iPhone 11,repair iPhone 11 system issues,recovery mode on iPhone 11,reset iPhone 11
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## How To Reset Your iPhone 11?

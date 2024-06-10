@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel 2023 Using DigiSigner
-date: 2024-05-19T18:32:10.898Z
-updated: 2024-05-20T18:32:10.898Z
+date: 2024-06-09T01:56:33.058Z
+updated: 2024-06-10T01:56:33.058Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Electronically Sign a Excel 2023 Using DigiSigner
 excerpt: This article describes How to Electronically Sign a Excel 2023 Using DigiSigner
 keywords: excel signature online,excel signature service,best sign .xlsx
-thumbnail: https://www.lifewire.com/thmb/8cntKMhShePwne7YMK1BVkFRlYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snork-fa65ca350e2243e1a2deaf6bb7b209b1.jpg
+thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
 ## 1. How to Electronically Sign a Excel 2023 Using DigiSigner

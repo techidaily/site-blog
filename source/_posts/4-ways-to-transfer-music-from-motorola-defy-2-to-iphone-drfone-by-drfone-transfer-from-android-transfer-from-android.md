@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Music from Motorola Defy 2 to iPhone | Dr.fone
-date: 2024-04-07T02:11:28.268Z
-updated: 2024-04-08T02:11:28.268Z
+date: 2024-06-09T01:56:58.707Z
+updated: 2024-06-10T01:56:58.707Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Ways to Transfer Music from Motorola Defy 2 to iPhone
 excerpt: This article describes 4 Ways to Transfer Music from Motorola Defy 2 to iPhone
 keywords: transfer from Motorola Defy 2 to iphone,transfer from Motorola Defy 2 to ipad,transfer from Motorola Defy 2 to android,transfer from android to iphone,transfer from Motorola Defy 2 to pc,transfer from Motorola Defy 2 to mac,transfer from android to android,transfer from android to mac,transfer from android to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## 4 Ways to Transfer Music from Motorola Defy 2 to iPhone

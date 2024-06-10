@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .wpd file
-date: 2024-05-19T18:32:13.566Z
-updated: 2024-05-20T18:32:13.566Z
+date: 2024-06-09T01:56:00.813Z
+updated: 2024-06-10T01:56:00.813Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for .wpd file
 excerpt: This article describes How to make a digital signature for .wpd file
 keywords: .docx file signature service,.svd file signature tool,.doc file signature software
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## 1. How to make a digital signature for .wpd file

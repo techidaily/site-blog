@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Move Contacts From Asus ROG Phone 8 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T01:53:34.150Z
-updated: 2024-05-01T01:53:34.150Z
+date: 2024-06-09T01:56:46.610Z
+updated: 2024-06-10T01:56:46.610Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Asus ROG Phone 8 to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Asus ROG Phone 8 to iPhone (13/14/15)
 keywords: transfer from Asus ROG Phone 8 to mac,transfer from Asus ROG Phone 8 to pc,transfer from Asus ROG Phone 8 to android,transfer from android to mac,transfer from android to pc,transfer from Asus ROG Phone 8 to iphone
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## 5 Ways to Move Contacts From Asus ROG Phone 8 to iPhone (13/14/15)

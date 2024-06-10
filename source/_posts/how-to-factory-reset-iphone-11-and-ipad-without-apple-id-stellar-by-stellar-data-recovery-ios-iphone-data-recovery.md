@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset iPhone 11 and iPad Without Apple ID | Stellar
-date: 2024-05-19T18:32:11.124Z
-updated: 2024-05-20T18:32:11.124Z
+date: 2024-06-09T01:56:31.251Z
+updated: 2024-06-10T01:56:31.251Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Factory Reset iPhone 11 and iPad Without Apple ID
 excerpt: This article describes How to Factory Reset iPhone 11 and iPad Without Apple ID
 keywords: recover iPhone 11 data after system update,recover iPhone 11 data after update,recover iPhone data,recover iPhone data after iOS update,recover deleted data from iPhone 11,recover iPhone 11 data after broken screen,recover iPhone 11 data after screen damage,recover iPhone data after system update
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## How to Factory Reset iPhone and iPad Without Apple ID
