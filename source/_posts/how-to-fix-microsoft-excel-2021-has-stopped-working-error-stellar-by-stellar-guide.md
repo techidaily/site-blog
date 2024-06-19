@@ -1,7 +1,7 @@
 ---
 title: How to fix Microsoft Excel 2021 has stopped working error? | Stellar
-date: 2024-05-19T18:32:11.818Z
-updated: 2024-05-20T18:32:11.818Z
+date: 2024-06-18T01:01:27.995Z
+updated: 2024-06-19T01:01:27.995Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to fix Microsoft Excel 2021 has stopped working error?
 excerpt: This article describes How to fix Microsoft Excel 2021 has stopped working error?
 keywords: repair .xlsx files,repair corrupt .xltm,repair excel 2003,repair corrupt .xlb,repair .csv files,repair damaged excel,repair damaged .xltm,repair corrupt .xltx files
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## How to fix Microsoft Excel has stopped working error?
@@ -365,7 +365,7 @@ The personal macro workbook (Personal.xlsb) file is stored in XLStart folder. It
 - Open the workbook.
 - Click on the **Developer** tab.
 
-![developer tab ](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
+![developer tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
 
 - Press **Alt + F11** to open Visual Basic Editor.
 - Go to **View > Immediate Window.**
@@ -481,7 +481,7 @@ If your workbook is opening in Excel, there are two options to recover its data.
 - Launch Excel and click **File** -> **Save As**.
 - In the **Save as Type** field, select **SYLK (Symbolic Link)** from the drop-down menu, and click **Save**.
 
-![Save Excel Workbook in SYLK File Format ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
+![Save Excel Workbook in SYLK File Format](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
 
 - To save only the active sheet in the workbook, click **OK**. The system will display a message that the sheet has features that are not compatible with the SYLK file format.
 - Click **Yes**.

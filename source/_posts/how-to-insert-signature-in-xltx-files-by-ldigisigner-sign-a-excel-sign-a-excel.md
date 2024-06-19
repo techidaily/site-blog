@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xltx files
-date: 2024-05-19T18:32:13.262Z
-updated: 2024-05-20T18:32:13.262Z
+date: 2024-06-18T01:02:25.690Z
+updated: 2024-06-19T01:02:25.690Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert signature in .xltx files
 excerpt: This article describes How to insert signature in .xltx files
 keywords: .xlsx signer online,excel signer online,free sign .xlsx
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## 1. How to insert signature in .xltx files
@@ -41,9 +41,7 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 ### 2.2. Instructions on how to create electronic signature in Excel
 
-These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

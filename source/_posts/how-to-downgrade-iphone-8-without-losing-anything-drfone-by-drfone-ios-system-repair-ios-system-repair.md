@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 without Losing Anything? | Dr.fone
-date: 2024-05-19T18:32:10.748Z
-updated: 2024-05-20T18:32:10.748Z
+date: 2024-06-18T01:01:53.196Z
+updated: 2024-06-19T01:01:53.196Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Downgrade iPhone 8 without Losing Anything?
 excerpt: This article describes How to Downgrade iPhone 8 without Losing Anything?
 keywords: reset iPhone,repair iPhone system issues,repair iPhone 8 system issues,upgrade or downgrade iPhone without iTunes,upgrade or downgrade iPhone 8 without iTunes,recovery mode on iPhone 8,reset iPhone 8,DFU mode on iPhone 8,DFU mode on iPhone,recovery mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## How To Upgrade or Downgrade iPhone 8 Without iTunes?

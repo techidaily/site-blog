@@ -1,7 +1,7 @@
 ---
 title: How to Recover Deleted Notes from iPhone 12? | Stellar
-date: 2024-05-19T18:32:14.597Z
-updated: 2024-05-20T18:32:14.597Z
+date: 2024-06-18T01:00:58.033Z
+updated: 2024-06-19T01:00:58.033Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Recover Deleted Notes from iPhone 12?
 excerpt: This article describes How to Recover Deleted Notes from iPhone 12?
 keywords: recover iPhone 12 data after restore,recover iPhone data without backup,recover iPhone data after restore,recover iPhone data after screen damage,recover iPhone 12 data after iOS update,recover iPhone 12 data after screen damage,recover iPhone data after water damage,recover deleted data from iPhone
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## How to Recover Deleted Notes from iPhone?

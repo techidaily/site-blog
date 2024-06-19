@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15 | Dr.fone
-date: 2024-04-12T01:54:56.681Z
-updated: 2024-04-13T01:54:56.681Z
+date: 2024-06-18T01:03:05.276Z
+updated: 2024-06-19T01:03:05.276Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15
 keywords: transfer from Infinix Smart 8 Pro to pc,transfer from android to pc,transfer from android to iphone,transfer from android to android,transfer from Infinix Smart 8 Pro to iphone,transfer from Infinix Smart 8 Pro to ipad,transfer from android to ipad,transfer from Infinix Smart 8 Pro to mac,transfer from android to mac,transfer from Infinix Smart 8 Pro to android
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## 5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15
@@ -116,7 +116,7 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 - **Step 6:** On your Android smartphone, key in the code displayed on your iPhone screen.
 - **Step 7:** Choose **Contacts.** After that, wait for the data transfer to start and finish.
 
-### Method 5: Copy contacts from Infinix Smart 8 Pro to iPhone using [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Method 5: Copy contacts from Infinix Smart 8 Pro to iPhone using Wondershare Dr.Fone
 
 The easiest way to export contacts from Infinix Smart 8 Pro to iPhone is by means of third-party phone transfer software. Wondershare Dr.Fone is one of the best tools that can help you a lot in this regard. Its phone transfer feature is designed to initiate and complete data migration with just the snap of a finger. Here’s a short guide on how to use it in easy steps.
 
@@ -170,7 +170,7 @@ However, due to the open nature of the Google Android operating system, there ar
 
 
 
-### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Wondershare Dr.Fone
 
 One-Stop Solution for Android USB File Transfer
 

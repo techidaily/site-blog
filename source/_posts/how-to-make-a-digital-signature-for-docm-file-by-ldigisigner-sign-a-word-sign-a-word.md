@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .docm file
-date: 2024-05-19T18:32:13.503Z
-updated: 2024-05-20T18:32:13.503Z
+date: 2024-06-18T01:01:47.782Z
+updated: 2024-06-19T01:01:47.782Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for .docm file
 excerpt: This article describes How to make a digital signature for .docm file
 keywords: free sign .fodt file,.wps file signature tool,.svd file signature software,.ott file signature
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## 1. How to make a digital signature for .docm file
@@ -39,9 +39,7 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 ### 2.2. Instructions on how to create electronic signature in Word
 
-These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

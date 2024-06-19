@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xltm files
-date: 2024-05-19T18:32:13.573Z
-updated: 2024-05-20T18:32:13.573Z
+date: 2024-06-18T01:01:32.060Z
+updated: 2024-06-19T01:01:32.060Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for .xltm files
 excerpt: This article describes How to make a digital signature for .xltm files
 keywords: sign a excel,.xlsx signature tool,.xlsx signature online,excel signature tool,excel signature app,best sign .xlsx
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## 1. How to make a digital signature for .xltm files
@@ -41,9 +41,7 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 ### 2.2. Instructions on how to create electronic signature in Excel
 
-These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

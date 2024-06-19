@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .doc file
-date: 2024-05-19T18:32:13.502Z
-updated: 2024-05-20T18:32:13.502Z
+date: 2024-06-18T01:01:57.190Z
+updated: 2024-06-19T01:01:57.190Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for .doc file
 excerpt: This article describes How to make a digital signature for .doc file
 keywords: .wpt file signature software,.ott file signature,.wpd file signature service,.dotx file signature app,.txt file signer online
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## 1. How to make a digital signature for .doc file
@@ -39,9 +39,7 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 ### 2.2. Instructions on how to create electronic signature in Word
 
-These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 
