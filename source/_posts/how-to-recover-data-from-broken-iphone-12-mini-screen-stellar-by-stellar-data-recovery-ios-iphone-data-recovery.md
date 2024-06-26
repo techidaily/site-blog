@@ -1,7 +1,7 @@
 ---
 title: How to Recover Data from Broken iPhone 12 mini Screen | Stellar
-date: 2024-05-19T18:32:13.933Z
-updated: 2024-05-20T18:32:13.933Z
+date: 2024-06-25T04:05:20.407Z
+updated: 2024-06-26T04:05:20.407Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Recover Data from Broken iPhone 12 mini Screen
 excerpt: This article describes How to Recover Data from Broken iPhone 12 mini Screen
 keywords: recover iPhone data after backup,recover iPhone 12 mini data after jailbreak,recover iPhone 12 mini data,recover iPhone data after hard reset,recover iPhone 12 mini data after water damage,recover iPhone data,recover iPhone data after restore,recover iPhone 12 mini data after restore without backup
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## How to Recover Data from Broken iPhone Screen
@@ -221,7 +221,7 @@ It’s well known that the Recently Deleted Album on iPhone keeps the deleted ph
 
 - Open the **Photos** app, tap the **Recently** **Deleted** album, locate the **screenshots**, and tap **Recover** to save it to the original Camera Roll location.
 
-![Recover Screenshots from Recently Deleted Album - Tap Recover ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Deleted-Pictures-from-Recently-Deleted-Album-4.jpg)
+![Recover Screenshots from Recently Deleted Album - Tap Recover](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Deleted-Pictures-from-Recently-Deleted-Album-4.jpg)
 
 ### **Method 2: Deleted Screenshot Recovery in iPhone from iTunes Backup**
 

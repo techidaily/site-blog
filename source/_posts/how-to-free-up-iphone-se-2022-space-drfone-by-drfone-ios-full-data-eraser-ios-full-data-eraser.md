@@ -1,7 +1,7 @@
 ---
 title: How To Free Up iPhone SE (2022) Space | Dr.fone
-date: 2024-05-19T18:32:12.121Z
-updated: 2024-05-20T18:32:12.121Z
+date: 2024-06-25T04:05:35.994Z
+updated: 2024-06-26T04:05:35.994Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Free Up iPhone SE (2022) Space
 excerpt: This article describes How To Free Up iPhone SE (2022) Space
 keywords: erase iPhone SE (2022) data without passcode,erase iPhone SE (2022) data completely,erase iPhone data,erase iPhone data without iTunes,erase iPhone SE (2022) data without recovery,erase iPhone SE (2022) data without backup,erase iPhone data without passcode
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## How To Free Up iPhone SE (2022) Space With Dr.Fone?

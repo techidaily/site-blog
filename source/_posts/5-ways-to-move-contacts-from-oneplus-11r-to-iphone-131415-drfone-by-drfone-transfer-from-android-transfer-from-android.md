@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Move Contacts From OnePlus 11R to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:32:20.105Z
-updated: 2024-05-20T18:32:20.105Z
+date: 2024-06-25T04:04:24.310Z
+updated: 2024-06-26T04:04:24.310Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From OnePlus 11R to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From OnePlus 11R to iPhone (13/14/15)
 keywords: transfer from android to android,transfer from android to mac,transfer from android to iphone,transfer from OnePlus 11R to pc,transfer from OnePlus 11R to mac,transfer from OnePlus 11R to android,transfer from OnePlus 11R to ipad,transfer from android to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## 5 Ways to Move Contacts From OnePlus 11R to iPhone (13/14/15)
@@ -182,7 +182,7 @@ One of the best ways to synchronize contacts from the phone to Gmail is to use a
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Dr.Fone - Phone Manager (Android)
 
 One-Stop Solution to Sync Contacts from OnePlus 11R to Gmail
 

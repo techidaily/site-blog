@@ -1,7 +1,7 @@
 ---
 title: How to fix runtime error 424 object required error in Excel 2019 | Stellar
-date: 2024-05-19T18:32:11.909Z
-updated: 2024-05-20T18:32:11.909Z
+date: 2024-06-25T04:05:29.427Z
+updated: 2024-06-26T04:05:29.427Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to fix runtime error 424 object required error in Excel 2019
 excerpt: This article describes How to fix runtime error 424 object required error in Excel 2019
 keywords: repair corrupt .xlb,repair damaged .xlb files,repair .xlb files,repair .xlsx files,repair corrupt .xlsm files,repair corrupt .xltm files,repair excel 2019,repair damaged .xlsm files,repair corrupt .xls,repair .csv files,repair excel 2000
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How to fix runtime error 424 object required error in Excel
@@ -190,7 +190,7 @@ Figure 5 – Open Trust Center Settings
 
 - Next, choose **‘Protected View**’ and uncheck all the options including ‘**Enable Protected View for Outlook attachments’** if you use Outlook for email.
 
-![change protected view settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Uncheck-protected-view-settings.jpg)
+![change protected view settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Uncheck-protected-view-settings.jpg)
 
 Figure 6 – Uncheck Protected View Settings
 
@@ -695,7 +695,7 @@ Even in this option, you can get data in two ways.
 1. **As Values**
 2. **With Formulas**
 
-In the first option, Excel simply extracts data as value ignoring all the formulas driving those value (which is **the best way if you just need to have that data back** ).
+In the first option, Excel simply extracts data as value ignoring all the formulas driving those value (which is **the best way if you just need to have that data back**).
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/open-repai-values.jpg)
 

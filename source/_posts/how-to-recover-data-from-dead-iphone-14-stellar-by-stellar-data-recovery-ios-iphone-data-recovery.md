@@ -1,7 +1,7 @@
 ---
 title: How to recover data from dead iPhone 14 | Stellar
-date: 2024-05-19T18:32:14.069Z
-updated: 2024-05-20T18:32:14.069Z
+date: 2024-06-25T04:04:51.763Z
+updated: 2024-06-26T04:04:51.763Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to recover data from dead iPhone 14
 excerpt: This article describes How to recover data from dead iPhone 14
 keywords: recover iPhone 14 data after backup,recover iPhone 14 data,recover iPhone data,recover iPhone 14 data after system update,recover iPhone 14 data after jailbreak,recover data from iPhone 14
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## How to recover data from dead iPhone
@@ -150,7 +150,7 @@ Just get on to the below steps to recover deleted photos from iCloud:
 - Select **Erase Now** in the dialog box and follow the prompts until you reach the Apps & Data screen.
 - Click on **Restore from iCloud Backup.**
 
-![ Restore from iCloud Backup on iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2022/03/iphone11-ios14-apps-data-restore-from-icloud-backup.jpg)
+![Restore from iCloud Backup on iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2022/03/iphone11-ios14-apps-data-restore-from-icloud-backup.jpg)
 
 - Sign in to your iCloud account.
 - Select the recent backup from the list that has the deleted pictures. Click **Restore** to get back the deleted photos on your iPhone.
@@ -326,8 +326,7 @@ To use recovery mode on iPhone 14 and iPhone 14 Pro, follows these steps:
 2. Now on iPhone, press and quickly release the **Volume** **up**, **Volume** **down**, and side buttons until you see the recovery mode screen.
 3. Select your iPhone in the Finder/iTunes window and choose to update or restore your iPhone.
 
-![how to enter recovery mode in iphone 14
-](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/how-to-force-restart-iphone-14-recovery-mode.jpg)
+![how to enter recovery mode in iphone 14](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/how-to-force-restart-iphone-14-recovery-mode.jpg)
 
 **How to exit Recovery Mode on iPhone**
 It’s easy to exit Recovery Mode on iPhone. Follow the below steps:

@@ -1,6 +1,6 @@
 ---
 title: How to Fix the #Value! Error in Excel 2007?
-date: 2024-05-19T18:32:11.993Z
+date: 2024-06-25T04:03:52.154Z
 tags: 
   - repair
   - repair excel
@@ -46,7 +46,7 @@ The formula will work as expected.
 
 Users often experience the #Value! error, when using the basic subtraction formula in Excel.
 
-![Image of #Value! error in Excel in Subtraction Formula ](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/subtraction-formula-error-window.png)
+![Image of #Value! error in Excel in Subtraction Formula](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/subtraction-formula-error-window.png)
 
 **Solution**
 

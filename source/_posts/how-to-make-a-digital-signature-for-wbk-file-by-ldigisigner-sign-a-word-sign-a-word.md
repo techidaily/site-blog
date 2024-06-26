@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .wbk file
-date: 2024-05-19T18:32:13.530Z
-updated: 2024-05-20T18:32:13.530Z
+date: 2024-06-25T04:04:19.129Z
+updated: 2024-06-26T04:04:19.129Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for .wbk file
 excerpt: This article describes How to make a digital signature for .wbk file
 keywords: .wpt file signature app,best sign .rtf file,.dot file signer online,best sign .wbk file
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## 1. How to make a digital signature for .wbk file
@@ -39,9 +39,7 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 ### 2.2. Instructions on how to create electronic signature in Word
 
-These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

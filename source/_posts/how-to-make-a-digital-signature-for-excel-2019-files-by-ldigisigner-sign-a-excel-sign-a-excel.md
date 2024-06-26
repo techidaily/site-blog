@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2019 files
-date: 2024-05-19T18:32:13.515Z
-updated: 2024-05-20T18:32:13.515Z
+date: 2024-06-25T04:04:51.707Z
+updated: 2024-06-26T04:04:51.707Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for Excel 2019 files
 excerpt: This article describes How to make a digital signature for Excel 2019 files
 keywords: sign a excel,.xlsx signature free,excel signature best,best sign .xlsx,.xlsx signature online,.xlsx signature app
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## 1. How to make a digital signature for Excel 2019 files
@@ -41,9 +41,7 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 ### 2.2. Instructions on how to create electronic signature in Excel
 
-These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

@@ -1,7 +1,7 @@
 ---
 title: How to Put iPhone 13 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar
-date: 2024-05-19T18:32:13.761Z
-updated: 2024-05-20T18:32:13.761Z
+date: 2024-06-25T04:03:27.163Z
+updated: 2024-06-26T04:03:27.163Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Put iPhone 13 or iPad on Recovery mode? (Step by Step Tutorial)
 excerpt: This article describes How to Put iPhone 13 or iPad on Recovery mode? (Step by Step Tutorial)
 keywords: recover iPhone data,recover iPhone 13 data after water damage,recover iPhone 13 data after jailbreak,recover iPhone 13 data after hard reset,recover lost data from iPhone 13,recover iPhone 13 data after backup,recover iPhone data after water damage
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## How to Put iPhone or iPad on Recovery mode? (Step by Step Tutorial)
@@ -128,8 +128,7 @@ To use recovery mode on iPhone 14 and iPhone 14 Pro, follows these steps:
 2. Now on iPhone, press and quickly release the **Volume** **up**, **Volume** **down**, and side buttons until you see the recovery mode screen.
 3. Select your iPhone in the Finder/iTunes window and choose to update or restore your iPhone.
 
-![how to enter recovery mode in iphone 14
-](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/how-to-force-restart-iphone-14-recovery-mode.jpg)
+![how to enter recovery mode in iphone 14](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/how-to-force-restart-iphone-14-recovery-mode.jpg)
 
 **How to exit Recovery Mode on iPhone**
 It’s easy to exit Recovery Mode on iPhone. Follow the below steps:
@@ -372,7 +371,7 @@ Just get on to the below steps to recover deleted photos from iCloud:
 - Select **Erase Now** in the dialog box and follow the prompts until you reach the Apps & Data screen.
 - Click on **Restore from iCloud Backup.**
 
-![ Restore from iCloud Backup on iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2022/03/iphone11-ios14-apps-data-restore-from-icloud-backup.jpg)
+![Restore from iCloud Backup on iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2022/03/iphone11-ios14-apps-data-restore-from-icloud-backup.jpg)
 
 - Sign in to your iCloud account.
 - Select the recent backup from the list that has the deleted pictures. Click **Restore** to get back the deleted photos on your iPhone.

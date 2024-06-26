@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE (2022) to an Older iOS Version? | Dr.fone
-date: 2024-05-19T18:32:10.764Z
-updated: 2024-05-20T18:32:10.764Z
+date: 2024-06-25T04:05:19.426Z
+updated: 2024-06-26T04:05:19.426Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Downgrade iPhone SE (2022) to an Older iOS Version?
 excerpt: This article describes How to Downgrade iPhone SE (2022) to an Older iOS Version?
 keywords: upgrade or downgrade iPhone SE (2022) without iTunes,upgrade or downgrade iPhone without iTunes,DFU mode on iPhone SE (2022),reset iPhone,recovery mode on iPhone,reset iPhone SE (2022),repair iPhone SE (2022) system issues,recovery mode on iPhone SE (2022),repair iPhone system issues,DFU mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## How To Repair iPhone SE (2022) iOS System Issues?

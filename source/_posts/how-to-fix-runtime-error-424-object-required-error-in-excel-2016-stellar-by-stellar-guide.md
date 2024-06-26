@@ -1,7 +1,7 @@
 ---
 title: How to fix runtime error 424 object required error in Excel 2016 | Stellar
-date: 2024-05-19T18:32:11.906Z
-updated: 2024-05-20T18:32:11.906Z
+date: 2024-06-25T04:05:48.745Z
+updated: 2024-06-26T04:05:48.745Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to fix runtime error 424 object required error in Excel 2016
 excerpt: This article describes How to fix runtime error 424 object required error in Excel 2016
 keywords: repair damaged .xlb,repair damaged .xlsm,repair corrupt .xltx files,repair damaged .xlb files,repair corrupt .xlsm files,repair excel 2016,repair .xls,repair corrupt excel file,repair excel 2007,repair .csv
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## How to fix runtime error 424 object required error in Excel
@@ -523,8 +523,7 @@ When you apply filters to a single sheet in a grouped set, Excel disables the fi
 
 - In the Excel file, go to the **Group** section.
 
-![Excel file navigation: Accessing the Group section
-](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-group-section-1024x114.jpg)
+![Excel file navigation: Accessing the Group section](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-group-section-1024x114.jpg)
 
 - Right-click on the **Ungroup Sheets.**
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Move Contacts From Motorola Defy 2 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T01:53:50.669Z
-updated: 2024-05-01T01:53:50.669Z
+date: 2024-06-25T04:03:58.988Z
+updated: 2024-06-26T04:03:58.988Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Motorola Defy 2 to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Motorola Defy 2 to iPhone (13/14/15)
 keywords: transfer from android to mac,transfer from android to android,transfer from Motorola Defy 2 to mac,transfer from android to ipad,transfer from Motorola Defy 2 to ipad,transfer from Motorola Defy 2 to pc,transfer from android to iphone,transfer from Motorola Defy 2 to android,transfer from Motorola Defy 2 to iphone,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## 5 Ways to Move Contacts From Motorola Defy 2 to iPhone (13/14/15)
@@ -270,7 +270,7 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 - **Step 6:** On your Android smartphone, key in the code displayed on your iPhone screen.
 - **Step 7:** Choose **Contacts.** After that, wait for the data transfer to start and finish.
 
-### Method 5: Copy contacts from Motorola Defy 2 to iPhone using [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Method 5: Copy contacts from Motorola Defy 2 to iPhone using Wondershare Dr.Fone
 
 The easiest way to export contacts from Motorola Defy 2 to iPhone is by means of third-party phone transfer software. Wondershare Dr.Fone is one of the best tools that can help you a lot in this regard. Its phone transfer feature is designed to initiate and complete data migration with just the snap of a finger. Here’s a short guide on how to use it in easy steps.
 

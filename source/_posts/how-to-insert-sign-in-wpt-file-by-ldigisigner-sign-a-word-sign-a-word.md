@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .wpt file
-date: 2024-05-19T18:32:13.231Z
-updated: 2024-05-20T18:32:13.231Z
+date: 2024-06-25T04:06:07.049Z
+updated: 2024-06-26T04:06:07.049Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert sign in .wpt file
 excerpt: This article describes How to insert sign in .wpt file
 keywords: .dot file signature online,.rtf file signature free,.docx file signature service,free sign .docm file,.ott file signer online
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## 1. How to insert sign in .wpt file
@@ -39,9 +39,7 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 ### 2.2. Instructions on how to create electronic signature in Word
 
-These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 
